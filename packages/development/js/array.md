@@ -69,5 +69,8 @@ title: Arrays
 
 ## Remove array item
 
-* [***GitHub*** gist](https://gist.github.com/chad3814/2924672)
+* ***MozDev*** [Array.prototype.filter()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
+  > The filter() method creates a new array with all elements that pass the test implemented by the provided function.
+
+* ***GitHub*** [gist](https://gist.github.com/chad3814/2924672)
   > deleting array items in javascript with forEach() and splice()
