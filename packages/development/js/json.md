@@ -11,3 +11,8 @@ title: JSON
 
 * [Paw REST Client](https://paw.cloud/)
   > The most advanced API tool for Mac
+
+# Services
+
+* [JSONbin.io](https://jsonbin.io/)
+  > JSONbin.io is a simple JSON storage service for free. You can use it for your website or mobile apps.

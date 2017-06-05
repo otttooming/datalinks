@@ -10,3 +10,6 @@ title: Split pane
 
 * [NG-Split](https://github.com/scahitdemir/ng-split)
   > Angular.js wrapper for Split.js
+
+* [An AngularJS Split Pane directive](https://github.com/shagstrom/angular-split-pane)
+  > An AngularJS Split Pane directive

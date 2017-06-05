@@ -19,6 +19,8 @@ title: Scroll
 * ***MozDev*** [Element.scrollIntoView()](https://developer.mozilla.org/en/docs/Web/API/Element/scrollIntoView)
 * ***Polyfill*** [smooth scroll polyfill](https://github.com/iamdustan/smoothscroll)
 
+* ***CssTricks*** [Smooth Scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+
 ## Alternative
 
 * ***GitHub*** [Zenscroll](https://github.com/zengabor/zenscroll)
@@ -42,4 +44,3 @@ title: Scroll
 
 The Element.getBoundingClientRect() method returns the size of an element and its position relative to the viewport.
 * ***MDN*** [getBoundingClientRect](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)
-
