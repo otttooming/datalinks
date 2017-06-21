@@ -3,6 +3,10 @@ layout: page
 title: Reading material
 ---
 
+## General
+
+* ***GitHub*** [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
 ## JavaScript
 
 * [JS tips](https://github.com/loverajoel/jstips)
