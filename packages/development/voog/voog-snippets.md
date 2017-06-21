@@ -1,43 +1,4 @@
-# Common commands
-
-* Guard agianst Ruby errors
-
-```bash
-  bundle exec guard
-```
-
-## Find view controller
-
-### [Can I get the name of the current controller in the view?](http://stackoverflow.com/questions/3757491/can-i-get-the-name-of-the-current-controller-in-the-view)
-
-```ruby
-  <% params[:controller] %>
-  <% controller_name %>
-
-  #to get controller name:
-  <%= controller.controller_name %>
-  #=> 'users'
-
-  #to get action name, it is the method:
-  <%= controller.action_name %>
-  #=> 'show'
-
-  #to get id information:
-  <%= ActionController::Routing::Routes.recognize_path(request.url)[:id] %>
-  #=> '23'
-```
-
-## Viable gems
-
-* [Browser detection with Ruby](https://github.com/fnando/browser)
-
-# Documentation
-
-## Private pages
-
-* ***Voog Developers*** [Page](https://www.voog.com/developers/markup/objects/page)
-
-### Snippet
+# Snippets
 
 Log out users when they have entered site through private link.
 
