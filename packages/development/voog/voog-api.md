@@ -3,8 +3,7 @@ layout: page
 title: API
 ---
 
-
-### Element search
+# Element search
 
 > Ehitab elementide otsingut search vormiga - see jubin lõhub urlist parameetrid välja ja täidab selle otsinguvormi uuesti ära
 
