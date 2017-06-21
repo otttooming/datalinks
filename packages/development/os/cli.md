@@ -13,3 +13,9 @@ layout: page
 
 * ***GitHub*** [hyper.js](https://github.com/zeit/hyper)
   > A terminal built on web technologies
+
+# Logs
+
+```
+  tail -f -n 200 log/development.log
+```
