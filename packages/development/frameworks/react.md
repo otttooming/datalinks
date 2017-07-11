@@ -9,3 +9,6 @@ title: React.js
 
 * ***GitHub*** [airbnb/react-dates](https://github.com/airbnb/react-dates)
   > An easily internationalizable, mobile-friendly datepicker library for the web
+
+* ***GitHub*** [airbnb/rheostat](https://github.com/airbnb/rheostat)
+  > Rheostat is a www, mobile, and accessible slider component built with React
