@@ -15,3 +15,8 @@ title: React.js
 
 * ***GitHub*** [react-virtualized](https://github.com/bvaughn/react-virtualized)
   > React components for efficiently rendering large lists and tabular data
+
+* ***GitHub*** [react-motion](https://github.com/chenglou/react-motion)
+  > A spring that solves your animation problems.
+
+* ***GitHub*** [react-modal](https://github.com/reactjs/react-modal)
