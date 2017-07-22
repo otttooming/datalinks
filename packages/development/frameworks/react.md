@@ -12,3 +12,6 @@ title: React.js
 
 * ***GitHub*** [airbnb/rheostat](https://github.com/airbnb/rheostat)
   > Rheostat is a www, mobile, and accessible slider component built with React
+
+* ***GitHub*** [react-virtualized](https://github.com/bvaughn/react-virtualized)
+  > React components for efficiently rendering large lists and tabular data
