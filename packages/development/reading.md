@@ -30,6 +30,8 @@ title: Reading material
 
 * ***GitHub*** [React/Redux Links](https://github.com/markerikson/react-redux-links)
 
+* ***Medium*** [Our entire team of engineers use this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
+
 ## Examples
 
 * [jQuery source viewer](http://james.padolsey.com/jquery/)
