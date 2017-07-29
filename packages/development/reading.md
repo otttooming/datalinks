@@ -32,6 +32,9 @@ title: Reading material
 
 * ***Medium*** [Our entire team of engineers use this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 
+* ***GitHub*** [project-guidelines](https://github.com/wearehive/project-guidelines)
+  > A set of best practices for JavaScript projects
+
 ## Examples
 
 * [jQuery source viewer](http://james.padolsey.com/jquery/)
