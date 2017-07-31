@@ -5,6 +5,9 @@ title: Time
 
 ## Timezone
 
+* ***GitHub*** [spacetime](https://github.com/smallwins/spacetime)
+  > A lightweight way to handle timezones in js
+
 * [Moment Timezone](http://momentjs.com/timezone/)
   > Parse and display dates in any timezone.
 
