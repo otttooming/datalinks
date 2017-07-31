@@ -13,3 +13,8 @@ title: Editor
 
 * ***GitHub*** [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode)
   > EditorConfig extension for Visual Studio Code
+
+
+# Typefaces
+
+* ***GitHub*** [FiraCode](https://github.com/tonsky/FiraCode)
