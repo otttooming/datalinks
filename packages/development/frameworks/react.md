@@ -20,3 +20,6 @@ title: React.js
   > A spring that solves your animation problems.
 
 * ***GitHub*** [react-modal](https://github.com/reactjs/react-modal)
+
+* ***GitHub*** [react-autosuggest](https://github.com/moroshko/react-autosuggest)
+  > WAI-ARIA compliant React autosuggest component 
