@@ -10,9 +10,6 @@ title: React.js
 * ***GitHub*** [airbnb/react-dates](https://github.com/airbnb/react-dates)
   > An easily internationalizable, mobile-friendly datepicker library for the web
 
-* ***GitHub*** [airbnb/rheostat](https://github.com/airbnb/rheostat)
-  > Rheostat is a www, mobile, and accessible slider component built with React
-
 * ***GitHub*** [react-virtualized](https://github.com/bvaughn/react-virtualized)
   > React components for efficiently rendering large lists and tabular data
 
@@ -23,3 +20,11 @@ title: React.js
 
 * ***GitHub*** [react-autosuggest](https://github.com/moroshko/react-autosuggest)
   > WAI-ARIA compliant React autosuggest component 
+
+## Slider
+
+* ***GitHub*** [airbnb/rheostat](https://github.com/airbnb/rheostat)
+  > Rheostat is a www, mobile, and accessible slider component built with React
+
+* ***GitHub*** [noUiSlider](https://github.com/leongersen/noUiSlider/)
+  > noUiSlider is lightweight JavaScript range slider
