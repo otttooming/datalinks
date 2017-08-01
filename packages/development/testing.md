@@ -12,3 +12,6 @@ title: Testing
 * ***Google Developers*** [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
 
 * ***GitHub*** [chrome-headless-screenshots](https://github.com/schnerd/chrome-headless-screenshots)
+
+* ***GitHub*** [chromeless](https://github.com/graphcool/chromeless)
+  > Chrome automation made simple. Runs locally or headless on AWS Lambda.
