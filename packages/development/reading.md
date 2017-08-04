@@ -35,6 +35,11 @@ title: Reading material
 * ***GitHub*** [project-guidelines](https://github.com/wearehive/project-guidelines)
   > A set of best practices for JavaScript projects
 
+### React
+
+* ***GitBooks*** [React Bits](https://vasanthk.gitbooks.io/react-bits/)
+  > A compilation of React Patterns, techniques, tips and tricks.
+
 ## Examples
 
 * [jQuery source viewer](http://james.padolsey.com/jquery/)
