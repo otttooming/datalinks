@@ -3,6 +3,12 @@ layout: page
 title: Git
 ---
 
+# Commands
+
+* Create a branch from a commit
+
+  > ```git branch branchname <sha1-of-commit>```
+
 # Apps
 
 * [Ship](https://www.realartists.com)
