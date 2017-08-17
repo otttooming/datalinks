@@ -15,3 +15,6 @@ title: Testing
 
 * ***GitHub*** [chromeless](https://github.com/graphcool/chromeless)
   > Chrome automation made simple. Runs locally or headless on AWS Lambda.
+
+* ***GitHub*** [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+  > Puppeteer is a Node library which provides a high-level API to control headless Chrome over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome.
