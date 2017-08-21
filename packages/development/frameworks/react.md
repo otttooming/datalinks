@@ -19,7 +19,10 @@ title: React.js
 * ***GitHub*** [react-modal](https://github.com/reactjs/react-modal)
 
 * ***GitHub*** [react-autosuggest](https://github.com/moroshko/react-autosuggest)
-  > WAI-ARIA compliant React autosuggest component 
+  > WAI-ARIA compliant React autosuggest component
+
+* ***GitHub*** [react-tippy](https://github.com/tvkhoa/react-tippy/)
+  > A lightweight tooltip for React. Based on tippy.js and powered by Popper.js
 
 ## Slider
 
