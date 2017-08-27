@@ -31,3 +31,9 @@ title: React.js
 
 * ***GitHub*** [noUiSlider](https://github.com/leongersen/noUiSlider/)
   > noUiSlider is lightweight JavaScript range slider
+
+## Drag and drop
+
+* ***GitHub*** [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+  > Beautiful, accessible drag and drop for lists with React.js
+  
