@@ -21,3 +21,6 @@ title: Testing
 
 * ***GitHub*** [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron)
   > Rendertron is a dockerized, headless Chrome rendering solution designed to render & serialise web pages on the fly.
+
+* ***GitHub*** [thal](https://github.com/emadehsan/thal)
+  > Getting started with Puppeteer and Chrome Headless for Web Scraping
