@@ -24,3 +24,9 @@ title: Testing
 
 * ***GitHub*** [thal](https://github.com/emadehsan/thal)
   > Getting started with Puppeteer and Chrome Headless for Web Scraping
+
+# Visual regression testing
+
+* ***GitHub*** [BackstopJS](https://github.com/garris/BackstopJS)
+  > BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
+  > Render with Chrome Headless, Phantom and Slimer
