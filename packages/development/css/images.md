@@ -9,6 +9,10 @@ openssl base64 < play.svg
 
 echo "background: url('data:image/svg+xml;base64,"$(openssl base64 < path/to/file.svg)"');"
 
+# Best practices
+
+* [Essential Image Optimization](https://images.guide/)
+
 # Responsive
 
 * ***CSS tricks*** [Img srcset](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
