@@ -13,6 +13,8 @@ echo "background: url('data:image/svg+xml;base64,"$(openssl base64 < path/to/fil
 
 * [Essential Image Optimization](https://images.guide/)
 
+* [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
+
 # Responsive
 
 * ***CSS tricks*** [Img srcset](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
