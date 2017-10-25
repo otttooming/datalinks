@@ -5,9 +5,17 @@ title: Git
 
 # Commands
 
+* Checkout a Remote Branch
+
+```
+  git checkout -b feature-branch origin/feature-branch
+```
+
 * Create a branch from a commit
 
-  > ```git branch branchname <sha1-of-commit>```
+```
+  git branch branchname <sha1-of-commit>
+```
 
 # Apps
 
