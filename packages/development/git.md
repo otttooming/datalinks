@@ -17,6 +17,12 @@ title: Git
   git branch branchname <sha1-of-commit>
 ```
 
+* List all available remote branches
+
+```
+  git branch -r
+```
+
 # Apps
 
 * [Ship](https://www.realartists.com)
