@@ -14,6 +14,8 @@ title: Editor
 * ***GitHub*** [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode)
   > EditorConfig extension for Visual Studio Code
 
+* ***GitHub*** [prettier-vscode](https://github.com/prettier/prettier-vscode)
+  > Visual Studio Code plugin for Prettier
 
 # Typefaces
 
