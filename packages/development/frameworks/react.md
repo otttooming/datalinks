@@ -37,3 +37,8 @@ title: React.js
 * ***GitHub*** [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
   > Beautiful, accessible drag and drop for lists with React.js
   
+# Example projects
+
+* ***GitHub*** [RAN! React . GraphQL . Next.js Toolkit](https://github.com/Sly777/ran)
+  > SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
+  
