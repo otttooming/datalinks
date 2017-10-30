@@ -3,6 +3,14 @@ layout: page
 title: Filters
 ---
 
+## drop-shadow()
+
+* ***CSS-Tricks*** [Breaking down CSS Box Shadow vs. Drop Shadow](https://css-tricks.com/breaking-css-box-shadow-vs-drop-shadow/)
+
+* ***MDN*** [drop-shadow()](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow)
+
+## Backdrop filter
+
 * ***WebKit*** [Backdrop filters](https://webkit.org/blog/3632/introducing-backdrop-filters/)
 
 * ***MozDev*** [Backdrop filters](https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter)
