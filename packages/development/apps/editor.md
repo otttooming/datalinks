@@ -16,6 +16,8 @@ title: Editor
 
 * ***GitHub*** [prettier-vscode](https://github.com/prettier/prettier-vscode)
   > Visual Studio Code plugin for Prettier
+  
+* ***GitHub*** [typescript-hero](https://github.com/buehler/typescript-hero)
 
 # Typefaces
 
