@@ -10,6 +10,9 @@ title: Google Chrome
 * [AdNauseam](https://adnauseam.io)
   > AdNauseam works to complete the cycle by automating Ad clicks universally and blindly on behalf of its users.
 
+* ***GitHub*** [uBlock Origin](https://github.com/gorhill/uBlock)
+  > An efficient blocker for Chromium and Firefox. Fast and lean.
+
 ## Automatisation
 
 * **HN** [Chrome 59 has cross-platform headless support](https://news.ycombinator.com/item?id=14101233)
