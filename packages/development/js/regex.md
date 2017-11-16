@@ -22,3 +22,10 @@ title: Regular expressions
 ```js
   \n.*?-(moz|o|webkit|ms|khtml)\-(?!font-smoothing|osx|print|backface).+?;
 ```
+
+# Validators
+
+```js
+  const INTEGER_REGEXP = /^\d*$/;
+  const DECIMAL_REGEXP = /^(\s*|\d+\.?\d*)$/;
+```
