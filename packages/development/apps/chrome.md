@@ -13,6 +13,10 @@ title: Google Chrome
 * ***GitHub*** [uBlock Origin](https://github.com/gorhill/uBlock)
   > An efficient blocker for Chromium and Firefox. Fast and lean.
 
+* ***GitHub*** [react-devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
+  > If you need to debug a React page somewhere other than Chrome on desktop.
+  > Separate Electron app
+
 ## Automatisation
 
 * **HN** [Chrome 59 has cross-platform headless support](https://news.ycombinator.com/item?id=14101233)
