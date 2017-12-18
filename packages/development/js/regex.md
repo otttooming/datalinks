@@ -7,6 +7,8 @@ title: Regular expressions
 * ***GitHub*** [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
 * [regexhub](https://projects.lukehaas.me/regexhub/)
   > Useful Regex Patterns
+* ***GitHub*** [RegexHQ](https://github.com/regexhq)
+  > Collaboration on world-wide community-driven collections of RegExp patterns and tools that can make our life easier.
 
 # Snippets
 
