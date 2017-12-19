@@ -21,6 +21,11 @@ title: Scroll
 
 * ***CssTricks*** [Smooth Scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
 
+## React
+
+* ***GitHub*** [React Scroll-To](https://github.com/ganderzz/react-scroll-to)
+  > A React component that helps in scrolling around a page.
+
 ## Alternative
 
 * ***GitHub*** [Zenscroll](https://github.com/zengabor/zenscroll)
