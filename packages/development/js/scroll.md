@@ -34,6 +34,9 @@ title: Scroll
 
 * ***GitHub*** [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
 
+* ***GitHub*** [better-scroll](https://github.com/ustbhuangyi/better-scroll)
+ > inspired by iscroll, and it has a better scroll perfermance
+
 # Prevent scroll leaking
 
 ## Best case solution
