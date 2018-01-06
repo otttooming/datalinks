@@ -32,3 +32,11 @@ layout: page
 ```
 
 * ***CSS-tricks*** ['font-display' for the Masses](https://css-tricks.com/font-display-masses/)
+
+# Typeface vertical alignment
+
+* ***SO*** [Different font vertical align in line on OS X](https://stackoverflow.com/questions/26100141/different-font-vertical-align-in-line-on-os-x)
+
+* ***SO*** [Font Rendering / Line-Height Issue on Mac/PC (outside of element)](https://stackoverflow.com/questions/11726442/font-rendering-line-height-issue-on-mac-pc-outside-of-element)
+
+* ***SO*** [Font: poor vertical metrics cause inconsistent line-height rendering across browsers. Solution?](https://stackoverflow.com/questions/33633992/font-poor-vertical-metrics-cause-inconsistent-line-height-rendering-across-brow)
