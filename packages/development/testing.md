@@ -44,3 +44,7 @@ title: Testing
 
 * ***GitHub*** [graphcool/chromeless](https://github.com/graphcool/chromeless)
   > Chrome automation made simple. Runs locally or headless on AWS Lambda.
+
+## Articles
+
+* [Visual regression testing using Jest, Chromeless and AWS Lambda](https://novemberfive.co/blog/visual-regression-testing-jest-chromeless-lambda/)
