@@ -6,6 +6,9 @@ layout: page
 * ***GitHub*** [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
   > A curated list of shell commands and tools specific to OS X.
 
+* ***GitHub*** [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
+  > A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+
 # Terminals
 
 * ***GitHub*** [Black Screen](https://github.com/vshatskyi/black-screen)
