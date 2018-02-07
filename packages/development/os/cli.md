@@ -9,6 +9,9 @@ layout: page
 * ***GitHub*** [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
   > A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
+* ***GitHub*** [bhilburn/powerlevel9k](https://github.com/bhilburn/powerlevel9k)
+  > Powerlevel9k is a theme for ZSH
+
 # Terminals
 
 * ***GitHub*** [Black Screen](https://github.com/vshatskyi/black-screen)
