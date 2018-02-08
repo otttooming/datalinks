@@ -6,3 +6,7 @@
 
 # Types
 * ***GitHub*** [wordpress-api](https://github.com/dderevjanik/wordpress-api/tree/master/lib/interface)
+
+# Bugs
+
+* ***GitHub*** [Enums can no longer be used for index signature types](https://github.com/Microsoft/TypeScript/issues/13042)
