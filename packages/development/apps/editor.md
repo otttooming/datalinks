@@ -9,7 +9,9 @@ title: Editor
   > Enable Sublime style 'Column Selection', allowing you to drag across lines to select a block of text with carets on each line.
   > Also similar to Textmate's 'Multiple Carets', or BBEdit's 'Block Select'
 
-# Visual Studio Code extensions
+# Visual Studio Code
+
+## Extensions
 
 * ***GitHub*** [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode)
   > EditorConfig extension for Visual Studio Code
@@ -18,6 +20,10 @@ title: Editor
   > Visual Studio Code plugin for Prettier
   
 * ***GitHub*** [typescript-hero](https://github.com/buehler/typescript-hero)
+
+## Themes
+
+* [vscodethemes](https://vscodethemes.com/)
 
 # Typefaces
 
