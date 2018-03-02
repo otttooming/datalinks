@@ -3,6 +3,21 @@ layout: page
 title: Arrays
 ---
 
+# Functional programming
+
+## Conditionally add item to array
+
+```js
+  [
+    true && 'one',
+    false && 'two',
+    1 === 1 && 'three',
+    1 + 1 === 9 && 'four'
+  ].filter(Boolean) // ['one', 'three']
+```
+
+# ES5
+
 ## Array contains
 
 ```js
@@ -68,9 +83,6 @@ title: Arrays
 ```
 
 ## Remove array item
-
-* ***MozDev*** [Array.prototype.filter()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
-  > The filter() method creates a new array with all elements that pass the test implemented by the provided function.
 
 * ***GitHub*** [gist](https://gist.github.com/chad3814/2924672)
   > deleting array items in javascript with forEach() and splice()
