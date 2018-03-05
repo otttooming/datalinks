@@ -36,6 +36,8 @@ P2732-T775   Feb 19 14:52:04:767960 Info ( 491): Start main thread run loop.
 
 ### Solution #1
 
+* [How to Load & Unload Kernel Extensions in OS X](http://osxdaily.com/2015/06/24/load-unload-kernel-extensions-mac-os-x/)
+
 ```bash
   cd /Applications/GlobalProtect.app/Contents/
   sudo kextunload ./Resources/pangpd_10.9.kext
