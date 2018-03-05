@@ -33,3 +33,11 @@ P2732-T775   Feb 19 14:52:04:767960 Info ( 491): Start main thread run loop.
 * [globalprotect pangpd failed to load - Google Search](https://www.google.ee/search?biw=1680&bih=931&ei=1tuKWpWeEtCRsAfbgLCQDA&q=globalprotect+pangpd+failed+to+load&oq=globalprotect+pangpd+failed+to+load&gs_l=psy-ab.3...23001.35735.0.35952.26.26.0.0.0.0.175.2457.13j11.24.0....0...1.1j2.64.psy-ab..2.19.1964...0i13k1j0i13i30k1j33i160k1j33i21k1.0.F8bZSOL4WfU)
 * [Technical Note TN2459: User-Approved Kernel Extension Loading](https://developer.apple.com/library/content/technotes/tn2459/_index.html)
 * [Kext Issue/Unable to Unload Kext | ExpressVPN](https://www.expressvpn.com/support/troubleshooting/log-items/unable-to-connect-kext-issue-unable-to-unload-kext/)
+
+### Solution #1
+
+```bash
+  cd /Applications/GlobalProtect.app/Contents/
+  sudo kextunload ./Resources/pangpd_10.9.kext
+  sudo kextload ./Resources/pangpd_10.9.kext
+```
