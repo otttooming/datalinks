@@ -50,3 +50,16 @@ title: Testing
 ## Articles
 
 * [Visual regression testing using Jest, Chromeless and AWS Lambda](https://novemberfive.co/blog/visual-regression-testing-jest-chromeless-lambda/)
+
+# Snippets
+
+### Mock offsetWidth
+
+```js
+  Object.defineProperty(HTMLSpanElement.prototype, "offsetWidth", {
+							   get: function(){return 5;},
+                               });
+
+  var x = document.getElementById("testspan");
+  window.alert( x.offsetWidth );
+```
