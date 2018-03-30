@@ -12,3 +12,34 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 
 http://breakpoint-sass.com
+
+# Referencing selectors
+
+On Sass 3.4:
+
+```scss
+  .semantic {
+      @at-root {
+        ul#{&} {
+          padding: 0;
+          margin: 0;
+        }
+        p#{&} {
+          margin: 0;
+        }
+      }
+  }
+```
+
+Generates:
+
+```scss
+  ul.semantic {
+    padding: 0;
+    margin: 0;
+  }
+
+  p.semantic {
+    margin: 0;
+  }
+```
