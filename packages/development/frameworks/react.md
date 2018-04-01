@@ -46,3 +46,5 @@ title: React.js
 
 * ***GitHub*** [react-waterfall](https://github.com/didierfranc/react-waterfall)
   > React store built on top of the new context API
+
+* ***Medium*** [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
