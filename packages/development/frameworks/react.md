@@ -50,3 +50,5 @@ title: React.js
 * ***Medium*** [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
 
 * [jamiebuilds/unstated](https://github.com/jamiebuilds/unstated)
+
+* [How to use a setState Updater Function with a Reducer Pattern](https://codedaily.io/tutorials/40/How-to-use-a-setState-Updater-Function-with-a-Reducer-Pattern)
