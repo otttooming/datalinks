@@ -42,3 +42,7 @@ title: React.js
 * ***GitHub*** [RAN! React . GraphQL . Next.js Toolkit](https://github.com/Sly777/ran)
   > SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
   
+# Store
+
+* ***GitHub*** [react-waterfall](https://github.com/didierfranc/react-waterfall)
+  > React store built on top of the new context API
