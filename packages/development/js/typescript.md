@@ -10,3 +10,7 @@
 # Bugs
 
 * ***GitHub*** [Enums can no longer be used for index signature types](https://github.com/Microsoft/TypeScript/issues/13042)
+
+# Imports
+
+* [Say Goodbye to ‘../../../..’ in your TypeScript Imports](https://decembersoft.com/posts/say-goodbye-to-relative-paths-in-typescript-imports/)
