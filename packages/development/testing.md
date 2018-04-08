@@ -36,6 +36,9 @@ title: Testing
 * [Resemble.js : Image analysis and comparison](https://huddle.github.io/Resemble.js/)
   > Resemble.js analyses and compares images with HTML5 canvas and JavaScript.
 
+* ***GitHub*** [oblador/loki](https://github.com/oblador/loki)
+  > Visual Regression Testing for Storybook
+
 * ***GitHub*** [Visual/CSS regression testing with PhantomJS](https://github.com/Huddle/PhantomCSS)
 
 * ***GitHub*** [webdrivercss](https://github.com/webdriverio/webdrivercss)
