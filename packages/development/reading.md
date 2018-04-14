@@ -35,6 +35,8 @@ title: Reading material
 * ***GitHub*** [project-guidelines](https://github.com/wearehive/project-guidelines)
   > A set of best practices for JavaScript projects
 
+* [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+
 ### React
 
 * ***GitBooks*** [React Bits](https://vasanthk.gitbooks.io/react-bits/)
