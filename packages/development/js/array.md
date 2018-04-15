@@ -3,6 +3,16 @@ layout: page
 title: Arrays
 ---
 
+# Conditionals
+
+## Array exists
+
+```js
+  if (!Array.isArray(array) || !array.length) {
+    // array does not exist, is not an array, or is empty
+  }
+```
+
 # Functional programming
 
 ## Conditionally add item to array
