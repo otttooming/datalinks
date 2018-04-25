@@ -44,6 +44,15 @@ title: Scroll
 
 # Prevent scroll leaking
 
+## overscroll-behavior: contain
+* [Scroll to the future, April 12, 2018](https://evilmartians.com/chronicles/scroll-to-the-future-modern-javascript-css-scrolling-implementations)
+
+```css
+.element {
+  overscroll-behavior: contain;
+}
+```
+
 ## Best case solution
 * ***GitHub*** [scrollable-overlay](https://github.com/Luxiyalu/scrollable-overlay)
   > Prevent body from scrolling when overlay is on, with pure CSS.
