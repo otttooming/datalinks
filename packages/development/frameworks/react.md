@@ -23,6 +23,9 @@ title: React.js
 
 * ***GitHub*** [react-tippy](https://github.com/tvkhoa/react-tippy/)
   > A lightweight tooltip for React. Based on tippy.js and powered by Popper.js
+  
+* ***GitHub*** [oliviertassinari/react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views)
+  > A React component for swipeable views
 
 ## Slider
 
