@@ -21,6 +21,8 @@ title: Editor
   
 * ***GitHub*** [typescript-hero](https://github.com/buehler/typescript-hero)
 
+* ***GitHub*** [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
+
 ## Themes
 
 * [vscodethemes](https://vscodethemes.com/)
