@@ -32,6 +32,8 @@ title: Testing
 * ***GitHub*** [BackstopJS](https://github.com/garris/BackstopJS)
   > BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
   > Render with Chrome Headless, Phantom and Slimer
+  
+* ***GitHub*** [americanexpress/jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot)
 
 * [Resemble.js : Image analysis and comparison](https://huddle.github.io/Resemble.js/)
   > Resemble.js analyses and compares images with HTML5 canvas and JavaScript.
