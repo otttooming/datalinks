@@ -70,6 +70,8 @@ https://github.com/dimsemenov/PhotoSwipe/issues/860
 
 # Image preloading
 
+* ***GitHub*** [jasonslyvia/react-lazyload](https://github.com/jasonslyvia/react-lazyload)
+
 * ***GitHub*** [Coloor - Image preloading utility](https://github.com/krasimir/coloor)
   > Coloor is a HTML preprocessor that decorates your <img> tags with data-coloor attributes containing a small base64 encoded version of your image. The idea is to quickly show the small image as a placeholder while the original one is loading.
 
@@ -82,3 +84,4 @@ https://github.com/dimsemenov/PhotoSwipe/issues/860
 
 * ***WikiPedia*** [Better Portable Graphics](https://en.wikipedia.org/wiki/Better_Portable_Graphics)
   > Based on High Efficiency Video Coding (HVEC)
+
