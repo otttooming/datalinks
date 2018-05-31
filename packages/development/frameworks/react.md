@@ -55,3 +55,7 @@ title: React.js
 * [jamiebuilds/unstated](https://github.com/jamiebuilds/unstated)
 
 * [How to use a setState Updater Function with a Reducer Pattern](https://codedaily.io/tutorials/40/How-to-use-a-setState-Updater-Function-with-a-Reducer-Pattern)
+
+# HOC
+
+* [React Higher-Order Components in TypeScript](https://medium.com/@jrwebdev/react-higher-order-component-patterns-in-typescript-42278f7590fb)
