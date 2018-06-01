@@ -3,6 +3,11 @@ layout: page
 title: Testing
 ---
 
+# Component storybooks
+
+* ***GitHub*** [c8r/kit](https://github.com/c8r/kit)
+  > Tools for developing, documenting, and testing React component libraries
+
 # Browser testing
 
 * ***Medium*** [How to set up E2E browser testing for your GitHub project](https://hackernoon.com/how-to-set-up-e2e-browser-testing-for-your-github-project-89c24e15a84#.k0ww3req1)
