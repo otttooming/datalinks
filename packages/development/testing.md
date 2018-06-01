@@ -38,6 +38,9 @@ title: Testing
 * [Resemble.js : Image analysis and comparison](https://huddle.github.io/Resemble.js/)
   > Resemble.js analyses and compares images with HTML5 canvas and JavaScript.
 
+* ***GitHub*** [storybook/addons/storyshots/](https://github.com/storybooks/storybook/tree/master/addons/storyshots)
+  > StoryShots adds automatic Jest Snapshot Testing for Storybook.
+
 * ***GitHub*** [oblador/loki](https://github.com/oblador/loki)
   > Visual Regression Testing for Storybook
 
