@@ -6,9 +6,19 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+        <!-- Normalize or reset CSS with your favorite library -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+
+        <!-- Load paper.css for happy printing -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/paper-css/0.3.0/paper.css">
+
+        <!-- Set page size here: A5, A4 or A3 -->
+        <!-- Set also "landscape" if you need -->
+        <style>@page { size: A4 }</style>
+
         <style>
             html {
-                margin: 2.54cm 2.25cm 2.54cm 3cm;
+                /* margin: 2.54cm 2.25cm 2.54cm 3cm; */
                 font-size: 10pt;
             }
 
@@ -75,166 +85,172 @@
         </style>
     </head>
 
-    <body>
-        <h1>Curriculum Vitae</h1>
+    <body  class="A4">
 
-        <table class="table-small">
-            <tr>
-                <td>Name</td>
-                <td>Ott Tooming</td>
-            </tr>
-            <tr>
-                <td><br></td>
-                <td><br></td>
-            </tr>
-            <tr>
-                <td>Address</td>
-                <td>Sepavälja 34, Tartu, Estonia</td>
-            </tr>
-            <tr>
-                <td>Telephone</td>
-                <td>+372 5397 1407</td>
-            </tr>
-            <tr>
-                <td>Email</td>
-                <td>OttTooming@gmail.com</td>
-            </tr>
-            <tr>
-                <td><br></td>
-                <td><br></td>
-            </tr>
-            <tr>
-                <td>GitHub</td>
-                <td>github.com/otttooming</td>
-            </tr>
-            <tr>
-                <td>LinkedIn</td>
-                <td>linkedin.com/in/otttooming</td>
-            </tr>
-        </table>
-        
-        <section>
-            <h2>Education</h2>
-    
+        <!-- Each sheet element should have the class "sheet" -->
+        <!-- "padding-**mm" is optional: you can set 10, 15, 20 or 25 -->
+        <section class="sheet padding-25mm">
+
+            <h1>Curriculum Vitae</h1>
+
             <table class="table-small">
                 <tr>
-                    <td>
-                        <p>2016 – ...</p>
-                        <p>3.5 years</p>
-                    </td>
-                    <td>
-                        <h3 class="mb1">Estonian Entrepreneurship University of Applied Sciences</h3>
-                        <p>Web technologies (form of study: distance learning)</p>
-                        <p><em>Expected graduation date: spring 2020</em></p>
-                    </td>
+                    <td>Name</td>
+                    <td>Ott Tooming</td>
                 </tr>
                 <tr>
-                    <td>
-                        <p>2014 – 2016</p>
-                        <p>2 years</p>
-                    </td>
-                    <td>
-                        <h3 class="mb1">Tartu Vocational Education Centre</h3>
-                        <p>Vocational degree: Multimedium (Web specialist)</p>
-                    </td>
+                    <td><br></td>
+                    <td><br></td>
                 </tr>
                 <tr>
-                    <td>
-                        <p>2006 – 2009</p>
-                    </td>
-                    <td>
-                        <h3>Tartu Adult Gymnasium</h3>
-                    </td>
+                    <td>Address</td>
+                    <td>Sepavälja 34, Tartu, Estonia</td>
                 </tr>
                 <tr>
-                    <td>
-                        <p>1994 – 2004</p>
-                    </td>
-                    <td>
-                        <h3>Tartu Art Gymnasium</h3>
-                    </td>
+                    <td>Telephone</td>
+                    <td>+372 5397 1407</td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td>OttTooming@gmail.com</td>
+                </tr>
+                <tr>
+                    <td><br></td>
+                    <td><br></td>
+                </tr>
+                <tr>
+                    <td>GitHub</td>
+                    <td>github.com/otttooming</td>
+                </tr>
+                <tr>
+                    <td>LinkedIn</td>
+                    <td>linkedin.com/in/otttooming</td>
                 </tr>
             </table>
+            
+            <section>
+                <h2>Education</h2>
+        
+                <table class="table-small">
+                    <tr>
+                        <td>
+                            <p>2016 – ...</p>
+                            <p>3.5 years</p>
+                        </td>
+                        <td>
+                            <h3 class="mb1">Estonian Entrepreneurship University of Applied Sciences</h3>
+                            <p>Web technologies (form of study: distance learning)</p>
+                            <p><em>Expected graduation date: spring 2020</em></p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>2014 – 2016</p>
+                            <p>2 years</p>
+                        </td>
+                        <td>
+                            <h3 class="mb1">Tartu Vocational Education Centre</h3>
+                            <p>Vocational degree: Multimedium (Web specialist)</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>2006 – 2009</p>
+                        </td>
+                        <td>
+                            <h3>Tartu Adult Gymnasium</h3>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>1994 – 2004</p>
+                        </td>
+                        <td>
+                            <h3>Tartu Art Gymnasium</h3>
+                        </td>
+                    </tr>
+                </table>
+            </section>
+
+            <section>
+                <h2>Work experience</h2>
+        
+                <table>
+                    <tr>
+                        <td>
+                            <p>2018 june – ...</p>
+                        </td>
+                        <td>
+                            <h3 class="mb1">gotoAndPlay OÜ, front-end developer</h3>
+                            <p>Building visual components for Telia. Using headless WordPress for TypeScript React and Redux stack with REST API.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>2017 may – 2018 june</p>
+                        </td>
+                        <td>
+                            <h3 class="mb1">OÜ Iglu, front-end developer</h3>
+                            <p>Attached to the Omniva project and tasked with developing their microservices based architecture from front end perspective using TypeScript, React and Redux stack. Strong emphasis for testing, TDD and visual regression testing using Jest/Enzyme.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>2015 april – 2017 may</p>
+                        </td>
+                        <td>
+                            <h3 class="mb1">Edicy OÜ, user interface developer</h3>
+                            <p>Building the VOOG CMS using Backbone.js and React. Coding design templates using Liquid and ES5 for customers and client projects. Initiating transition for email templates to use MJML.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p>2013 august – 2015 april</p>
+                        </td>
+                        <td>
+                            <h3 class="mb1">OÜ Aara Kaubandus, user interface developer</h3>
+                            <p>WordPress and WooCommerce developer managing migration of the product catalog from legacy systems and developing the new templates.</p>
+                        </td>
+                    </tr>
+                </table>
+            </section>
+
+            <section>
+                <h2>Certificates</h2>
+
+                <table>
+                    <tr>
+                        <td>
+                            <p>2016 june</p>
+                        </td>
+                        <td>
+                            <h3>EUCIP Core Level Certificate — Junior software developer, level 4</h3>
+                        </td>
+                    </tr>
+                </table>
+            </section>
+
+            <section>
+                <h2>Languages</h2>
+        
+                <table>
+                    <tr>
+                        <td>Estonian</td>
+                        <td>
+                            <p>native speaker</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>English</td>
+                        <td>
+                            <p>excellent proficiency</p>
+                        </td>
+                    </tr>
+                </table>
+            </section>
         </section>
 
-        <section>
-            <h2>Work experience</h2>
-    
-            <table>
-                <tr>
-                    <td>
-                        <p>2018 june – ...</p>
-                    </td>
-                    <td>
-                        <h3 class="mb1">gotoAndPlay OÜ, front-end developer</h3>
-                        <p>Building visual components for Telia. Using headless WordPress for TypeScript React and Redux stack with REST API.</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <p>2017 may – 2018 june</p>
-                    </td>
-                    <td>
-                        <h3 class="mb1">OÜ Iglu, front-end developer</h3>
-                        <p>Attached to the Omniva project and tasked with developing their microservices based architecture from front end perspective using TypeScript, React and Redux stack. Strong emphasis for testing, TDD and visual regression testing using Jest/Enzyme.</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <p>2015 april – 2017 may</p>
-                    </td>
-                    <td>
-                        <h3 class="mb1">Edicy OÜ, user interface developer</h3>
-                        <p>Building the VOOG CMS using Backbone.js and React. Coding design templates using Liquid and ES5 for customers and client projects. Initiating transition for email templates to use MJML.</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <p>2013 august – 2015 april</p>
-                    </td>
-                    <td>
-                        <h3 class="mb1">OÜ Aara Kaubandus, user interface developer</h3>
-                        <p>WordPress and WooCommerce developer managing migration of the product catalog from legacy systems and developing the new templates.</p>
-                    </td>
-                </tr>
-            </table>
-        </section>
-
-        <section>
-            <h2>Certificates</h2>
-
-            <table>
-                <tr>
-                    <td>
-                        <p>2016 june</p>
-                    </td>
-                    <td>
-                        <h3>EUCIP Core Level Certificate — Junior software developer, level 4</h3>
-                    </td>
-                </tr>
-            </table>
-        </section>
-
-        <section>
-            <h2>Languages</h2>
-    
-            <table>
-                <tr>
-                    <td>Estonian</td>
-                    <td>
-                        <p>native speaker</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td>English</td>
-                    <td>
-                        <p>excellent proficiency</p>
-                    </td>
-                </tr>
-            </table>
-        </section>
-
-        <section>
+        <section class="sheet padding-25mm">
             <h2>Technical competencies</h2>
     
             <table>
@@ -372,5 +388,6 @@
             <p><em>Participation with Omniva, Telia, Südameapteek and dStream projects was while employed for OÜ Iglu.</em></p>
             <p><em>Lasita, Ilmamaa projects while employed for Edicy OÜ.</em></p>
         </section>
+
     </body>
 </html>
