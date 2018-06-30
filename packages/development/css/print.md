@@ -3,6 +3,12 @@ layout: page
 title: Print
 ---
 
+# CSS
+
+* ***GitHub*** [cognitom/paper-css](https://github.com/cognitom/paper-css)
+
+# Misc
+
 <https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-inside> <https://developer.mozilla.org/en/docs/Web/CSS/page-break-after>
 
 ```css
