@@ -28,6 +28,9 @@ title: React.js
 * ***GitHub*** [oliviertassinari/react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views)
   > A React component for swipeable views
 
+* [ctrlplusb/react-sizeme](https://github.com/ctrlplusb/react-sizeme)
+  > Make your React Components aware of their width and height!
+
 ## Slider
 
 * ***GitHub*** [airbnb/rheostat](https://github.com/airbnb/rheostat)
