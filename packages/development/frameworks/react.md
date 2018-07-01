@@ -31,6 +31,9 @@ title: React.js
 * [ctrlplusb/react-sizeme](https://github.com/ctrlplusb/react-sizeme)
   > Make your React Components aware of their width and height!
 
+* [stereobooster/react-ideal-image](https://github.com/stereobooster/react-ideal-image)
+  > Adaptive image component
+
 ## Slider
 
 * ***GitHub*** [airbnb/rheostat](https://github.com/airbnb/rheostat)
