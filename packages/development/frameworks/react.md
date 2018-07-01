@@ -41,6 +41,14 @@ title: React.js
 * ***GitHub*** [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
   > Beautiful, accessible drag and drop for lists with React.js
   
+## Markdown
+
+* [jamesknelson/mdxc](https://github.com/jamesknelson/mdxc)
+  > Use React Components within Markdown
+  
+* [mdx-js/mdx](https://github.com/mdx-js/mdx)
+  > A fully-featured MDX parser, loader and JSX renderer for ambitious projects
+  
 # Example projects
 
 * ***GitHub*** [RAN! React . GraphQL . Next.js Toolkit](https://github.com/Sly777/ran)
