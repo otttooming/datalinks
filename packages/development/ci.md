@@ -1,6 +1,7 @@
 # Continuous integration
 
 * [CircleCI](https://circleci.com/)
+* [Google Cloud Build](https://cloud.google.com/cloud-build/)
 
 # Monoreps
 
