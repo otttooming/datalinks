@@ -23,6 +23,11 @@ title: Git
   git branch -r
 ```
 
+# Release
+
+* [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
+  > Fully automated version management and package publishing
+
 # Apps
 
 * [Ship](https://www.realartists.com)
