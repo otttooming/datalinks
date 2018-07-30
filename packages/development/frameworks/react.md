@@ -10,10 +10,6 @@ title: React.js
 * ***GitHub*** [airbnb/react-dates](https://github.com/airbnb/react-dates)
   > An easily internationalizable, mobile-friendly datepicker library for the web
 
-* ***GitHub*** [react-virtualized](https://github.com/bvaughn/react-virtualized)
-  > React components for efficiently rendering large lists and tabular data
-  - ***Medium*** [Rendering large lists with React Virtualized](https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3)
-
 * ***GitHub*** [react-motion](https://github.com/chenglou/react-motion)
   > A spring that solves your animation problems.
 
@@ -33,6 +29,14 @@ title: React.js
 
 * [stereobooster/react-ideal-image](https://github.com/stereobooster/react-ideal-image)
   > Adaptive image component
+
+### Virtualization
+
+* [bvaughn/react-window](https://github.com/bvaughn/react-window)
+
+* ***GitHub*** [react-virtualized](https://github.com/bvaughn/react-virtualized)
+  > React components for efficiently rendering large lists and tabular data
+  - ***Medium*** [Rendering large lists with React Virtualized](https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3)
 
 ## Slider
 
