@@ -30,6 +30,9 @@ title: React.js
 * [stereobooster/react-ideal-image](https://github.com/stereobooster/react-ideal-image)
   > Adaptive image component
 
+* [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns)
+  > Browser API's turned into declarative React components and HoC's
+
 ### Virtualization
 
 * [bvaughn/react-window](https://github.com/bvaughn/react-window)
