@@ -25,6 +25,54 @@ echo "background: url('data:image/svg+xml;base64,"$(openssl base64 < path/to/fil
 
 * [Web Developer Reading List: Responsive Images](http://thenewcode.com/1177/Web-Developer-Reading-List-Responsive-Images)
 
+# Aspect ratio
+
+* [Aspect Ratio Boxes](https://css-tricks.com/aspect-ratio-boxes/)
+
+## Mixins
+
+```scss
+  @mixin aspect-ratio($width, $height) {
+    position: relative;
+    &:before {
+      display: block;
+      content: "";
+      width: 100%;
+      padding-top: ($height / $width) * 100%;
+    }
+    > .content {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+    }
+  }
+```
+
+```
+<div style="--aspect-ratio:16/9;">
+
+[style*="--aspect-ratio"] {
+  > :first-child { width: 100%; }
+  > img          { height: auto; }
+  
+  @supports (--a:b) {
+    position: relative;
+    &::before {
+      content: "";
+      display: block;
+      padding-bottom: calc(100% / (var(--aspect-ratio)));
+    }  
+    > :first-child {
+      position: absolute;
+      top: 0; left: 0;
+      height: 100%;
+    }  
+  }
+}
+```
+
 # Object fit
 
 ## Polyfills
