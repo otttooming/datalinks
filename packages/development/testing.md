@@ -66,6 +66,8 @@ title: Testing
 
 * [Screenshot testing with React and Storybook](https://medium.com/bleeding-edge/screenshot-testing-with-react-and-storybook-19ab7e49ec92)
 
+* [Visual Regression Testing and React Storybook](https://www.robinwieruch.de/visual-regression-testing-react-storybook/)
+
 # Snippets
 
 ### Mock offsetWidth
