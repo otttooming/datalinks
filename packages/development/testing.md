@@ -64,6 +64,8 @@ title: Testing
 
 * [Visual regression testing using Jest, Chromeless and AWS Lambda](https://novemberfive.co/blog/visual-regression-testing-jest-chromeless-lambda/)
 
+* [Screenshot testing with React and Storybook](https://medium.com/bleeding-edge/screenshot-testing-with-react-and-storybook-19ab7e49ec92)
+
 # Snippets
 
 ### Mock offsetWidth
