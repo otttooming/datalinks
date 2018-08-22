@@ -11,6 +11,8 @@
 
 * [nodebestpractices/sections/production/lockdependencies.md](https://github.com/i0natan/nodebestpractices/blob/master/sections/production/lockdependencies.md)
 
+* [NPM Dependency errors? Then You’re doing it wrong.](https://medium.com/netscape/npm-dependency-errors-then-youre-doing-it-wrong-635160a89150)
+
 ## Task running
 
 * [egoist/maid](https://github.com/egoist/maid)
