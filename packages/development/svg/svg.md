@@ -15,6 +15,8 @@ title: Scalable Vector Graphics
 * [***GitHub*** SVGInjector](https://github.com/iconic/SVGInjector)
   > Fast, caching, dynamic inline SVG DOM injection library
 
+* [SVG imagemap](http://thenewcode.com/760/Create-A-Responsive-Imagemap-With-SVG)
+
 # Assets
 
 * [Hero Patterns](http://www.heropatterns.com)
