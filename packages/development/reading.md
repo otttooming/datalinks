@@ -37,6 +37,8 @@ title: Reading material
 
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
+* [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
+
 ### React
 
 * ***GitBooks*** [React Bits](https://vasanthk.gitbooks.io/react-bits/)
