@@ -17,6 +17,8 @@ title: Scalable Vector Graphics
 
 * [SVG imagemap](http://thenewcode.com/760/Create-A-Responsive-Imagemap-With-SVG)
 
+* [Basic Responsive SVG Imagemap](https://codepen.io/dudleystorey/pen/doexPL)
+
 # Assets
 
 * [Hero Patterns](http://www.heropatterns.com)
