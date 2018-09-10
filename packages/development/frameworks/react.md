@@ -13,6 +13,9 @@ title: React.js
 * ***GitHub*** [react-motion](https://github.com/chenglou/react-motion)
   > A spring that solves your animation problems.
 
+* ***GitHub*** [drcmda/react-spring](https://github.com/drcmda/react-spring)
+  > Helping react-motion and animated to become best friends.
+
 * ***GitHub*** [react-modal](https://github.com/reactjs/react-modal)
 
 * ***GitHub*** [react-autosuggest](https://github.com/moroshko/react-autosuggest)
