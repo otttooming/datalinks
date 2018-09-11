@@ -5,9 +5,13 @@ title: Images
 
 https://github.com/anselmh/object-fit
 
-openssl base64 < play.svg
+```bash
+  openssl base64 < play.svg
+```
 
-echo "background: url('data:image/svg+xml;base64,"$(openssl base64 < path/to/file.svg)"');"
+```bash
+  echo "background: url('data:image/svg+xml;base64,"$(openssl base64 < path/to/file.svg)"');"
+```
 
 # Best practices
 
