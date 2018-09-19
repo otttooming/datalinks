@@ -29,6 +29,9 @@ title: Testing
 * [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
   > Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
 
+* [transitive-bullshit/awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer)
+  > A curated list of awesome puppeteer resources.
+
 * ***GitHub*** [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron)
   > Rendertron is a dockerized, headless Chrome rendering solution designed to render & serialise web pages on the fly.
 
