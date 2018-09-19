@@ -26,6 +26,9 @@ title: Testing
 * ***GitHub*** [Puppeteer](https://github.com/GoogleChrome/puppeteer)
   > Puppeteer is a Node library which provides a high-level API to control headless Chrome over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome.
 
+* [checkly/puppeteer-recorder](https://github.com/checkly/puppeteer-recorder)
+  > Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.
+
 * ***GitHub*** [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron)
   > Rendertron is a dockerized, headless Chrome rendering solution designed to render & serialise web pages on the fly.
 
