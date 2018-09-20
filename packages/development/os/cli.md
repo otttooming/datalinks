@@ -12,6 +12,13 @@ layout: page
 * ***GitHub*** [bhilburn/powerlevel9k](https://github.com/bhilburn/powerlevel9k)
   > Powerlevel9k is a theme for ZSH
 
+# Node.js
+
+* [awesome-nodejs/command-line-utilities](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
+
+* [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
+  > React for interactive command-line apps
+
 # Terminals
 
 * ***GitHub*** [Black Screen](https://github.com/vshatskyi/black-screen)
