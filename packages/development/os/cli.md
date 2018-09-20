@@ -15,6 +15,9 @@ layout: page
 * [ogham/exa](https://github.com/ogham/exa)
   > Replacement for 'ls' written in Rust. https://the.exa.website/
 
+* [nicolargo/glances](https://github.com/nicolargo/glances)
+  > A top/htop alternative
+
 # Node.js
 
 * [awesome-nodejs/command-line-utilities](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
