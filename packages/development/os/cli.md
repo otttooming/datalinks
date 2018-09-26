@@ -33,6 +33,8 @@ layout: page
 * ***GitHub*** [hyper.js](https://github.com/zeit/hyper)
   > A terminal built on web technologies
 
+* [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+
 * [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)
   > A Zsh prompt for Astronauts
 
