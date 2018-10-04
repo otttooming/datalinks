@@ -4,3 +4,8 @@
   > Example deployment of WordPress backed by a SQLite database.
 
 * [Zeit - Serverless Docker](https://zeit.co/blog/serverless-docker)
+
+## Apps
+
+* [Kitematic by Docker](https://kitematic.com/)
+  > Run containers through a simple, yet powerful graphical user interface.
