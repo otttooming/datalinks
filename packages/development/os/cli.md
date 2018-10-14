@@ -56,3 +56,6 @@ layout: page
 
 * [terkelg/prompts](https://github.com/terkelg/prompts)
   > Lightweight, beautiful and user-friendly interactive prompts
+
+* [mattallty/Caporal.js](https://github.com/mattallty/Caporal.js)
+  > A full-featured framework for building command line applications (cli) with node.js
