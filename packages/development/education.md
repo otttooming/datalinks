@@ -1,5 +1,7 @@
 # Continuing education
 
+* [Haridus- ja Teadusministeerium - Tasuta kursused otsing](https://www.hm.ee/et/kursused)
+
 ## University of Tartu
 
 * [Täiendusõpe > Õppimisvõimalused > Leia koolitus](https://www.ut.ee/et/koolitus/otsi-koolitust)
