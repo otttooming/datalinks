@@ -5,7 +5,20 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
+    "husky": "1.1.2",
+    "lint-staged": "7.3.0",
     "prettier": "1.14.3"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{json,md,scss,yaml,yml}": [
+      "npm run prettier",
+      "git add"
+    ]
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
