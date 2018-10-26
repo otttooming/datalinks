@@ -48,6 +48,28 @@ title: Git
   echo "no-tty" >> ~/.gnupg/gpg.conf
 ```
 
+### Conditional includes
+
+[Conditional includes](https://git-scm.com/docs/git-config#_conditional_includes)
+
+Global config ~/.gitconfig
+
+```
+[user]
+    name = John Doe
+    email = john@doe.tld
+
+[includeIf "gitdir:~/work/"]
+    path = ~/work/.gitconfig
+```
+
+Work specific config ~/work/.gitconfig
+
+```
+[user]
+    email = john.doe@company.tld
+```
+
 ## Rename git branch locally and remotely
 
 ```bash
