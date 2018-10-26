@@ -5,19 +5,19 @@ title: Git
 
 # Commands
 
-* Checkout a Remote Branch
+- Checkout a Remote Branch
 
 ```
   git checkout -b feature-branch origin/feature-branch
 ```
 
-* Create a branch from a commit
+- Create a branch from a commit
 
 ```
   git branch branchname <sha1-of-commit>
 ```
 
-* List all available remote branches
+- List all available remote branches
 
 ```
   git branch -r
@@ -25,23 +25,23 @@ title: Git
 
 # Release
 
-* [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
   > Fully automated version management and package publishing
 
 # Apps
 
-* [Ship](https://www.realartists.com)
+- [Ship](https://www.realartists.com)
   > Fast, native, comprehensive issue tracking for GitHub
 
 ## Git config
 
-* If git uses https not ssh
+- If git uses https not ssh
 
 ```bash
   git remote set-url origin git@gist.github.com:<Project code>
 ```
 
-* [GitHub Desktop: error: cannot run gpg: No such file or directory](https://github.com/isaacs/github/issues/675)
+- [GitHub Desktop: error: cannot run gpg: No such file or directory](https://github.com/isaacs/github/issues/675)
 
 ```
   git config --global gpg.program $(which gpg)
@@ -73,14 +73,14 @@ Work specific config ~/work/.gitconfig
 ## Rename git branch locally and remotely
 
 ```bash
-  git branch -m old_branch new_branch         # Rename branch locally    
-  git push origin :old_branch                 # Delete the old branch    
+  git branch -m old_branch new_branch         # Rename branch locally
+  git push origin :old_branch                 # Delete the old branch
   git push --set-upstream origin new_branch   # Push the new branch, set local branch to track the new remote
 ```
 
 ## Rebase
 
-* [Why you should stop using Git rebase](https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1)
+- [Why you should stop using Git rebase](https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1)
 
 ### Rebase playground
 

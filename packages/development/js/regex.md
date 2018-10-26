@@ -3,23 +3,24 @@ layout: page
 title: Regular expressions
 ---
 
-* ***GitHub*** [RE-Build: Building regular expressions with natural language](https://github.com/MaxArt2501/re-build)
-* ***GitHub*** [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
-* [regexhub](https://projects.lukehaas.me/regexhub/)
+- **_GitHub_** [RE-Build: Building regular expressions with natural language](https://github.com/MaxArt2501/re-build)
+- **_GitHub_** [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
+- [regexhub](https://projects.lukehaas.me/regexhub/)
   > Useful Regex Patterns
-* ***GitHub*** [RegexHQ](https://github.com/regexhq)
+- **_GitHub_** [RegexHQ](https://github.com/regexhq)
   > Collaboration on world-wide community-driven collections of RegExp patterns and tools that can make our life easier.
 
 # Snippets
 
 ## Find and remove vendor prefixes in your CSS using Regex
+
 [Link](https://www.mikestreety.co.uk/blog/find-and-remove-vendor-prefixes-in-your-css-using-regex)
 
 ```js
   \-(moz|o|webkit|ms|khtml)\-(?!font-smoothing|osx|print|backface).+?;
 ```
 
-* Remove with empty line
+- Remove with empty line
 
 ```js
   \n.*?-(moz|o|webkit|ms|khtml)\-(?!font-smoothing|osx|print|backface).+?;
@@ -28,6 +29,6 @@ title: Regular expressions
 # Validators
 
 ```js
-  const INTEGER_REGEXP = /^\d*$/;
-  const DECIMAL_REGEXP = /^(\s*|\d+\.?\d*)$/;
+const INTEGER_REGEXP = /^\d*$/;
+const DECIMAL_REGEXP = /^(\s*|\d+\.?\d*)$/;
 ```

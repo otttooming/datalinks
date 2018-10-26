@@ -5,7 +5,7 @@ title: Print
 
 # CSS
 
-* ***GitHub*** [cognitom/paper-css](https://github.com/cognitom/paper-css)
+- **_GitHub_** [cognitom/paper-css](https://github.com/cognitom/paper-css)
 
 # Misc
 
@@ -19,7 +19,8 @@ page-break-inside: avoid;
   margin: 0;
 }
 @media print {
-  html, body {
+  html,
+  body {
     width: 210mm;
     height: 297mm;
   }
@@ -31,19 +32,19 @@ page-break-inside: avoid;
 
 ```css
 @media print {
+  div {
+    float: none !important;
+    position: static !important;
+    display: inline;
+    box-sizing: content-box !important;
 
-    div {
-      float: none !important; position: static !important; display: inline;
-          box-sizing: content-box !important;
+    float: none !important;
+    position: static !important;
+    display: block !important;
+    box-sizing: content-box !important;
 
-          float: none !important; position: static !important; display: block!important;
-              box-sizing: content-box !important;
-
-
-               display: block!important; // Fix for FF not showing next page.
-
-    }
-
+    display: block !important; // Fix for FF not showing next page.
+  }
 }
 ```
 

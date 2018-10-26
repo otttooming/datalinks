@@ -3,16 +3,17 @@ layout: page
 title: Scalable Vector Graphics
 ---
 
-* [***GitHub*** SVG for Everybody](https://github.com/jonathantneal/svg4everybody)
+- [**_GitHub_** SVG for Everybody](https://github.com/jonathantneal/svg4everybody)
+
   > SVG for Everybody adds SVG External Content support to all browsers.
-   Use external SVG spritemaps today
+  > Use external SVG spritemaps today
 
-* [***CSStricks*** Icon System with SVG Sprites](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)
+- [**_CSStricks_** Icon System with SVG Sprites](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 
+* [**_CSStricks_** How to Scale SVG](https://css-tricks.com/scale-svg/)
 
-* [***CSStricks*** How to Scale SVG](https://css-tricks.com/scale-svg/)
+* [**_GitHub_** SVGInjector](https://github.com/iconic/SVGInjector)
 
-* [***GitHub*** SVGInjector](https://github.com/iconic/SVGInjector)
   > Fast, caching, dynamic inline SVG DOM injection library
 
 * [SVG imagemap](http://thenewcode.com/760/Create-A-Responsive-Imagemap-With-SVG)
@@ -21,8 +22,9 @@ title: Scalable Vector Graphics
 
 # Assets
 
-* [Hero Patterns](http://www.heropatterns.com)
+- [Hero Patterns](http://www.heropatterns.com)
+
   > A collection of repeatable SVG background patterns for you to use on your digital projects.
 
-* ***GitHub*** [Simple Icons]](https://github.com/danleech/simple-icons)
+- **_GitHub_** [Simple Icons]](https://github.com/danleech/simple-icons)
   > SVG icons for popular brands

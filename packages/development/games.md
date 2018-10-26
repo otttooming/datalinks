@@ -1,3 +1,3 @@
 # Games
 
-* [CorsixTH](https://github.com/CorsixTH/CorsixTH)
+- [CorsixTH](https://github.com/CorsixTH/CorsixTH)

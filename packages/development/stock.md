@@ -1,3 +1,3 @@
 # Stock material
 
-* [Unsplash](https://unsplash.com/)
+- [Unsplash](https://unsplash.com/)

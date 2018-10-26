@@ -1,2 +1,2 @@
-* [HEAD](https://gethead.info/)
+- [HEAD](https://gethead.info/)
   > A free guide to <head> elements

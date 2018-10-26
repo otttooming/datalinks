@@ -5,12 +5,12 @@ title: Dotfiles
 
 ## MacOS
 
-* ***GItHub*** [mathiasbynens/dotfiles ](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
+- **_GItHub_** [mathiasbynens/dotfiles ](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
 
-* ***GitHub*** [holman/dotfiles](https://github.com/holman/dotfiles)
+- **_GitHub_** [holman/dotfiles](https://github.com/holman/dotfiles)
 
-* ***GitHub*** [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
+- **_GitHub_** [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
 
 # Articles
 
-* [Getting Started with Dotfiles](https://driesvints.com/blog/getting-started-with-dotfiles/)
+- [Getting Started with Dotfiles](https://driesvints.com/blog/getting-started-with-dotfiles/)

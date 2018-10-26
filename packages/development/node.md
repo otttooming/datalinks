@@ -2,4 +2,4 @@
 
 # Debugging
 
-* [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb)
+- [GoogleChromeLabs/ndb](https://github.com/GoogleChromeLabs/ndb)

@@ -5,6 +5,6 @@ title: Select
 
 # Vue select
 
-* ***GitHub*** [Vue multiselect](https://github.com/monterail/vue-multiselect)
+- **_GitHub_** [Vue multiselect](https://github.com/monterail/vue-multiselect)
 
-* ***GitHub*** [Vue select](https://github.com/sagalbot/vue-select)
+- **_GitHub_** [Vue select](https://github.com/sagalbot/vue-select)

@@ -7,20 +7,20 @@ title: Internet Explorer
 
 ### Pseudo-element for the dropdown arrow on IE
 
-* ***StackOverflow*** [Select removing dropdown arrow](http://stackoverflow.com/questions/16603979/select-removing-dropdown-arrow)
+- **_StackOverflow_** [Select removing dropdown arrow](http://stackoverflow.com/questions/16603979/select-removing-dropdown-arrow)
 
 ```css
-    select::-ms-expand {
-        display: none;
-    }
+select::-ms-expand {
+  display: none;
+}
 ```
 
 ## Hide IE scrollbars
 
-* ***MSDN*** [-ms-overflow-style property](https://msdn.microsoft.com/en-us/library/hh771902(v=vs.85).aspx)
+- **_MSDN_** [-ms-overflow-style property](<https://msdn.microsoft.com/en-us/library/hh771902(v=vs.85).aspx>)
 
 ```css
-   body {
-        -ms-overflow-style: -ms-autohiding-scrollbar;
-   }
+body {
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+}
 ```

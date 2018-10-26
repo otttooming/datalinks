@@ -5,4 +5,4 @@ layout: page
 
 # Misc
 
-* [formvalidation.io](http://formvalidation.io/validators/)
+- [formvalidation.io](http://formvalidation.io/validators/)

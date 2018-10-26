@@ -1,8 +1,9 @@
 # WordPress
 
-* [_IncludeWP: Top Open-Source Frameworks](https://includewp.com)
+- [\_IncludeWP: Top Open-Source Frameworks](https://includewp.com)
 
 # Taconomies
+
 http://www.elegantthemes.com/blog/resources/wordpress-taxonomies-a-guide-for-the-average-user
 http://docs.woothemes.com/wc-apidocs/hook-docs.html
 
@@ -10,7 +11,6 @@ http://docs.woothemes.com/wc-apidocs/hook-docs.html
 
 Vagrant + Chef + WordPress
 http://vccw.cc
-
 
     https://centurion-magazine.com/magazine-team
     http://www.exo-skills.com/en/vision-method
@@ -34,16 +34,15 @@ http://vccw.cc
     http://shop.industrystandardny.com/products/the-simone-highrise
     http://shop.industrystandardny.com/products/the-simone-highrise
     http://shop.industrystandardny.com/products/the-simone-highrise
-make the scrolling of pictures happen with side infor pos fixed
 
+make the scrolling of pictures happen with side infor pos fixed
 
     https://livingedge.com.au/products/eames-classic-lounge-ottoman-with-black-frame-in-black-vicenza-leather
     https://livingedge.com.au/products/eames-classic-lounge-ottoman-with-black-frame-in-black-vicenza-leather
 
     http://themeforest.net/item/lobo-portfolio-for-freelancers-agencies/full_screen_preview/7762848
+
 sidebar
-
-
 
     https://github.com/jim-at-jibba/timber-foundation-theme/tree/master/views
     https://jarednova.github.io/timber/#archives
@@ -52,9 +51,8 @@ sidebar
     https://github.com/wp-sync-db/wp-sync-db
     https://github.com/wp-sync-db/wp-sync-db-media-files
 
-
 typeface
-    https://typekit.com/fonts/ambroise-francois-std
+https://typekit.com/fonts/ambroise-francois-std
 wired
 
     # main-insp - trefectamobi
@@ -72,7 +70,6 @@ wired
 
     https://github.com/fhopeman/justlazy
 
-
 # Vagrant
 
 https://github.com/Varying-Vagrant-Vagrants/VVV#the-first-vagrant-up
@@ -83,7 +80,6 @@ http://cmb2.io/
 https://carbonfields.net/
 
 https://docs.google.com/spreadsheets/d/1mSqienVYxLopTFGLPK0lGCJst2knKzXDtLQRgwjeBN8/edit#gid=3
-
 
 https://onepagelove.com/prior
 

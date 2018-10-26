@@ -6,20 +6,23 @@ title: Input field
 # Input field
 
 ## Autosize input field with hidden element
-Specific implementations use out of viewport or hidden element to calculate *input* field length.
 
-* ***GitHub*** [jQuery.Autosize.Input](https://github.com/MartinF/jQuery.Autosize.Input)
+Specific implementations use out of viewport or hidden element to calculate _input_ field length.
+
+- **_GitHub_** [jQuery.Autosize.Input](https://github.com/MartinF/jQuery.Autosize.Input)
+
   > A jQuery plugin which automatically resizes the width of input fields according to the content, while typing.
 
-* [***GitHub*** React-Input-Autosize](https://github.com/JedWatson/react-input-autosize)
+- [**_GitHub_** React-Input-Autosize](https://github.com/JedWatson/react-input-autosize)
+
   > Auto-resizing input field for React
 
-* [***GitHub*** autosize-input.js](https://github.com/yuanqing/autosize-input)
+- [**_GitHub_** autosize-input.js](https://github.com/yuanqing/autosize-input)
   > Effortless, dynamic-width text boxes in vanilla JavaScript.
 
-## Autosize input field with *contenteditable* element
+## Autosize input field with _contenteditable_ element
 
-## Placeholder for *contenteditable* element
+## Placeholder for _contenteditable_ element
 
 ```html
 <span class="badge">
@@ -29,17 +32,17 @@ Specific implementations use out of viewport or hidden element to calculate *inp
 
 ```css
 span.badge[contenteditable] {
-    display: inline-block;
+  display: inline-block;
 }
 span.badge[contenteditable]:empty::before {
-    content: attr(data-placeholder);
-    display: inline-block;
+  content: attr(data-placeholder);
+  display: inline-block;
 }
 span.badge[contenteditable]:empty:focus::before {
-    content: attr(data-focused-advice);
+  content: attr(data-focused-advice);
 }
 ```
 
 ## Input type="number" numpads
 
-* [I Wanted to Type a Number](https://www.filamentgroup.com/lab/type-number.html)
+- [I Wanted to Type a Number](https://www.filamentgroup.com/lab/type-number.html)

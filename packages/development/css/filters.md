@@ -5,40 +5,40 @@ title: Filters
 
 ## drop-shadow()
 
-* ***CSS-Tricks*** [Breaking down CSS Box Shadow vs. Drop Shadow](https://css-tricks.com/breaking-css-box-shadow-vs-drop-shadow/)
+- **_CSS-Tricks_** [Breaking down CSS Box Shadow vs. Drop Shadow](https://css-tricks.com/breaking-css-box-shadow-vs-drop-shadow/)
 
-* ***MDN*** [drop-shadow()](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow)
+- **_MDN_** [drop-shadow()](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow)
 
 ## Backdrop filter
 
-* ***WebKit*** [Backdrop filters](https://webkit.org/blog/3632/introducing-backdrop-filters/)
+- **_WebKit_** [Backdrop filters](https://webkit.org/blog/3632/introducing-backdrop-filters/)
 
-* ***MozDev*** [Backdrop filters](https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter)
+- **_MozDev_** [Backdrop filters](https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter)
 
 ```css
-  /* Keyword value */
-  backdrop-filter: none;
+/* Keyword value */
+backdrop-filter: none;
 
-  /* URL to SVG filter */
-  backdrop-filter: url(commonfilters.svg#filter);
+/* URL to SVG filter */
+backdrop-filter: url(commonfilters.svg#filter);
 
-  /* Filter functions */
-  backdrop-filter: blur(2px);
-  backdrop-filter: brightness(60%);
-  backdrop-filter: contrast(40%);
-  backdrop-filter: drop-shadow(4px 4px 10px blue);
-  backdrop-filter: grayscale(30%);
-  backdrop-filter: hue-rotate(120deg);
-  backdrop-filter: invert(70%);
-  backdrop-filter: opacity(20%);
-  backdrop-filter: sepia(90%);
-  backdrop-filter: saturate(80%);
+/* Filter functions */
+backdrop-filter: blur(2px);
+backdrop-filter: brightness(60%);
+backdrop-filter: contrast(40%);
+backdrop-filter: drop-shadow(4px 4px 10px blue);
+backdrop-filter: grayscale(30%);
+backdrop-filter: hue-rotate(120deg);
+backdrop-filter: invert(70%);
+backdrop-filter: opacity(20%);
+backdrop-filter: sepia(90%);
+backdrop-filter: saturate(80%);
 
-  /* Multiple filters */
-  backdrop-filter: url(filters.svg#filter) blur(4px) saturate(150%);
+/* Multiple filters */
+backdrop-filter: url(filters.svg#filter) blur(4px) saturate(150%);
 
-  /* Global values */
-  backdrop-filter: inherit;
-  backdrop-filter: initial;
-  backdrop-filter: unset;
+/* Global values */
+backdrop-filter: inherit;
+backdrop-filter: initial;
+backdrop-filter: unset;
 ```

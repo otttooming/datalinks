@@ -1,7 +1,7 @@
 #Ref WP themes
-    https://github.com/roots/sage
-    https://github.com/woothemes/storefront
-    
+https://github.com/roots/sage
+https://github.com/woothemes/storefront
+
 #Links
 
     https://centurion-magazine.com/magazine-team
@@ -26,16 +26,15 @@
     http://shop.industrystandardny.com/products/the-simone-highrise
     http://shop.industrystandardny.com/products/the-simone-highrise
     http://shop.industrystandardny.com/products/the-simone-highrise
-make the scrolling of pictures happen with side infor pos fixed
 
+make the scrolling of pictures happen with side infor pos fixed
 
     https://livingedge.com.au/products/eames-classic-lounge-ottoman-with-black-frame-in-black-vicenza-leather
     https://livingedge.com.au/products/eames-classic-lounge-ottoman-with-black-frame-in-black-vicenza-leather
 
     http://themeforest.net/item/lobo-portfolio-for-freelancers-agencies/full_screen_preview/7762848
+
 sidebar
-
-
 
     https://github.com/jim-at-jibba/timber-foundation-theme/tree/master/views
     https://jarednova.github.io/timber/#archives
@@ -44,17 +43,16 @@ sidebar
     https://github.com/wp-sync-db/wp-sync-db
     https://github.com/wp-sync-db/wp-sync-db-media-files
 
-
 typeface
-    https://typekit.com/fonts/ambroise-francois-std
+https://typekit.com/fonts/ambroise-francois-std
 wired
 
     # main-insp - trefectamobi
     https://www.trefectamobility.com/
     http://www.fastcompany.com/3058251/the-future-of-work/why-learning-to-code-wont-save-your-job?partner=wired
-    
+
     http://themeforest.net/item/berger-wordpress-creative-agency-portfolio-theme/11052402?ref=hdalive
-    
+
     http://savoy.nordicmade.com/product/plain-glass-bottle/
 
 # Vanilla JS
@@ -63,8 +61,7 @@ wired
     https://plainjs.com/javascript/plugins/media/
 
     https://github.com/fhopeman/justlazy
-    
-    
+
 # Vagrant
 
 https://github.com/Varying-Vagrant-Vagrants/VVV#the-first-vagrant-up
@@ -74,11 +71,9 @@ http://roketco.com/log/the-ultimate-workflow-guide-for-teams-building-wordpress-
 
 http://www.scientificamerican.com
 
-
 https://shoton35.com/2016/03/22/daredevil-season-2-tv-review-3/
 
 https://www.denimdream.com/est/pood/mehed/kategooria-otsing/kategooria/aksessuaarid--arvutikotid/sorteeri/uuemad-enne
-
 
 #NEWNEW sidebar idea
 https://www.good.is
@@ -93,7 +88,7 @@ http://blog.codinghorror.com/cross-site-request-forgeries-and-you/
 https://roots.io/sage/docs/theme-installation/
 https://getcomposer.org/
 
-WordPress.org (2016). Make WordPress. https://make.wordpress.org (20.5.2016) 
+WordPress.org (2016). Make WordPress. https://make.wordpress.org (20.5.2016)
 
 http://www.slideshare.net/Feanor123/lput-kaitsmine
 

@@ -3,4 +3,4 @@ layout: page
 title: Search engine optimization
 ---
 
-* [Google Tools for Search Developers](https://developers.google.com/search/tools/)
+- [Google Tools for Search Developers](https://developers.google.com/search/tools/)
