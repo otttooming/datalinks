@@ -1,0 +1,24 @@
+{
+  "name": "doc-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "1.14.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write --config .prettierrc \"**/*.{json,md,scss,yaml,yml}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otttooming/doc-development.git"
+  },
+  "author": "Ott Tooming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otttooming/doc-development/issues"
+  },
+  "homepage": "https://github.com/otttooming/doc-development#readme"
+}
