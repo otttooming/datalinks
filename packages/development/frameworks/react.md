@@ -84,3 +84,11 @@ title: React.js
 # HOC
 
 * [React Higher-Order Components in TypeScript](https://medium.com/@jrwebdev/react-higher-order-component-patterns-in-typescript-42278f7590fb)
+
+# Inheritance
+
+* [Dan Abramov](https://twitter.com/dan_abramov/status/990989827981094912?lang=en)
+    > We all know inheritance is full of pitfalls and often produces code that evolves poorly when requirements change. Imagine if there were languages designed around it being the primary code reuse mechanism. Imagine if they were mainstream! Hmm
+
+* [Dan Abramov](https://twitter.com/dan_abramov/status/752643494972383232?lang=en)
+    > Don’t apply inheritance to React components. Composition is simpler and works better
