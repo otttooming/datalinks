@@ -101,6 +101,8 @@ title: React.js
 
 # Inheritance
 
+- [Composition vs Inheritance: So What About Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html#so-what-about-inheritance)
+
 - [Dan Abramov](https://twitter.com/dan_abramov/status/990989827981094912?lang=en)
 
   > We all know inheritance is full of pitfalls and often produces code that evolves poorly when requirements change. Imagine if there were languages designed around it being the primary code reuse mechanism. Imagine if they were mainstream! Hmm
