@@ -25,3 +25,19 @@
 
 - [alexjoverm/typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter)
   > Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
+
+# Debate
+
+## Skip
+
+[Skip - A programming language to skip the things you have already computed](http://skiplang.com/)
+
+- [skip programming language](https://twitter.com/Vjeux/status/1044987130533961728)
+
+  > [We just open sourced Skip, a general-purpose programming language that tracks side effects to provide caching with reactive invalidation, ergonomic and safe parallelism, and efficient garbage collection](https://twitter.com/Vjeux/status/1044987130533961728)
+
+  > What are its irredeemable qualities in Facebook's eyes?
+
+  > I'm surprised that Flowtype meets those standards considering Typescript exists.
+
+  > At the time flow was started, typescript was in a very different state as it was unusably slow for even medium sized projects and didn’t support nullabity and other basic type features. It got much better over time but now it’s tricky to migrate
