@@ -19,6 +19,10 @@
 
 # Setup
 
+- [jeffijoe/typesync](https://github.com/jeffijoe/typesync)
+
+  > Install missing TypeScript typings for dependencies in your package.json.
+
 - [Babel 7 + TypeScript](http://artsy.github.io/blog/2017/11/27/Babel-7-and-TypeScript/)
 
 # Starters
