@@ -1,5 +1,11 @@
 # TypeScript
 
+# Blogs
+
+- [mariusschulz](https://blog.mariusschulz.com/)
+
+- [toddmotto](https://toddmotto.com/)
+
 # Generation
 
 - [quicktype](https://app.quicktype.io/#s=music)
