@@ -6,7 +6,22 @@ title: Testing
 # Component storybooks
 
 - **_GitHub_** [c8r/kit](https://github.com/c8r/kit)
+
   > Tools for developing, documenting, and testing React component libraries
+
+## Docz
+
+- [pedronauck/docz](https://github.com/pedronauck/docz)
+
+  > MDX based
+
+- [hydrateio/docz-plugin-storybook](https://github.com/hydrateio/docz-plugin-storybook)
+
+  > Docz plugin that makes migrating from Storybook a breeze.
+
+## Storybook
+
+- [tuchk4/storybook-readme](https://github.com/tuchk4/storybook-readme)
 
 # Browser testing
 
