@@ -7,3 +7,7 @@
 ## Freelance
 
 * [Upwork - Hire Freelancers & Get Freelance Jobs Online](https://www.upwork.com/)
+
+## Companies
+
+* [Reaktor](https://www.reaktor.com/)
