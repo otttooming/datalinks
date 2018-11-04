@@ -44,6 +44,10 @@ title: React.js
 - [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns)
   > Browser API's turned into declarative React components and HoC's
 
+## State
+
+- [getDerivedStateFromProps - You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#recommendation-fully-uncontrolled-component-with-a-key)
+
 ### Virtualization
 
 - [bvaughn/react-window](https://github.com/bvaughn/react-window)
