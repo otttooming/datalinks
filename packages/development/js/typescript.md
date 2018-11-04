@@ -9,7 +9,12 @@
 # Generation
 
 - [quicktype](https://app.quicktype.io/#s=music)
+
   > Auto generate types from JSON
+
+- [YousefED/typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
+
+  > Generate json-schema from your Typescript sources
 
 # Types
 
