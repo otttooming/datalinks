@@ -43,6 +43,10 @@
 
 # Debate
 
+## Boilerplate
+
+- Need to use JSDoc if no TS results in parity for boilerplate?
+
 ## Skip
 
 [Skip - A programming language to skip the things you have already computed](http://skiplang.com/)
