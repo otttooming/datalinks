@@ -23,6 +23,12 @@ title: Git
   git branch -r
 ```
 
+- Revert File to Previous Commit
+
+```
+  git checkout <commit_hash> -- <file>
+```
+
 # Release
 
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
