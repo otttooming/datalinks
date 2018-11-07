@@ -3,11 +3,14 @@
 Log out users when they have entered site through private link.
 
 ```html
-  {% if page.private? %}
-    <div class="wrap">
-      <a class="btn__logout" href="/admin/site/sessions/logout">{% if page.language_code == "et" %}Välju leheküljelt{% else %}Logout{% endif %}</a>
-    </div>
-  {% endif %}
+{% if page.private? %}
+<div class="wrap">
+  <a class="btn__logout" href="/admin/site/sessions/logout"
+    >{% if page.language_code == "et" %}Välju leheküljelt{% else %}Logout{%
+    endif %}</a
+  >
+</div>
+{% endif %}
 ```
 
 ```css

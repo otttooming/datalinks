@@ -30,7 +30,14 @@ Specific implementations use out of viewport or hidden element to calculate _inp
 
 ```html
 <span class="badge">
-    <span contenteditable="true" id="new-tag" class="badge alert-info" data-placeholder="Make a new tag" data-focused-advice="Start typing"></span><i class="fa fa-lg fa-plus-circle"></i>
+  <span
+    contenteditable="true"
+    id="new-tag"
+    class="badge alert-info"
+    data-placeholder="Make a new tag"
+    data-focused-advice="Start typing"
+  ></span
+  ><i class="fa fa-lg fa-plus-circle"></i>
 </span>
 ```
 
