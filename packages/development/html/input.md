@@ -5,6 +5,10 @@ title: Input field
 
 # Input field
 
+- [algolia/places](https://github.com/algolia/places)
+
+  > Turn any <input> into an address autocomplete
+
 ## Autosize input field with hidden element
 
 Specific implementations use out of viewport or hidden element to calculate _input_ field length.
