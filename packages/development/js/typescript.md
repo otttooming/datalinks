@@ -43,6 +43,25 @@
 
 # Debate
 
+- [If you're still using jsdoc syntax like @ params etc, then you're basically using typescript without any benefits.](https://twitter.com/toddmotto/status/929413949044518913)
+- [David K.](https://twitter.com/DavidKPiano/status/1052909749065408512)
+
+```
+Me: I think I'm done
+JavaScript: Looks good to me
+Me: Hope it works
+JS: I believe in you
+Me: ...
+JS: undefined is not a function
+
+Me: I thi--
+TypeScript: Nope
+Me: What abou--
+TS: Wrong
+Me: ...
+TS: cannot invoke an expression whose type lacks a call signature
+```
+
 ## Boilerplate
 
 - Need to use JSDoc if no TS results in parity for boilerplate?
