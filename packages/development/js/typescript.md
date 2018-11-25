@@ -36,6 +36,26 @@
 
 - [Babel 7 + TypeScript](http://artsy.github.io/blog/2017/11/27/Babel-7-and-TypeScript/)
 
+# Build and bundle process
+
+- [duffman/tspath](https://github.com/duffman/tspath)
+
+  > TypeScript path alias resolver
+
+- {}
+
+- [TypeStrong/dts-bundle](https://github.com/TypeStrong/dts-bundle)
+
+  > Export TypeScript .d.ts files as an external module definition
+
+- [SitePen/dts-generator](https://github.com/SitePen/dts-generator)
+
+  > Generates a single .d.ts bundle containing external module declarations exported from TypeScript module files.
+
+- [nomaed/dts-builder](https://github.com/nomaed/dts-builder)
+
+  > Builds a single d.ts file library from generated d.ts sources
+
 # Starters
 
 - [alexjoverm/typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter)
