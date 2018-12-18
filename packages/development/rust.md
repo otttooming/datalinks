@@ -9,3 +9,7 @@
 - [bodil/typed-html](https://github.com/bodil/typed-html)
 
   > Type checked JSX for Rust
+
+- [DenisKolodin/yew](https://github.com/DenisKolodin/yew)
+
+  > Rust framework for building client web apps
