@@ -117,3 +117,7 @@ title: React.js
 
 - [Dan Abramov](https://twitter.com/dan_abramov/status/752643494972383232?lang=en)
   > Don’t apply inheritance to React components. Composition is simpler and works better
+
+# Render
+
+- [All React Conditional Rendering Techniques](https://www.robinwieruch.de/conditional-rendering-react/)
