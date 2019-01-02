@@ -7,3 +7,5 @@
 ## Co-op
 
 - [Overcooked! 2](https://store.steampowered.com/app/728880/Overcooked_2/)
+
+- [Mario Party 10](https://www.nintendo.com/games/detail/mario-party-10-wii-u)
