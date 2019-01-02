@@ -87,6 +87,10 @@ title: React.js
 
   > SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 
+- [KATT/shop](https://github.com/KATT/shop)
+
+  > Full-stack React/Prisma/TS/GraphQL E-Commerce Example
+
 # Store
 
 - **_GitHub_** [react-waterfall](https://github.com/didierfranc/react-waterfall)
