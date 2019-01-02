@@ -13,3 +13,7 @@
 - [DenisKolodin/yew](https://github.com/DenisKolodin/yew)
 
   > Rust framework for building client web apps
+
+- [chinedufn/percy](https://github.com/chinedufn/percy)
+
+  > A modular toolkit for building isomorphic web apps with Rust + WebAssembly
