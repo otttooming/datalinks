@@ -11,3 +11,9 @@
 
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield)
   > A GraphQL tool to ease the creation of permission layer.
+
+## Database
+
+- [servexyz/prisma-starter](https://github.com/servexyz/prisma-starter)
+
+  > Run your prisma service as a docker container with the prisma engine and MySQL Database
