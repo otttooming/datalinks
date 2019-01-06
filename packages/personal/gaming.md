@@ -9,3 +9,7 @@
 - [Overcooked! 2](https://store.steampowered.com/app/728880/Overcooked_2/)
 
 - [Mario Party 10](https://www.nintendo.com/games/detail/mario-party-10-wii-u)
+
+## Wii U
+
+- [Trine](<https://en.wikipedia.org/wiki/Trine_(video_game)>)
