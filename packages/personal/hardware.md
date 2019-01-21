@@ -42,3 +42,7 @@ C    20      82,50      16,50      99,00
         meie e-poest www.klick.ee
           KLICK – sinu digipood
 ```
+
+## Raspberry Pi
+
+- [Secure and Ad-Free Internet Anywhere with Streisand and Pi Hole (ifelse.io)](https://news.ycombinator.com/item?id=18903780)
