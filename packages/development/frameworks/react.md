@@ -71,6 +71,10 @@ title: React.js
 
   > Beautiful, accessible drag and drop for lists with React.js
 
+- [drcmda/react-with-gesture](https://github.com/drcmda/react-with-gesture)
+
+  > Bread n butter utility for component-tied mouse/touch gestures in React
+
 ## Markdown
 
 - [jamesknelson/mdxc](https://github.com/jamesknelson/mdxc)
