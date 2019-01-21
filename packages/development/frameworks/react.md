@@ -75,6 +75,12 @@ title: React.js
 
   > Bread n butter utility for component-tied mouse/touch gestures in React
 
+## Visualization
+
+- [react-tools/react-move](https://github.com/react-tools/react-move)
+
+  > Beautiful, data-driven animations for React
+
 ## Markdown
 
 - [jamesknelson/mdxc](https://github.com/jamesknelson/mdxc)
