@@ -99,3 +99,7 @@ TS: cannot invoke an expression whose type lacks a call signature
   > I'm surprised that Flowtype meets those standards considering Typescript exists.
 
   > At the time flow was started, typescript was in a very different state as it was unusably slow for even medium sized projects and didn’t support nullabity and other basic type features. It got much better over time but now it’s tricky to migrate
+
+## Migrations
+
+- [Porting 30K lines of code from Flow to TypeScript](https://news.ycombinator.com/item?id=18906405)
