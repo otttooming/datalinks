@@ -1,4 +1,8 @@
-# macOS apps
+# macOS
+
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+
+  > Open source macOS apps
 
 - [monodraw](https://monodraw.helftone.com/)
 
