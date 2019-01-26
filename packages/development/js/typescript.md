@@ -103,3 +103,7 @@ TS: cannot invoke an expression whose type lacks a call signature
 ## Migrations
 
 - [Porting 30K lines of code from Flow to TypeScript](https://news.ycombinator.com/item?id=18906405)
+
+- [Yarn's Future – v2 and beyond](https://news.ycombinator.com/item?id=18989207)
+
+  > Yarn and Jest are being rewritten to TypeScript from Flow
