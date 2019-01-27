@@ -5,6 +5,7 @@
   > his chart is meant to help explain the various tools and how they fit in to the overall ecosystem
 
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator)
+
   > GraphQL code generator with flexible support for custom templates
 
 ## Permissions
@@ -23,3 +24,5 @@
 - [Apollo Engine](https://engine.apollographql.com)
 
   > schema management and performance metrics monitoring
+
+- [How to master Redux and Apollo’s HOCs in Typescript](https://blog.aptus.be/how-to-master-redux-and-apollos-hocs-in-typescript-df0292a12c99)
