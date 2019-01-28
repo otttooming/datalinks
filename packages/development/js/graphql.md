@@ -8,6 +8,8 @@
 
   > GraphQL code generator with flexible support for custom templates
 
+- [How to build a GraphQL App with Fetch](https://www.prisma.io/tutorials/build-react-graphql-app-with-fetch-ct19)
+
 ## Permissions
 
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield)
