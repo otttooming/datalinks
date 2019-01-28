@@ -102,6 +102,12 @@ title: Testing
 
 - [Visual Regression Testing and React Storybook](https://www.robinwieruch.de/visual-regression-testing-react-storybook/)
 
+# Node.js
+
+- [visionmedia/supertest](https://github.com/visionmedia/supertest)
+
+  > Super-agent driven library for testing node.js HTTP servers using a fluent API
+
 # Snippets
 
 ### Mock offsetWidth
