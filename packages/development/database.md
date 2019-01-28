@@ -13,3 +13,7 @@
 - [NodeRedis/node_redis](https://github.com/NodeRedis/node_redis)
 
   > redis client for node
+
+### Providers
+
+- [Redis Cloud – 30MB RAM, 30 Connections for FREE](https://redislabs.com/blog/redis-cloud-30mb-ram-30-connections-for-free/)
