@@ -16,3 +16,7 @@ title: Redux
 
 - [davidkpiano/xstate](https://github.com/davidkpiano/xstate)
   > Functional, Stateless JS Finite State Machines and Statecharts
+
+# GraphQL
+
+- [Integrating Apollo GraphQL Client into a Redux application for local state](https://www.jaygould.co.uk/dev/2018/03/04/preact-jwt-redux-apollo-part3.html)
