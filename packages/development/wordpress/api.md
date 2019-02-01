@@ -12,3 +12,7 @@ title: API
 - [WP API Menus](https://wordpress.org/plugins/wp-api-menus/)
   > This plugin extends the WordPress JSON REST API with new routes for WordPress registered menus
   > [GitHub](https://github.com/unfulvio/wp-api-menus)
+
+# Open APIs
+
+- [toddmotto/public-apis](https://github.com/toddmotto/public-apis)
