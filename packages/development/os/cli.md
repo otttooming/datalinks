@@ -75,3 +75,7 @@ layout: page
 - [tj/commander.js](https://github.com/tj/commander.js)
 
   > node.js command-line interfaces made easy
+
+- [mgrip/react-cli](https://github.com/mgrip/react-cli)
+
+  > a react renderer for the command line
