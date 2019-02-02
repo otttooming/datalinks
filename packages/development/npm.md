@@ -4,6 +4,10 @@
 
 - [npm-check](https://github.com/dylang/npm-check)
 
+- [siddharthkp/bundlesize](https://github.com/siddharthkp/bundlesize)
+
+  > Keep your bundle size in check
+
 ###
 
 - [Should you Pin your Javascript Dependencies? - renovatebot.com](https://renovatebot.com/docs/dependency-pinning/)
