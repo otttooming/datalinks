@@ -29,6 +29,10 @@ title: Static site generators
 
   > Next.js is a minimalistic framework for server-rendered React applications.
 
+- [stereobooster/react-snap](https://github.com/stereobooster/react-snap)
+
+  > Zero-configuration framework-agnostic static prerendering for SPAs
+
 ## Vue
 
 - **GitHub** [Nuxt.js](https://github.com/nuxt/nuxt.js)
