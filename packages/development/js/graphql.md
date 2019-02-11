@@ -10,6 +10,10 @@
 
 - [How to build a GraphQL App with Fetch](https://www.prisma.io/tutorials/build-react-graphql-app-with-fetch-ct19)
 
+- [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react)
+
+  > A lightweight GraphQL client for React
+
 ## Permissions
 
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield)
