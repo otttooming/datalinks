@@ -32,3 +32,9 @@
   > schema management and performance metrics monitoring
 
 - [How to master Redux and Apollo’s HOCs in Typescript](https://blog.aptus.be/how-to-master-redux-and-apollos-hocs-in-typescript-df0292a12c99)
+
+## CMS
+
+- [birkir/prime](https://github.com/birkir/prime)
+
+  > Open Source GraphQL CMS
