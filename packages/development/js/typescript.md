@@ -107,3 +107,9 @@ TS: cannot invoke an expression whose type lacks a call signature
 - [Yarn's Future – v2 and beyond](https://news.ycombinator.com/item?id=18989207)
 
   > Yarn and Jest are being rewritten to TypeScript from Flow
+
+## Generate documentation
+
+- [phenomnomnominal/tsquery](https://github.com/phenomnomnominal/tsquery)
+
+  > TypeScript AST query library
