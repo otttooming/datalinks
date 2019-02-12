@@ -1,0 +1,137 @@
+\documentclass{EUASThesis}
+
+\usepackage[utf8]{inputenc}
+\usepackage{titlesec}
+
+\author{Ott Tooming}
+\title{Reflektsioon loengust}
+\date{Tallinn 2019}
+
+% Set Section count from 0
+\setcounter{section}{0}
+
+% We set tolerance to prevent word overflows
+% https://tex.stackexchange.com/questions/19178/whats-the-difference-between-tolerance-and-badness
+\tolerance=1600
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%% user-defined variables used in several places of this document %%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% main information
+\newcommand{\AuthorName}{Ott Tooming} % Author's name
+\newcommand{\UniversityName}{Eesti Ettevõtluskõrgkool Mainor}
+\newcommand{\CurriculumName}{Veebidisain ja digitaalgraafika õppekava}
+\newcommand{\ThesisTitle}{Reflektsioon loengust} % Title of thesis
+\newcommand{\ThesisType}{Essee} % Type of thesis
+\newcommand{\InstructorName}{Taimi Elenurm, MA} % Type of thesis
+\newcommand{\Location}{Tallinn} % Name of the city
+\newcommand{\Year}{2019} % Year of defence
+\newcommand{\ThesisNumber}{XX/201X} % Thesis number given by printing office
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% insert here the Bibtex names for the articles contained in the work.         %%%
+%%% If more than 3, then: a) expand this list;                                   %%%
+%%% and b) modify sections 'List of publications' and 'Appendix A: Publications' %%%
+\newcommand{\FirstArticle}{ArticleNo1} % work no. 1,     'ArticleNo1' is the BibTeX label,
+\newcommand{\SecondArticle}{ArticleNo2} % article no. 2, it's what you'd use in \cite{ArticleNo1} 
+\newcommand{\ThirdArticle}{ArticleNo3} % article no. 3   (the entry labels in *.bib file)
+%\newcommand{\FourthArticle}{ArticleNo4} % article no. 4
+%\newcommand{\FifthArticle}{ArticleNo5} % article no. 5
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% list of bibliography resource files
+\newcommand{\BibResources}{references} % list here the bibliography resources used in the work
+                                          % that means .bib files with absolute or relative paths,
+                                          % separated by a comma (no space). Here the file
+                                          % './references.bib' is used
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%             end of common variables (used in several places)                 %%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%% Title page
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{centering}
+
+%%%%%%%%%%%%%%%%
+%%%%%%%%% Header section
+%%%%%%%%%%%%%%%%
+
+{\large
+\MakeUppercase{\UniversityName} \\
+}
+\CurriculumName \\
+
+%%%%%%%%%%%%%%%%
+%%%%%%%%% /END Header section
+%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%
+%%%%%%%%% Middle section
+%%%%%%%%%%%%%%%%
+
+\vspace{6.5CM}
+{\small \AuthorName} \\
+\vspace{0.5CM}
+
+{\huge
+\bf{
+\ThesisTitle \\
+}
+}
+
+\vspace{0.5CM}
+\ThesisType \\
+\vspace{1CM}
+\hfill{Juhendaja: \InstructorName}
+
+%%%%%%%%%%%%%%%%
+%%%%%%%%% /END Middle section
+%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%
+%%%%%%%%% Footer section
+%%%%%%%%%%%%%%%%
+
+\vspace{8.2cm}
+\small{\Location} \small{\Year}
+\vspace{1cm}
+
+%%%%%%%%%%%%%%%%
+%%%%%%%%% /END Footer section
+%%%%%%%%%%%%%%%%
+
+\end{centering}
+\thispagestyle{empty}
+
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%% /END Title page
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% \maketitle
+% \titlespacing{\section}{22pc}{1.5ex plus .1ex minus .2ex}{1pc}
+
+% \titlespacing{\section}{\justify}{22pc}{1.5ex plus .1ex minus .2ex}{1pc}
+
+\titleformat{\section}[block]{\normalfont\large\bfseries}{\thesection}{0.333em}{}
+
+\vspace{\baselineskip}
+\tableofcontents
+\vspace{\baselineskip}
+
+\section{Sissejuhatus}
+Siseettevõtjaks kujunemine ja sellele tendentsile tagant lükkamine tänapäeva ärikultuuris on mõjukas võimalus tõsta äriorganisatsiooni konkurentsieelist. Võimaldab see olla eesrinnas dünaamiliste muudatustega pidevalt muutuvas turukeskkonnas ning kohandada enda soove ja vajadusi vastavalt oludele. Juhatusele toob situatsioon kaasa värskeid kontseptsioone mille põhjal hinnata alt ülesse hierarhia pilgust tulenevat positsiooni ja põhineda vastavalt ka informeeritud strukturaalsele tagasisidele otsuste läbiviimisel. Töötajate perspektiivist toob võimalus endaga kaasa panustada suuremasse autonoomiasse ning töökorralduse organiseerimisse, tuues endaga kaasa suurema kaasluse ettevõtte siseses hierarhias ja laiendades produktiivsust.\par
+
+Üha kiirenevas majandustempos on praktiline lähenemine ning asjakohane praktiline teadlikkus kõrges hinnas ning traditsioonilised ülalt alla käsustruktuurid ei võimalda ettevõtetel saavutada optimaalset turueelist. Antud orgaanilises süsteemis on edukad need kes võtavad maksimaalse oma koguorganismi potentsiaalist ning tärkavad innovatiivse ettevõtlikkuse potentsiaali oma sisemistes organisatsioonides. Võimalused eduks on maksimaalselt avatud nendele majanduslikele osalejatele kes väldivad liigset bürokraatiat ja panustavad isekorralduvatele strukturaalsetele tugedele nagu siseettevõtjad nende seas. \par
+
+
+\section{Conclusion}
+``I always thought something was fundamentally wrong with the universe''
+
+\end{document}
