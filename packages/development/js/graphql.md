@@ -14,6 +14,10 @@
 
   > A lightweight GraphQL client for React
 
+## Structure
+
+- [Explaining GraphQL Connections](https://blog.apollographql.com/explaining-graphql-connections-c48b7c3d6976)
+
 ## Permissions
 
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield)
