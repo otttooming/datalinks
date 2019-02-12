@@ -12,6 +12,10 @@
 
   > Compute measurements of React components. Uses a ResizeObserver to detect when an element's dimensions have changed
 
+## UI libraries
+
+- [Shards React](https://designrevision.com/docs/shards-react/getting-started)
+
 ## Scroll
 
 - [ganderzz/react-scroll-to](https://github.com/ganderzz/react-scroll-to)
