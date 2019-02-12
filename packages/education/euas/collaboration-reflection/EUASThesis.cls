@@ -63,6 +63,7 @@
 % beforeskip: Absolute value = skip to leave above the heading. If negative, then paragraph indent of text following heading is suppressed. (special char.)
 % afterskip: If positive, then skip to leave below heading, else negative of skip to leave to right of run-in heading. 
 % style: Commands to set style. Since June 1996 release the last command in this argument may be a command such as \MakeUppercase or \fbox that takes an argument. The section heading will be supplied as the argument to this command. So setting #6 to, say, \bfseries\MakeUppercase would produce bold, uppercase headings.
+
 \renewcommand\section{\@startsection {section}{1}{\z@}%
                                    {-1pt}
                                    %{-3.5ex \@plus -1ex \@minus -.2ex}%
@@ -103,7 +104,6 @@
 \let\oldsection\section
 \renewcommand\section{\clearpage\oldsection}
 \def\oddpagesection{\cleardoublepage\oldsection} % normal section, starts on new odd page
-
 
 %%%%%%%%%%%%%%% new classes etc.
 % publications class for list of author's publications in PhD thesis
