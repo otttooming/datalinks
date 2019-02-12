@@ -113,3 +113,7 @@ TS: cannot invoke an expression whose type lacks a call signature
 - [phenomnomnominal/tsquery](https://github.com/phenomnomnominal/tsquery)
 
   > TypeScript AST query library
+
+## TypeDoc
+
+- [Typedoc does not play well with alias type arguments](https://github.com/TypeStrong/typedoc/issues/729)
