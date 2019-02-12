@@ -26,6 +26,10 @@
 
   > Scroll to a position in React
 
+- [alvarotrigo/react-fullpage](https://github.com/alvarotrigo/react-fullpage)
+
+  > Official React.js wrapper for fullPage.js
+
 ## classList
 
 - [lukeed/clsx](https://github.com/lukeed/clsx)
