@@ -1,5 +1,9 @@
 # Components
 
+- [smooth-code/loadable-components](https://github.com/smooth-code/loadable-components)
+
+  > A React code splitting library. Not an alternative to React.lazy. Server Side Rendering.
+
 - [researchgate/react-intersection-observer](https://github.com/researchgate/react-intersection-observer)
 
   > React component for the Intersection <Observer /> API
