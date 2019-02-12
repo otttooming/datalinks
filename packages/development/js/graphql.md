@@ -42,3 +42,19 @@
 - [birkir/prime](https://github.com/birkir/prime)
 
   > Open Source GraphQL CMS
+
+## Testing
+
+- [EasyGraphQL](https://github.com/EasyGraphQL)
+
+  > EasyGraphQL is a group of open source tools, with the main focus to help developers that use GraphQL or just want to start using it.
+
+- [EasyGraphQL/easygraphql-tester](https://github.com/EasyGraphQL/easygraphql-tester)
+
+  > Test GraphQL queries, mutations and schemas on an easy way!
+
+- [EasyGraphQL/easygraphql-load-tester](https://github.com/EasyGraphQL/easygraphql-load-tester)
+
+  > This package will create queries from your schema to use with your favorite load testing package.
+
+- [How I started doing load testing on GraphQL without writing a single Query](https://medium.com/open-graphql/how-i-started-doing-load-testing-on-graphql-without-writing-a-single-query-cc4b2dfe27f0)
