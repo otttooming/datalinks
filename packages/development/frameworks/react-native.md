@@ -8,3 +8,9 @@
 
 - [necolas/react-native-web](https://github.com/necolas/react-native-web)
   > React Native for Web
+
+## Components
+
+- [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
+
+  > Customizable and reusable react-native component kit
