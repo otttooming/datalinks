@@ -25,6 +25,8 @@ title: Editor
 
 - **_GitHub_** [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
 
+- [planbcoding/vscode-react-refactor](https://github.com/planbcoding/vscode-react-refactor)
+
 ## Themes
 
 - [vscodethemes](https://vscodethemes.com/)
