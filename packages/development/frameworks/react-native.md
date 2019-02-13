@@ -7,7 +7,12 @@
   > A React environment for cross platform native desktop apps
 
 - [necolas/react-native-web](https://github.com/necolas/react-native-web)
+
   > React Native for Web
+
+- [Microsoft/reactxp](https://github.com/Microsoft/reactxp)
+
+  > Library for cross-platform app development.
 
 ## Components
 
