@@ -23,3 +23,13 @@
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
 
   > Customizable and reusable react-native component kit
+
+- [newsuk/times-components](https://github.com/newsuk/times-components)
+
+  > A collection of reusable components used by The Times
+
+## Testing
+
+- [newsuk/dextrose](https://github.com/newsuk/dextrose)
+
+  > React Native Snapshot Tool for Ios, Android & Web
