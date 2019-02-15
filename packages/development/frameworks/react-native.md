@@ -22,6 +22,12 @@
 
   > An experimental, comprehensive port of React Native to the web.
 
+### Examples
+
+- [react-cross-platform/reactxp-shop](https://github.com/react-cross-platform/reactxp-shop)
+
+  > Cross-platform shop (Web, iOs, Android) using ReactXP
+
 ## Components
 
 - [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten)
