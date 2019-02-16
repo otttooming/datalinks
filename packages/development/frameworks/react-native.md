@@ -51,3 +51,5 @@
 ## Articles
 
 - [React Native Navigation solutions in 2018](https://medium.com/osedea/react-native-navigation-solutions-in-2018-6ff1dd7f6d20)
+
+- [How to: React Native Web app. A Happy Struggle.](https://blog.bitsrc.io/how-to-react-native-web-app-a-happy-struggle-aea7906f4903)
