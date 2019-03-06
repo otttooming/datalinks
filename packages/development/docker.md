@@ -16,3 +16,9 @@
 - [Google Knative](https://cloud.google.com/knative/)
 
   > Kubernetes-based platform to build, deploy, and manage modern serverless workloads.
+
+## Examples
+
+- [andrewnaeve/Full-Stack-Docker](https://github.com/andrewnaeve/Full-Stack-Docker)
+
+  > React frontend, multi-core Apollo Server 2 API, and Postgres micro-services running in Docker
