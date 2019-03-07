@@ -20,7 +20,12 @@ layout: page
   > Replacement for 'ls' written in Rust. https://the.exa.website/
 
 - [nicolargo/glances](https://github.com/nicolargo/glances)
+
   > A top/htop alternative
+
+- [hackerb9/lsix](https://github.com/hackerb9/lsix)
+
+  > Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 
 # Node.js
 
