@@ -16,6 +16,10 @@
 
   > Compute measurements of React components. Uses a ResizeObserver to detect when an element's dimensions have changed
 
+- [react-spring/react-spring](https://github.com/react-spring/react-spring)
+
+  > A spring physics based React animation library
+
 ## UI libraries
 
 - [Shards React](https://designrevision.com/docs/shards-react/getting-started)
