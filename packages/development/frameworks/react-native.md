@@ -4,6 +4,10 @@
 
   > Awesome React Native components, news, tools, and learning material!
 
+- [expo/web-examples](https://github.com/expo/web-examples)
+
+  > Examples of using Expo in the browser.
+
 ## React native for the web
 
 - [kusti8/proton-native](https://github.com/kusti8/proton-native)
