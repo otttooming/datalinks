@@ -36,7 +36,7 @@ title: Reading material
 
 - [React/Redux Links](https://github.com/markerikson/react-redux-links)
 
-- **_Medium_** [Our entire team of engineers use this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
+- [Our entire team of engineers use this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 
 - [project-guidelines](https://github.com/wearehive/project-guidelines)
 

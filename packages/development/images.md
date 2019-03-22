@@ -87,7 +87,7 @@ https://github.com/anselmh/object-fit
 
 - [To Picturefill, or not to Picturefill](https://www.filamentgroup.com/lab/to-picturefill.html)
 
-- **_Medium_** [Neat trick for CSS object-fit fallback on Edge (and other browsers)](https://medium.com/@primozcigler/neat-trick-for-css-object-fit-fallback-on-edge-and-other-browsers-afbc53bbb2c3#.68cdxqj0j)
+- [Neat trick for CSS object-fit fallback on Edge (and other browsers)](https://medium.com/@primozcigler/neat-trick-for-css-object-fit-fallback-on-edge-and-other-browsers-afbc53bbb2c3#.68cdxqj0j)
 
 # Lightboxes
 

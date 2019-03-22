@@ -29,9 +29,9 @@ title: Testing
 
 # Browser testing
 
-- **_Medium_** [How to set up E2E browser testing for your GitHub project](https://hackernoon.com/how-to-set-up-e2e-browser-testing-for-your-github-project-89c24e15a84#.k0ww3req1)
+- [How to set up E2E browser testing for your GitHub project](https://hackernoon.com/how-to-set-up-e2e-browser-testing-for-your-github-project-89c24e15a84#.k0ww3req1)
 
-- **_Medium_** [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+- [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 
 # Headless browsers
 

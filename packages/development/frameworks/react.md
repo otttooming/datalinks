@@ -56,7 +56,7 @@ title: React.js
 
 - [react-virtualized](https://github.com/bvaughn/react-virtualized)
   > React components for efficiently rendering large lists and tabular data
-  - **_Medium_** [Rendering large lists with React Virtualized](https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3)
+  - [Rendering large lists with React Virtualized](https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3)
 
 ## Slider
 
@@ -113,7 +113,7 @@ title: React.js
 
   > React store built on top of the new context API
 
-- **_Medium_** [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
+- [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
 
 - [jamiebuilds/unstated](https://github.com/jamiebuilds/unstated)
 
