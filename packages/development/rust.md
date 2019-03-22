@@ -1,5 +1,9 @@
 # Rust
 
+- [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook)
+
+  > This Rust Cookbook is a collection of simple Rust examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
+
 ## Web frameworks
 
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket)
