@@ -43,6 +43,10 @@
 
   > Open Source GraphQL CMS
 
+- [Webiny/webiny-js](https://github.com/Webiny/webiny-js)
+
+  > Serverless CMS (GraphQL + React)
+
 ## Testing
 
 - [EasyGraphQL](https://github.com/EasyGraphQL)
