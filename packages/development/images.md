@@ -21,9 +21,9 @@ https://github.com/anselmh/object-fit
 
 # Responsive
 
-- **_CSS tricks_** [Img srcset](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
+- [Img srcset](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
 
-- **_Sitepoint_** [How to Build Responsive Images with srcset](https://www.sitepoint.com/how-to-build-responsive-images-with-srcset/)
+- [How to Build Responsive Images with srcset](https://www.sitepoint.com/how-to-build-responsive-images-with-srcset/)
 
 - [The anatomy of responsive images](https://jakearchibald.com/2015/anatomy-of-responsive-images/)
 
