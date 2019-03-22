@@ -136,3 +136,9 @@ https://github.com/dimsemenov/PhotoSwipe/issues/860
 
 - [Better Portable Graphics](https://en.wikipedia.org/wiki/Better_Portable_Graphics)
   > Based on High Efficiency Video Coding (HVEC)
+
+# Processing
+
+- [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs)
+
+  > NSFW detection on the client-side via Tensorflow JS
