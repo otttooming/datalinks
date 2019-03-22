@@ -3,7 +3,7 @@ layout: page
 title: Visibility
 ---
 
-- **_GitHub_** [True visibility - Checks if a DOM element is truly visible](https://github.com/UseAllFive/true-visibility)
+- [True visibility - Checks if a DOM element is truly visible](https://github.com/UseAllFive/true-visibility)
 
 ```js
 function elementInViewport(el) {
@@ -51,7 +51,7 @@ function elementInViewport2(el) {
 
 ## Page Visibility API
 
-- **_MozDev_** [Page Visibility API](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
+- [Page Visibility API](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API)
 
 ```js
 // Set the name of the hidden property and the change event for visibility

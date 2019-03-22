@@ -13,9 +13,9 @@ title: Plain vanilla javascript
 
 - [BackgroundCheck](http://www.kennethcachia.com/background-check/)
 
-- **_GitHub_** [lazySizes is the ultimate and lightweight lazyLoader](http://afarkas.github.io/lazysizes/)
+- [lazySizes is the ultimate and lightweight lazyLoader](http://afarkas.github.io/lazysizes/)
 
-- **_GitHub_** [Trianglify - algorithmically generated triangle art](https://github.com/qrohlf/trianglify)
+- [Trianglify - algorithmically generated triangle art](https://github.com/qrohlf/trianglify)
 
 ## Code exmaples
 

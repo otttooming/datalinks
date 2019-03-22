@@ -83,5 +83,5 @@ function arrayContains(firstArray, thing) {
 
 ## Remove array item
 
-- **_GitHub_** [gist](https://gist.github.com/chad3814/2924672)
+- [gist](https://gist.github.com/chad3814/2924672)
   > deleting array items in javascript with forEach() and splice()

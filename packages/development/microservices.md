@@ -1,5 +1,5 @@
 # Images
 
-- **_GitHub_** [imgproxy](https://github.com/DarthSim/imgproxy)
+- [imgproxy](https://github.com/DarthSim/imgproxy)
 
   > Fast and secure standalone server for resizing and converting remote images

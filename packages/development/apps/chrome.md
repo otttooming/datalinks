@@ -11,11 +11,11 @@ title: Google Chrome
 
   > AdNauseam works to complete the cycle by automating Ad clicks universally and blindly on behalf of its users.
 
-- **_GitHub_** [uBlock Origin](https://github.com/gorhill/uBlock)
+- [uBlock Origin](https://github.com/gorhill/uBlock)
 
   > An efficient blocker for Chromium and Firefox. Fast and lean.
 
-- **_GitHub_** [react-devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
+- [react-devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
   > If you need to debug a React page somewhere other than Chrome on desktop.
   > Separate Electron app
 

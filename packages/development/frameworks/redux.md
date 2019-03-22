@@ -5,7 +5,7 @@ title: Redux
 
 - Middleware
 
-- **_GitHub_** [redux-persist](https://github.com/rt2zz/redux-persist)
+- [redux-persist](https://github.com/rt2zz/redux-persist)
   > persist and rehydrate a redux store
 
 # Selectors

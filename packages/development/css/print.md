@@ -5,7 +5,7 @@ title: Print
 
 # CSS
 
-- **_GitHub_** [cognitom/paper-css](https://github.com/cognitom/paper-css)
+- [cognitom/paper-css](https://github.com/cognitom/paper-css)
 
 # Misc
 

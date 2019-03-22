@@ -9,7 +9,7 @@ title: Time
 
 ## Timezone
 
-- **_GitHub_** [spacetime](https://github.com/smallwins/spacetime)
+- [spacetime](https://github.com/smallwins/spacetime)
 
   > A lightweight way to handle timezones in js
 
@@ -17,7 +17,7 @@ title: Time
 
   > Parse and display dates in any timezone.
 
-- **_GitHub_** [Luxon](https://github.com/moment/luxon)
+- [Luxon](https://github.com/moment/luxon)
 
   > Modern replacement for Moment
   > A library for working with dates and times in JS

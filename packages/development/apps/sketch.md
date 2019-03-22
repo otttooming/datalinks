@@ -5,7 +5,7 @@ title: Sketch
 
 # Plugins
 
-- **_GitHub_** [weixin/WeSketch](https://github.com/weixin/WeSketch)
+- [weixin/WeSketch](https://github.com/weixin/WeSketch)
 
   > A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.
 

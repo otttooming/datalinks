@@ -18,5 +18,5 @@
 
   > Arbitrary precision integers in JavaScript
 
-- **_GitHub_** [dcodeIO/long.js](https://github.com/dcodeIO/long.js)
+- [dcodeIO/long.js](https://github.com/dcodeIO/long.js)
   > A Long class for representing a 64-bit two's-complement integer value.

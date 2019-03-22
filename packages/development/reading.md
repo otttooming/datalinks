@@ -5,7 +5,7 @@ title: Reading material
 
 ## General
 
-- **_GitHub_** [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
   > Manually curated collection of resources for frontend web developers.
@@ -18,7 +18,7 @@ title: Reading material
 
 - [A Study Plan To Cure JavaScript Fatigue](https://medium.com/@sachagreif/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.82uweltdq)
 
-- **_GitHub_** [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
+- [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
 
   > This book explores the core principles of functional programming (FP) that can be applied to JavaScript.
 
@@ -34,11 +34,11 @@ title: Reading material
 
 - [Google Web Developers](https://developers.google.com/web/)
 
-- **_GitHub_** [React/Redux Links](https://github.com/markerikson/react-redux-links)
+- [React/Redux Links](https://github.com/markerikson/react-redux-links)
 
 - **_Medium_** [Our entire team of engineers use this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 
-- **_GitHub_** [project-guidelines](https://github.com/wearehive/project-guidelines)
+- [project-guidelines](https://github.com/wearehive/project-guidelines)
 
   > A set of best practices for JavaScript projects
 

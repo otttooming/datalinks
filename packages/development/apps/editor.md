@@ -13,17 +13,17 @@ title: Editor
 
 ## Extensions
 
-- **_GitHub_** [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode)
+- [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode)
 
   > EditorConfig extension for Visual Studio Code
 
-- **_GitHub_** [prettier-vscode](https://github.com/prettier/prettier-vscode)
+- [prettier-vscode](https://github.com/prettier/prettier-vscode)
 
   > Visual Studio Code plugin for Prettier
 
-- **_GitHub_** [typescript-hero](https://github.com/buehler/typescript-hero)
+- [typescript-hero](https://github.com/buehler/typescript-hero)
 
-- **_GitHub_** [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
+- [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
 
 - [planbcoding/vscode-react-refactor](https://github.com/planbcoding/vscode-react-refactor)
 
@@ -33,4 +33,4 @@ title: Editor
 
 # Typefaces
 
-- **_GitHub_** [FiraCode](https://github.com/tonsky/FiraCode)
+- [FiraCode](https://github.com/tonsky/FiraCode)

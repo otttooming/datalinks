@@ -5,31 +5,31 @@ title: React.js
 
 # Components
 
-- **_GitHub_** [Elemental components for doing animations in React](https://github.com/nitin42/animate-components)
+- [Elemental components for doing animations in React](https://github.com/nitin42/animate-components)
 
-- **_GitHub_** [airbnb/react-dates](https://github.com/airbnb/react-dates)
+- [airbnb/react-dates](https://github.com/airbnb/react-dates)
 
   > An easily internationalizable, mobile-friendly datepicker library for the web
 
-- **_GitHub_** [react-motion](https://github.com/chenglou/react-motion)
+- [react-motion](https://github.com/chenglou/react-motion)
 
   > A spring that solves your animation problems.
 
-- **_GitHub_** [drcmda/react-spring](https://github.com/drcmda/react-spring)
+- [drcmda/react-spring](https://github.com/drcmda/react-spring)
 
   > Helping react-motion and animated to become best friends.
 
-- **_GitHub_** [react-modal](https://github.com/reactjs/react-modal)
+- [react-modal](https://github.com/reactjs/react-modal)
 
-- **_GitHub_** [react-autosuggest](https://github.com/moroshko/react-autosuggest)
+- [react-autosuggest](https://github.com/moroshko/react-autosuggest)
 
   > WAI-ARIA compliant React autosuggest component
 
-- **_GitHub_** [react-tippy](https://github.com/tvkhoa/react-tippy/)
+- [react-tippy](https://github.com/tvkhoa/react-tippy/)
 
   > A lightweight tooltip for React. Based on tippy.js and powered by Popper.js
 
-- **_GitHub_** [oliviertassinari/react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views)
+- [oliviertassinari/react-swipeable-views](https://github.com/oliviertassinari/react-swipeable-views)
 
   > A React component for swipeable views
 
@@ -54,22 +54,22 @@ title: React.js
 
   > react-window is a complete rewrite of react-virtualized
 
-- **_GitHub_** [react-virtualized](https://github.com/bvaughn/react-virtualized)
+- [react-virtualized](https://github.com/bvaughn/react-virtualized)
   > React components for efficiently rendering large lists and tabular data
   - **_Medium_** [Rendering large lists with React Virtualized](https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3)
 
 ## Slider
 
-- **_GitHub_** [airbnb/rheostat](https://github.com/airbnb/rheostat)
+- [airbnb/rheostat](https://github.com/airbnb/rheostat)
 
   > Rheostat is a www, mobile, and accessible slider component built with React
 
-- **_GitHub_** [noUiSlider](https://github.com/leongersen/noUiSlider/)
+- [noUiSlider](https://github.com/leongersen/noUiSlider/)
   > noUiSlider is lightweight JavaScript range slider
 
 ## Drag and drop
 
-- **_GitHub_** [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
 
   > Beautiful, accessible drag and drop for lists with React.js
 
@@ -95,7 +95,7 @@ title: React.js
 
 # Example projects
 
-- **_GitHub_** [RAN! React . GraphQL . Next.js Toolkit](https://github.com/Sly777/ran)
+- [RAN! React . GraphQL . Next.js Toolkit](https://github.com/Sly777/ran)
 
   > SEO-Ready, Production-Ready, SSR, Hot-Reload, CSS-in-JS, Caching, CLI commands and more...
 
@@ -109,7 +109,7 @@ title: React.js
 
 # Store
 
-- **_GitHub_** [react-waterfall](https://github.com/didierfranc/react-waterfall)
+- [react-waterfall](https://github.com/didierfranc/react-waterfall)
 
   > React store built on top of the new context API
 

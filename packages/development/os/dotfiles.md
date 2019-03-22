@@ -5,11 +5,11 @@ title: Dotfiles
 
 ## MacOS
 
-- **_GItHub_** [mathiasbynens/dotfiles ](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
+- [mathiasbynens/dotfiles ](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
 
-- **_GitHub_** [holman/dotfiles](https://github.com/holman/dotfiles)
+- [holman/dotfiles](https://github.com/holman/dotfiles)
 
-- **_GitHub_** [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
+- [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
 
 # Articles
 

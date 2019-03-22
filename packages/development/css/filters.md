@@ -7,13 +7,13 @@ title: Filters
 
 - **_CSS-Tricks_** [Breaking down CSS Box Shadow vs. Drop Shadow](https://css-tricks.com/breaking-css-box-shadow-vs-drop-shadow/)
 
-- **_MDN_** [drop-shadow()](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow)
+- [drop-shadow()](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/drop-shadow)
 
 ## Backdrop filter
 
 - **_WebKit_** [Backdrop filters](https://webkit.org/blog/3632/introducing-backdrop-filters/)
 
-- **_MozDev_** [Backdrop filters](https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter)
+- [Backdrop filters](https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter)
 
 ```css
 /* Keyword value */

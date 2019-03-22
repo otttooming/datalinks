@@ -18,11 +18,11 @@
 
 # Types
 
-- **_GitHub_** [wordpress-api](https://github.com/dderevjanik/wordpress-api/tree/master/lib/interface)
+- [wordpress-api](https://github.com/dderevjanik/wordpress-api/tree/master/lib/interface)
 
 # Bugs
 
-- **_GitHub_** [Enums can no longer be used for index signature types](https://github.com/Microsoft/TypeScript/issues/13042)
+- [Enums can no longer be used for index signature types](https://github.com/Microsoft/TypeScript/issues/13042)
 
 # Imports
 

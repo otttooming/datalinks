@@ -14,4 +14,4 @@
 
 ## Elements
 
-- **_GitHub_** [vaadin/vaadin-combo-box](https://github.com/vaadin/vaadin-combo-box)
+- [vaadin/vaadin-combo-box](https://github.com/vaadin/vaadin-combo-box)

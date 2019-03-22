@@ -3,11 +3,11 @@ layout: page
 title: Regular expressions
 ---
 
-- **_GitHub_** [RE-Build: Building regular expressions with natural language](https://github.com/MaxArt2501/re-build)
-- **_GitHub_** [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
+- [RE-Build: Building regular expressions with natural language](https://github.com/MaxArt2501/re-build)
+- [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
 - [regexhub](https://projects.lukehaas.me/regexhub/)
   > Useful Regex Patterns
-- **_GitHub_** [RegexHQ](https://github.com/regexhq)
+- [RegexHQ](https://github.com/regexhq)
   > Collaboration on world-wide community-driven collections of RegExp patterns and tools that can make our life easier.
 
 # Snippets

@@ -5,7 +5,7 @@ title: Debounce
 
 # animationframes
 
-- [**_GitHub_** animationframes](https://github.com/pakastin/animationframes)
+- [animationframes](https://github.com/pakastin/animationframes)
 
   > Minimalistic way to create JS animations!
 

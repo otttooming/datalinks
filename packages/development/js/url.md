@@ -5,15 +5,15 @@ title: URL
 
 ## URL queries
 
-- [**_GitHub_** query-object](https://github.com/fernandofleury/query-object)
+- [query-object](https://github.com/fernandofleury/query-object)
 
   > Easy url query string manipulation via Objects (using JavaScript)
 
-- [**_GitHub_** query-string](https://github.com/sindresorhus/query-string)
+- [query-string](https://github.com/sindresorhus/query-string)
 
   > Parse and stringify URL query strings
 
-- [**_GitHub_** url-query](https://github.com/intesso/url-query)
+- [url-query](https://github.com/intesso/url-query)
   > return location.search as object
 
 ### Snippets

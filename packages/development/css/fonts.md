@@ -17,7 +17,7 @@ layout: page
 
 # Font display
 
-- **_MDN_** [@font-face font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display)
+- [@font-face font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display)
   > The font-display descriptor determines how a font face is displayed based on whether and when it is downloaded and ready to use.
 
 ```css

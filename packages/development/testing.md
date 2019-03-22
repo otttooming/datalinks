@@ -9,7 +9,7 @@ title: Testing
 
 # Component storybooks
 
-- **_GitHub_** [c8r/kit](https://github.com/c8r/kit)
+- [c8r/kit](https://github.com/c8r/kit)
 
   > Tools for developing, documenting, and testing React component libraries
 
@@ -37,13 +37,13 @@ title: Testing
 
 - **_Google Developers_** [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
 
-- **_GitHub_** [chrome-headless-screenshots](https://github.com/schnerd/chrome-headless-screenshots)
+- [chrome-headless-screenshots](https://github.com/schnerd/chrome-headless-screenshots)
 
-- **_GitHub_** [chromeless](https://github.com/graphcool/chromeless)
+- [chromeless](https://github.com/graphcool/chromeless)
 
   > Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
-- **_GitHub_** [Puppeteer](https://github.com/GoogleChrome/puppeteer)
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
   > Puppeteer is a Node library which provides a high-level API to control headless Chrome over the DevTools Protocol. It can also be configured to use full (non-headless) Chrome.
 
@@ -55,43 +55,43 @@ title: Testing
 
   > A curated list of awesome puppeteer resources.
 
-- **_GitHub_** [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron)
+- [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron)
 
   > Rendertron is a dockerized, headless Chrome rendering solution designed to render & serialise web pages on the fly.
 
-- **_GitHub_** [thal](https://github.com/emadehsan/thal)
+- [thal](https://github.com/emadehsan/thal)
   > Getting started with Puppeteer and Chrome Headless for Web Scraping
 
 # Visual regression testing
 
-- **_GitHub_** [BackstopJS](https://github.com/garris/BackstopJS)
+- [BackstopJS](https://github.com/garris/BackstopJS)
 
   > BackstopJS automates visual regression testing of your responsive web UI by comparing DOM screenshots over time.
   > Render with Chrome Headless, Phantom and Slimer
 
-- **_GitHub_** [americanexpress/jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot)
+- [americanexpress/jest-image-snapshot](https://github.com/americanexpress/jest-image-snapshot)
 
 - [Resemble.js : Image analysis and comparison](https://huddle.github.io/Resemble.js/)
 
   > Resemble.js analyses and compares images with HTML5 canvas and JavaScript.
 
-- **_GitHub_** [storybook/addons/storyshots/](https://github.com/storybooks/storybook/tree/master/addons/storyshots)
+- [storybook/addons/storyshots/](https://github.com/storybooks/storybook/tree/master/addons/storyshots)
 
   > StoryShots adds automatic Jest Snapshot Testing for Storybook.
 
-- **_GitHub_** [oblador/loki](https://github.com/oblador/loki)
+- [oblador/loki](https://github.com/oblador/loki)
 
   > Visual Regression Testing for Storybook
 
-- **_GitHub_** [Visual/CSS regression testing with PhantomJS](https://github.com/Huddle/PhantomCSS)
+- [Visual/CSS regression testing with PhantomJS](https://github.com/Huddle/PhantomCSS)
 
-- **_GitHub_** [webdrivercss](https://github.com/webdriverio/webdrivercss)
+- [webdrivercss](https://github.com/webdriverio/webdrivercss)
   > Regression testing tool for WebdriverIO
   > **No longer maintained**
 
 ---
 
-- **_GitHub_** [graphcool/chromeless](https://github.com/graphcool/chromeless)
+- [graphcool/chromeless](https://github.com/graphcool/chromeless)
   > Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
 ## Articles

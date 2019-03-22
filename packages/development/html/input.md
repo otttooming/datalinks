@@ -13,15 +13,15 @@ title: Input field
 
 Specific implementations use out of viewport or hidden element to calculate _input_ field length.
 
-- **_GitHub_** [jQuery.Autosize.Input](https://github.com/MartinF/jQuery.Autosize.Input)
+- [jQuery.Autosize.Input](https://github.com/MartinF/jQuery.Autosize.Input)
 
   > A jQuery plugin which automatically resizes the width of input fields according to the content, while typing.
 
-- [**_GitHub_** React-Input-Autosize](https://github.com/JedWatson/react-input-autosize)
+- [React-Input-Autosize](https://github.com/JedWatson/react-input-autosize)
 
   > Auto-resizing input field for React
 
-- [**_GitHub_** autosize-input.js](https://github.com/yuanqing/autosize-input)
+- [autosize-input.js](https://github.com/yuanqing/autosize-input)
   > Effortless, dynamic-width text boxes in vanilla JavaScript.
 
 ## Autosize input field with _contenteditable_ element

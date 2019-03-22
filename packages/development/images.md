@@ -81,7 +81,7 @@ https://github.com/anselmh/object-fit
 
 ## Polyfills
 
-- **_GitHub_** [bfred-it/object-fit-images](https://github.com/bfred-it/object-fit-images)
+- [bfred-it/object-fit-images](https://github.com/bfred-it/object-fit-images)
 
   > This adds support for object-fit and object-position to IEdge 9-13, Android < 5, Safari < 10 and skips browsers that already support them.
 
@@ -113,26 +113,26 @@ https://github.com/dimsemenov/PhotoSwipe/issues/860
 
 ## Alternative lightboxes
 
-- **_GitHub_** [DxF5H/lightbox](https://github.com/DxF5H/lightbox)
+- [DxF5H/lightbox](https://github.com/DxF5H/lightbox)
 
   > Doesn't need image dimensions
 
-- **_Github_** [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)
+- [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)
   > No dependencies, no need for image dimensions
 
 # Image preloading
 
-- **_GitHub_** [jasonslyvia/react-lazyload](https://github.com/jasonslyvia/react-lazyload)
+- [jasonslyvia/react-lazyload](https://github.com/jasonslyvia/react-lazyload)
 
-- **_GitHub_** [Coloor - Image preloading utility](https://github.com/krasimir/coloor)
+- [Coloor - Image preloading utility](https://github.com/krasimir/coloor)
   > Coloor is a HTML preprocessor that decorates your <img> tags with data-coloor attributes containing a small base64 encoded version of your image. The idea is to quickly show the small image as a placeholder while the original one is loading.
 
 ## Dominant Colors for Lazy-Loading Images
 
 - [Dominant Colors for Lazy-Loading Images](https://manu.ninja/dominant-colors-for-lazy-loading-images)
-- **_GitHub_** [antimoderate](https://github.com/whackashoe/antimoderate)
+- [antimoderate](https://github.com/whackashoe/antimoderate)
 
 ## Better Portable Graphics
 
-- **_WikiPedia_** [Better Portable Graphics](https://en.wikipedia.org/wiki/Better_Portable_Graphics)
+- [Better Portable Graphics](https://en.wikipedia.org/wiki/Better_Portable_Graphics)
   > Based on High Efficiency Video Coding (HVEC)
