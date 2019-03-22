@@ -52,6 +52,8 @@ title: React.js
 
 - [bvaughn/react-window](https://github.com/bvaughn/react-window)
 
+  > react-window is a complete rewrite of react-virtualized
+
 - **_GitHub_** [react-virtualized](https://github.com/bvaughn/react-virtualized)
   > React components for efficiently rendering large lists and tabular data
   - **_Medium_** [Rendering large lists with React Virtualized](https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3)
