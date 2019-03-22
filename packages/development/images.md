@@ -91,28 +91,6 @@ https://github.com/anselmh/object-fit
 
 # Lightboxes
 
-## PhotoSwipe
-
-### Next/prev not respecting loop: false
-
-https://github.com/dimsemenov/PhotoSwipe/pull/980
-https://github.com/candybanana/PhotoSwipe/blob/4859a41b489968c1496a50b3284fa8e7ae426f09/dist/photoswipe.js
-https://github.com/candybanana/PhotoSwipe/blob/4859a41b489968c1496a50b3284fa8e7ae426f09/dist/photoswipe.js#L667
-
-https://github.com/dimsemenov/PhotoSwipe/issues/860
-
-```js
-  getThumbBoundsFn: function(index) {
-    var thumbnail = document.querySelectorAll('#asset_' + items[index].id + ' .edy-asset-preview')[0], // find thumbnail
-        pageYScroll = window.pageYOffset || document.documentElement.scrollTop,
-        rect = thumbnail.getBoundingClientRect();
-
-    return {x:rect.left, y:rect.top + pageYScroll, w:rect.width};
-  }
-```
-
-## Alternative lightboxes
-
 - [DxF5H/lightbox](https://github.com/DxF5H/lightbox)
 
   > Doesn't need image dimensions
