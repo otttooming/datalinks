@@ -11,6 +11,10 @@ title: Editor
 
 # Visual Studio Code
 
+- [codercom/code-server](https://github.com/codercom/code-server)
+
+  > Run VS Code on a remote server
+
 ## Extensions
 
 - [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode)
