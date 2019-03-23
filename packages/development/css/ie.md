@@ -3,11 +3,13 @@ layout: page
 title: Internet Explorer
 ---
 
+# Internet Explorer
+
 ## Select dropdown
 
 ### Pseudo-element for the dropdown arrow on IE
 
-- **_StackOverflow_** [Select removing dropdown arrow](http://stackoverflow.com/questions/16603979/select-removing-dropdown-arrow)
+- [Select removing dropdown arrow](http://stackoverflow.com/questions/16603979/select-removing-dropdown-arrow)
 
 ```css
 select::-ms-expand {
@@ -17,7 +19,7 @@ select::-ms-expand {
 
 ## Hide IE scrollbars
 
-- **_MSDN_** [-ms-overflow-style property](<https://msdn.microsoft.com/en-us/library/hh771902(v=vs.85).aspx>)
+- [-ms-overflow-style property](<https://msdn.microsoft.com/en-us/library/hh771902(v=vs.85).aspx>)
 
 ```css
 body {
