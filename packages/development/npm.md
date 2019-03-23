@@ -7,6 +7,10 @@
   > Boilerplate project for publishing a React component to npm
   > Documentation and instructions on how to publish a React component to npm available
 
+### Guides
+
+- [The 30-second guide to publishing a TypeScript package to NPM](https://medium.com/cameron-nokes/the-30-second-guide-to-publishing-a-typescript-package-to-npm-89d93ff7bccd)
+
 ## Health
 
 - [npm-check](https://github.com/dylang/npm-check)
