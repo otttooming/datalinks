@@ -107,6 +107,10 @@ title: React.js
 
   > Universal React+GraphQL starter kit: React 16, Apollo 2, Webpack 4, Styled Components 4, React Router 4, PostCSS, SSR
 
+- [danilowoz/react-atomic-design](https://github.com/danilowoz/react-atomic-design)
+
+  > Boilerplate with the methodology Atomic Design using a few cool things
+
 # Store
 
 - [react-waterfall](https://github.com/didierfranc/react-waterfall)
