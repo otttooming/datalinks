@@ -1,16 +1,18 @@
-# CDN
+# Services
+
+## CDN
 
 - [cdnjs.com](https://cdnjs.com/)
 
-# Maps
+## Maps
 
 - [Mapbox](https://www.mapbox.com/)
 
-# SMS
+## SMS
 
 - [Messente - global SMS API](https://messente.com/products/global-sms-api)
 
-# Images
+## Images
 
 - [ImageKit](https://imagekit.io/)
 
