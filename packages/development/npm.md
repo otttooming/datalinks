@@ -1,5 +1,12 @@
 # NPM
 
+## Deployment
+
+- [cornflourblue/jw-react-npm-boilerplate](https://github.com/cornflourblue/jw-react-npm-boilerplate)
+
+  > Boilerplate project for publishing a React component to npm
+  > Documentation and instructions on how to publish a React component to npm available
+
 ## Health
 
 - [npm-check](https://github.com/dylang/npm-check)
