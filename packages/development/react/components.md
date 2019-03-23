@@ -24,6 +24,12 @@
 
   > React Component to lazy load images and components using a HOC to track window scroll position.
 
+## Styled components / CSS in JS
+
+- [styled-system/styled-system](https://github.com/styled-system/styled-system)
+
+  > Style props for rapid UI development
+
 ## UI libraries
 
 - [Shards React](https://designrevision.com/docs/shards-react/getting-started)
