@@ -125,3 +125,7 @@ https://github.com/anselmh/object-fit
 
   > thumbor is an open-source photo thumbnail service
   > `http://<thumbor-server>/300x200/smart/s.glbimg.com/et/bb/f/original/2011/03/24/VN0JiwzmOw0b0lg.jpg`
+
+- [lovell/sharp](https://github.com/lovell/sharp)
+
+  > High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
