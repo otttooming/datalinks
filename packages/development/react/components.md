@@ -34,6 +34,10 @@
 
 - [Shards React](https://designrevision.com/docs/shards-react/getting-started)
 
+- [instructure/instructure-ui](https://github.com/instructure/instructure-ui)
+
+  > Instructure-UI has a number of beautiful and accessible React components with baked-in styles and theming and helpful utility functions.
+
 ## Scroll
 
 - [ganderzz/react-scroll-to](https://github.com/ganderzz/react-scroll-to)
