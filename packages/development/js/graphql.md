@@ -18,10 +18,15 @@
 
 - [Explaining GraphQL Connections](https://blog.apollographql.com/explaining-graphql-connections-c48b7c3d6976)
 
-## Permissions
+## Authentication and permissions
 
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield)
+
   > A GraphQL tool to ease the creation of permission layer.
+
+- [accounts-js/accounts](https://github.com/accounts-js/accounts)
+
+  > Fullstack authentication and accounts-management for Javascript
 
 ## Database
 
