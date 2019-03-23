@@ -3,7 +3,9 @@ layout: page
 title: Text
 ---
 
-- **_Google Web Fundamentals_** [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en)
+# Text
+
+- [Web Font Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/webfont-optimization?hl=en)
 
 - [@font-face](https://developer.mozilla.org/en/docs/Web/CSS/@font-face)
 
