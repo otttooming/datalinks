@@ -1,5 +1,7 @@
 # Snippets
 
+## Clear visibility
+
 ```js
 javascript: void (function() {
   const els = document.querySelectorAll('img');
@@ -8,6 +10,8 @@ javascript: void (function() {
   });
 })();
 ```
+
+## Reload stylesheet
 
 ```js
 javascript: void (function() {
