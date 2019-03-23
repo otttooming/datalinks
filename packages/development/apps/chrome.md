@@ -3,6 +3,8 @@ layout: page
 title: Google Chrome
 ---
 
+# Google Chrome
+
 ## Extensions
 
 - [PerfectPixel by WellDoneCode](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
@@ -16,14 +18,15 @@ title: Google Chrome
   > An efficient blocker for Chromium and Firefox. Fast and lean.
 
 - [react-devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
+
   > If you need to debug a React page somewhere other than Chrome on desktop.
   > Separate Electron app
 
 ## Automatisation
 
-- **HN** [Chrome 59 has cross-platform headless support](https://news.ycombinator.com/item?id=14101233)
+- [Chrome 59 has cross-platform headless support](https://news.ycombinator.com/item?id=14101233)
 
-- **Reddit** [PhantomJS maintainer stepping down after Google's headless Chromium announcement](https://www.reddit.com/r/javascript/comments/654mnq/phantomjs_maintainer_stepping_down_after_googles/)
+- [PhantomJS maintainer stepping down after Google's headless Chromium announcement](https://www.reddit.com/r/javascript/comments/654mnq/phantomjs_maintainer_stepping_down_after_googles/)
 
 ## Console
 
