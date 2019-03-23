@@ -120,3 +120,8 @@ https://github.com/anselmh/object-fit
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs)
 
   > NSFW detection on the client-side via Tensorflow JS
+
+- [thumbor/thumbor](https://github.com/thumbor/thumbor)
+
+  > thumbor is an open-source photo thumbnail service
+  > `http://<thumbor-server>/300x200/smart/s.glbimg.com/et/bb/f/original/2011/03/24/VN0JiwzmOw0b0lg.jpg`
