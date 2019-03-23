@@ -1,5 +1,19 @@
 # TypeScript
 
+# Compilation
+
+## Copy static assets
+
+Static assets are not copied over for `tsc`
+
+[TypeScript-Node-Starter/copyStaticAssets.ts](https://github.com/Microsoft/TypeScript-Node-Starter/blob/master/copyStaticAssets.ts)
+
+```
+shell.cp("-R", "src/public/js/lib", "dist/public/js/");
+shell.cp("-R", "src/public/fonts", "dist/public/");
+shell.cp("-R", "src/public/images", "dist/public/");
+```
+
 # Blogs
 
 - [mariusschulz](https://blog.mariusschulz.com/)
