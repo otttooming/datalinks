@@ -7,11 +7,11 @@ title: Virtualization
 
 ## Docker
 
-- **GitHub** [awesome-docker](https://github.com/veggiemonk/awesome-docker)
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
   > A curated list of Docker resources and projects
 
-- **GitHub** [whalebrew](https://github.com/bfirsh/whalebrew)
+- [whalebrew](https://github.com/bfirsh/whalebrew)
   > Homebrew, but with Docker images
 
 ## Commands
@@ -42,4 +42,4 @@ Individually:
 
 ### WordPress
 
-- **GitHub** [WordPress VIP development for Docker](https://github.com/chriszarate/docker-wordpress-vip)
+- [WordPress VIP development for Docker](https://github.com/chriszarate/docker-wordpress-vip)

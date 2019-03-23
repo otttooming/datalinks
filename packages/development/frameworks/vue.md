@@ -5,7 +5,7 @@ title: Vue.js
 
 # Guides
 
-- **GitHub** [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+- [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 
 - [Intro to Vue.js: Components, Props, and Slots](https://css-tricks.com/intro-to-vue-2-components-props-slots/)
 

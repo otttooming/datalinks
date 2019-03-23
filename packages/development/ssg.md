@@ -35,7 +35,7 @@ title: Static site generators
 
 ## Vue
 
-- **GitHub** [Nuxt.js](https://github.com/nuxt/nuxt.js)
+- [Nuxt.js](https://github.com/nuxt/nuxt.js)
   > Framework for server-rendered Vue.js applications.
 
 ## Liquid likeness
