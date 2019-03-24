@@ -17,6 +17,10 @@
 
   > Kubernetes-based platform to build, deploy, and manage modern serverless workloads.
 
+### Articles
+
+- [Maybe You Don't Need Kubernetes](https://matthias-endler.de/2019/maybe-you-dont-need-kubernetes/)
+
 ## Examples
 
 - [andrewnaeve/Full-Stack-Docker](https://github.com/andrewnaeve/Full-Stack-Docker)
