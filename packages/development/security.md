@@ -3,6 +3,8 @@ layout: page
 title: Security
 ---
 
+# Security
+
 ## GPG
 
 - [GPG Tools](https://gpgtools.org)

@@ -3,6 +3,8 @@ layout: page
 title: Search components
 ---
 
+# Search components
+
 ## Rust
 
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)
