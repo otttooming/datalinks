@@ -9,4 +9,4 @@ title: Collaboration
 
 ## Slack
 
-- [SlackArchive](http://slackarchive.io/)
+- [SlackArchive](https://github.com/dutchcoders/slackarchive)
