@@ -6,6 +6,10 @@
 
 - [Zeit - Serverless Docker](https://zeit.co/blog/serverless-docker)
 
+- [HashiCorp Nomad](https://www.nomadproject.io/)
+
+  > HashiCorp Nomad is a single binary that schedules applications and services on Linux, Windows, and Mac. It is an open source scheduler that uses a declarative job file for scheduling virtualized, containerized, and standalone applications.
+
 ## Apps
 
 - [Kitematic by Docker](https://kitematic.com/)
