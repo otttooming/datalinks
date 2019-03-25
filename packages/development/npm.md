@@ -6,6 +6,12 @@
 
   > An ES6+ aware minifier based on the Babel toolchain
 
+### Rollup
+
+- [ampproject/rollup-plugin-closure-compiler](https://github.com/ampproject/rollup-plugin-closure-compiler)
+
+  > Leverage Closure Compiler to minify and optimize JavaScript with Rollup.
+
 ## Deployment
 
 - [cornflourblue/jw-react-npm-boilerplate](https://github.com/cornflourblue/jw-react-npm-boilerplate)
