@@ -1,5 +1,11 @@
 # NPM
 
+## Build
+
+- [babel/minify](https://github.com/babel/minify)
+
+  > An ES6+ aware minifier based on the Babel toolchain
+
 ## Deployment
 
 - [cornflourblue/jw-react-npm-boilerplate](https://github.com/cornflourblue/jw-react-npm-boilerplate)
