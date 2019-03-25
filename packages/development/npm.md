@@ -25,6 +25,10 @@
 
   > Keep your bundle size in check
 
+- [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer)
+
+  > Analyze and debug space usage through source maps
+
 ###
 
 - [Should you Pin your Javascript Dependencies? - renovatebot.com](https://renovatebot.com/docs/dependency-pinning/)
