@@ -31,6 +31,10 @@
 
   > Keep your bundle size in check
 
+- [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer)
+
+  > Visualize and analyze your Rollup bundle to see which modules are taking up space
+
 - [danvk/source-map-explorer](https://github.com/danvk/source-map-explorer)
 
   > Analyze and debug space usage through source maps
