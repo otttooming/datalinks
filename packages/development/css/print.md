@@ -1,15 +1,14 @@
----
-layout: page
-title: Print
----
+# Print
 
-# CSS
+## CSS
 
 - [cognitom/paper-css](https://github.com/cognitom/paper-css)
 
-# Misc
+## Page break
 
-<https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-inside> <https://developer.mozilla.org/en/docs/Web/CSS/page-break-after>
+- [page-break-inside](https://developer.mozilla.org/en-US/docs/Web/CSS/page-break-inside)
+
+- [page-break-after](https://developer.mozilla.org/en/docs/Web/CSS/page-break-after)
 
 ```css
 page-break-inside: avoid;
@@ -28,7 +27,9 @@ page-break-inside: avoid;
 }
 ```
 
-<http://stackoverflow.com/questions/16649943/css-to-set-a4-paper-size>
+## Page size
+
+- [css-to-set-a4-paper-size](http://stackoverflow.com/questions/16649943/css-to-set-a4-paper-size)
 
 ```css
 @media print {
@@ -47,6 +48,8 @@ page-break-inside: avoid;
   }
 }
 ```
+
+## Misc
 
 <http://stackoverflow.com/questions/4884380/css-page-break-not-working-in-all-browsers>
 

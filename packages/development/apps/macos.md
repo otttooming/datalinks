@@ -9,9 +9,11 @@
   > Powerful ASCII art editor designed for the Mac.
 
 - [Kap - Capture your screen](https://getkap.co/)
+
   > An open-source screen recorder built with web technology
 
 ## Keyboard
 
 - [Ukelele](http://scripts.sil.org/ukelele)
+
   > Mac OS X Keyboard Layout Editor

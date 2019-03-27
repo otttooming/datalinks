@@ -1,17 +1,18 @@
----
-layout: page
-title: SCSS mixins
----
+# SCSS mixins
 
 ## Sets
 
 - [Family.scss](https://github.com/LukyVj/family.scss)
-  _A set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way._
+
+  > A set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.\_
 
 - [Angled Edges](https://github.com/josephfusco/angled-edges)
-  _A Sass mixin for creating angled edges on sections by dynamically encoding SVGs._
 
-https://css-tricks.com/snippets/sass/maintain-aspect-ratio-mixin/
+  > A Sass mixin for creating angled edges on sections by dynamically encoding SVGs.\_
+
+## Aspect ratio
+
+- [maintain-aspect-ratio-mixin](https://css-tricks.com/snippets/sass/maintain-aspect-ratio-mixin/)
 
 ```scss
 @mixin aspect-ratio($width, $height) {
@@ -32,7 +33,7 @@ https://css-tricks.com/snippets/sass/maintain-aspect-ratio-mixin/
 }
 ```
 
-### SCSS triangle mixin
+## SCSS triangle
 
 ```scss
 @mixin triangle($width, $height, $color, $direction) {

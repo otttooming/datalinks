@@ -31,7 +31,7 @@ layout: page
 }
 ```
 
-- **_CSS-tricks_** ['font-display' for the Masses](https://css-tricks.com/font-display-masses/)
+- ['font-display' for the Masses](https://css-tricks.com/font-display-masses/)
 
 # Typeface vertical alignment
 

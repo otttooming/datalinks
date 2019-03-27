@@ -1,7 +1,4 @@
----
-layout: page
-title: Animations
----
+# Animations
 
 - [Auroral - Animated background gradients](https://github.com/LunarLogic/auroral)
 

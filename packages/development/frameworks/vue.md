@@ -1,9 +1,6 @@
----
-layout: page
-title: Vue.js
----
+# Vue.js
 
-# Guides
+## Guides
 
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 

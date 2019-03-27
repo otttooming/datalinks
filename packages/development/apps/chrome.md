@@ -1,8 +1,3 @@
----
-layout: page
-title: Google Chrome
----
-
 # Google Chrome
 
 ## Extensions
@@ -30,13 +25,13 @@ title: Google Chrome
 
 ## Console
 
-- **Copy from console**
+### Copy from console
 
 ```
   copy()
 ```
 
-- **designMode**
+### designMode
 
 ```js
 javascript: (function() {

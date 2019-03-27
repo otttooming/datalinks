@@ -1,8 +1,3 @@
----
-layout: page
-title: Editor
----
-
 # Editor
 
 ## Atom extensions

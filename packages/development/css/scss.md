@@ -1,18 +1,10 @@
----
-layout: page
-title: SCSS
----
+# SCSS
 
-#SCSS lint
-https://github.com/brigade/scss-lint/blob/master/config/default.yml
+## SCSS lint
 
-#FLexbox
-https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- [scss-lint](https://github.com/brigade/scss-lint/blob/master/config/default.yml)
 
-http://breakpoint-sass.com
-
-# Referencing selectors
+## Referencing selectors
 
 On Sass 3.4:
 

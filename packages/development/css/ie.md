@@ -1,8 +1,3 @@
----
-layout: page
-title: Internet Explorer
----
-
 # Internet Explorer
 
 ## Select dropdown
