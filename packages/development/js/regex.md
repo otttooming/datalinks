@@ -1,7 +1,4 @@
----
-layout: page
-title: Regular expressions
----
+# Regular expressions
 
 - [RE-Build: Building regular expressions with natural language](https://github.com/MaxArt2501/re-build)
 - [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
@@ -10,9 +7,9 @@ title: Regular expressions
 - [RegexHQ](https://github.com/regexhq)
   > Collaboration on world-wide community-driven collections of RegExp patterns and tools that can make our life easier.
 
-# Snippets
+## Snippets
 
-## Find and remove vendor prefixes in your CSS using Regex
+### Find and remove vendor prefixes in your CSS using Regex
 
 [Link](https://www.mikestreety.co.uk/blog/find-and-remove-vendor-prefixes-in-your-css-using-regex)
 
@@ -26,7 +23,7 @@ title: Regular expressions
   \n.*?-(moz|o|webkit|ms|khtml)\-(?!font-smoothing|osx|print|backface).+?;
 ```
 
-# Validators
+## Validators
 
 ```js
 const INTEGER_REGEXP = /^\d*$/;

@@ -1,7 +1,4 @@
----
-layout: page
-title: Visibility
----
+# Visibility
 
 - [True visibility - Checks if a DOM element is truly visible](https://github.com/UseAllFive/true-visibility)
 

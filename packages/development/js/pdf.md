@@ -1,7 +1,4 @@
----
-layout: page
-title: PDF
----
+# PDF
 
 ## Generators
 

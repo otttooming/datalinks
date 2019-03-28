@@ -1,7 +1,4 @@
----
-layout: page
-title: Scope
----
+# Scope
 
 - [Using JavaScript closures to create private scopes](http://lupomontero.com/using-javascript-closures-to-create-private-scopes/)
 

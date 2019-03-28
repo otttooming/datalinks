@@ -4,7 +4,7 @@
 
   > Turn a path string such as `/user/:name` into a regular expression
 
-# Components
+## Components
 
 - [router5/router5](https://github.com/router5/router5)
 

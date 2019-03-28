@@ -1,7 +1,4 @@
----
-layout: page
-title: URL
----
+# URL
 
 ## URL queries
 

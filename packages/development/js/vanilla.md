@@ -1,7 +1,4 @@
----
-layout: page
-title: Plain vanilla javascript
----
+# Vanilla JS
 
 ## Vanilla
 

@@ -1,9 +1,6 @@
----
-layout: page
-title: Positioning
----
+# Positioning
 
-# Popper.js
+## Popper.js
 
 - [popper.js](https://github.com/FezVrasta/popper.js)
 
@@ -13,7 +10,7 @@ title: Positioning
 
 - [react-tippy](https://github.com/tvkhoa/react-tippy)
 
-# Tether
+## Tether
 
 - [Tether - positioning engine for overlays, tooltips and dropdowns](https://github.com/HubSpot/tether)
 

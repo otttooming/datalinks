@@ -1,13 +1,10 @@
----
-layout: page
-title: Time
----
+# Time
 
-# Libraries
+## Libraries
 
 - [9 Javascript Time And Date Libraries For 2018](https://blog.bitsrc.io/9-javascript-date-time-libraries-for-2018-12d82f37872d)
 
-## Timezone
+### Timezone
 
 - [spacetime](https://github.com/smallwins/spacetime)
 

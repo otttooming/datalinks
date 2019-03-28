@@ -1,9 +1,6 @@
----
-layout: Page
-title: Select
----
+# Select
 
-# Vue select
+## Vue select
 
 - [Vue multiselect](https://github.com/monterail/vue-multiselect)
 

@@ -1,8 +1,8 @@
 # TypeScript
 
-# Compilation
+## Compilation
 
-## Copy static assets
+### Copy static assets
 
 Static assets are not copied over for `tsc`
 
@@ -14,13 +14,13 @@ shell.cp("-R", "src/public/fonts", "dist/public/");
 shell.cp("-R", "src/public/images", "dist/public/");
 ```
 
-# Blogs
+## Blogs
 
 - [mariusschulz](https://blog.mariusschulz.com/)
 
 - [toddmotto](https://toddmotto.com/)
 
-# Generation
+## Generation
 
 - [quicktype](https://app.quicktype.io/#s=music)
 
@@ -30,19 +30,19 @@ shell.cp("-R", "src/public/images", "dist/public/");
 
   > Generate json-schema from your Typescript sources
 
-# Types
+## Types
 
 - [wordpress-api](https://github.com/dderevjanik/wordpress-api/tree/master/lib/interface)
 
-# Bugs
+## Bugs
 
 - [Enums can no longer be used for index signature types](https://github.com/Microsoft/TypeScript/issues/13042)
 
-# Imports
+## Imports
 
 - [Say Goodbye to ‘../../../..’ in your TypeScript Imports](https://decembersoft.com/posts/say-goodbye-to-relative-paths-in-typescript-imports/)
 
-# Setup
+## Setup
 
 - [jeffijoe/typesync](https://github.com/jeffijoe/typesync)
 
@@ -50,7 +50,7 @@ shell.cp("-R", "src/public/images", "dist/public/");
 
 - [Babel 7 + TypeScript](http://artsy.github.io/blog/2017/11/27/Babel-7-and-TypeScript/)
 
-# Build and bundle process
+## Build and bundle process
 
 - [duffman/tspath](https://github.com/duffman/tspath)
 
@@ -70,12 +70,12 @@ shell.cp("-R", "src/public/images", "dist/public/");
 
   > Builds a single d.ts file library from generated d.ts sources
 
-# Starters
+## Starters
 
 - [alexjoverm/typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter)
   > Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
 
-# Debate
+## Debate
 
 - [If you're still using jsdoc syntax like @ params etc, then you're basically using typescript without any benefits.](https://twitter.com/toddmotto/status/929413949044518913)
 - [David K.](https://twitter.com/DavidKPiano/status/1052909749065408512)
@@ -96,11 +96,11 @@ Me: ...
 TS: cannot invoke an expression whose type lacks a call signature
 ```
 
-## Boilerplate
+### Boilerplate
 
 - Need to use JSDoc if no TS results in parity for boilerplate?
 
-## Skip
+### Skip
 
 [Skip - A programming language to skip the things you have already computed](http://skiplang.com/)
 
@@ -114,7 +114,7 @@ TS: cannot invoke an expression whose type lacks a call signature
 
   > At the time flow was started, typescript was in a very different state as it was unusably slow for even medium sized projects and didn’t support nullabity and other basic type features. It got much better over time but now it’s tricky to migrate
 
-## Migrations
+### Migrations
 
 - [Porting 30K lines of code from Flow to TypeScript](https://news.ycombinator.com/item?id=18906405)
 
@@ -122,12 +122,12 @@ TS: cannot invoke an expression whose type lacks a call signature
 
   > Yarn and Jest are being rewritten to TypeScript from Flow
 
-## Generate documentation
+### Generate documentation
 
 - [phenomnomnominal/tsquery](https://github.com/phenomnomnominal/tsquery)
 
   > TypeScript AST query library
 
-## TypeDoc
+### TypeDoc
 
 - [Typedoc does not play well with alias type arguments](https://github.com/TypeStrong/typedoc/issues/729)
