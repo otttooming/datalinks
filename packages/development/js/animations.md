@@ -1,7 +1,4 @@
----
-title: Animations
-layout: page
----
+# Animations
 
 - [Animatelo](https://github.com/gibbok/animatelo)
 

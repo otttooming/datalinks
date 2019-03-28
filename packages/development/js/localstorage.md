@@ -1,7 +1,4 @@
----
-layout: page
-title: IndexedDB, WebSQL, localStorage or sessionStorage
----
+# IndexedDB, WebSQL, localStorage or sessionStorage
 
 ## Cache
 

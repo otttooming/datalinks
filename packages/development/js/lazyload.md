@@ -1,7 +1,4 @@
----
-layout: page
-title: Lazyload
----
+# Lazyload
 
 ## Intersection Observer API
 

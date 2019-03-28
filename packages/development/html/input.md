@@ -1,8 +1,3 @@
----
-layout: page
-title: Input field
----
-
 # Input field
 
 - [algolia/places](https://github.com/algolia/places)

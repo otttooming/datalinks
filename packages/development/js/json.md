@@ -1,9 +1,6 @@
----
-layout: page
-title: JSON
----
+# JSON
 
-# Apps
+## Apps
 
 - [json.browse()](https://jsonbrowse.com)
 
@@ -15,7 +12,7 @@ title: JSON
 
 - [Postman Api Development Environment](https://www.getpostman.com/)
 
-# Services
+## Services
 
 - [JSONbin.io](https://jsonbin.io/)
   > JSONbin.io is a simple JSON storage service for free. You can use it for your website or mobile apps.

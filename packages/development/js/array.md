@@ -1,11 +1,8 @@
----
-layout: page
-title: Arrays
----
+# Array
 
-# Conditionals
+## Conditionals
 
-## Array exists
+### Array exists
 
 ```js
 if (!Array.isArray(array) || !array.length) {
@@ -13,9 +10,9 @@ if (!Array.isArray(array) || !array.length) {
 }
 ```
 
-# Functional programming
+## Functional programming
 
-## Conditionally add item to array
+### Conditionally add item to array
 
 ```js
 [
@@ -26,9 +23,9 @@ if (!Array.isArray(array) || !array.length) {
 ].filter(Boolean); // ['one', 'three']
 ```
 
-# ES5
+## ES5
 
-## Array contains
+### Array contains
 
 ```js
 // ES7 will have Array.prototype.includes.
@@ -81,7 +78,7 @@ function arrayContains(firstArray, thing) {
 }
 ```
 
-## Remove array item
+### Remove array item
 
 - [gist](https://gist.github.com/chad3814/2924672)
   > deleting array items in javascript with forEach() and splice()

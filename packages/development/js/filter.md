@@ -1,7 +1,4 @@
----
-layout: page
-title: Filter
----
+# Filter
 
 - [Shuffle](https://github.com/Vestride/Shuffle)
 
@@ -16,4 +13,5 @@ title: Filter
   > A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more...
 
 - [Isotope](https://github.com/metafizzy/isotope)
+
   > Filter & sort magical layouts

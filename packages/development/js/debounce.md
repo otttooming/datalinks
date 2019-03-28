@@ -1,9 +1,6 @@
----
-layout: page
-title: Debounce
----
+# Debounce
 
-# animationframes
+## animationframes
 
 - [animationframes](https://github.com/pakastin/animationframes)
 

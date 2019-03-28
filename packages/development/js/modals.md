@@ -1,9 +1,6 @@
----
-layout: page
-title: Modals
----
+# Modals
 
-# Dialog
+## Dialog
 
 - [Dialog](https://developer.mozilla.org/en/docs/Web/HTML/Element/dialog)
 

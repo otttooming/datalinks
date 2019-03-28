@@ -4,7 +4,7 @@
 
 - [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)
 
-# Components
+## Components
 
 - [schrodinger/fixed-data-table-2](https://github.com/schrodinger/fixed-data-table-2)
 
