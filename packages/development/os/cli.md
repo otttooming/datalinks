@@ -1,7 +1,4 @@
----
-title: Command line interface
-layout: page
----
+# Command line interface
 
 - [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
 
@@ -27,14 +24,14 @@ layout: page
 
   > Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 
-# Node.js
+## Node.js
 
 - [awesome-nodejs/command-line-utilities](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
 
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink)
   > React for interactive command-line apps
 
-# Terminals
+## Terminals
 
 - [Black Screen](https://github.com/vshatskyi/black-screen)
 
@@ -49,21 +46,21 @@ layout: page
 - [denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)
   > A Zsh prompt for Astronauts
 
-# Logs
+## Logs
 
 ```
   tail -f -n 200 log/development.log
 ```
 
-# macOS
+## macOS
 
-## restart coreaudio daemon
+### restart coreaudio daemon
 
 ```bash
   sudo kill `ps -ax | grep 'coreaudiod' | grep 'sbin' |awk '{print $1}'`
 ```
 
-# Terminal development
+## Terminal development
 
 - [terkelg/prompts](https://github.com/terkelg/prompts)
 

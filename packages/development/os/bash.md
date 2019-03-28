@@ -1,7 +1,4 @@
----
-layout: page
-title: Bash
----
+# Bash
 
 ## Change file name to lowercase
 

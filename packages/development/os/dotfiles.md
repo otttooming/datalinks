@@ -1,7 +1,4 @@
----
-layout: page
-title: Dotfiles
----
+# Dotfiles
 
 ## MacOS
 
@@ -11,6 +8,6 @@ title: Dotfiles
 
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
 
-# Articles
+## Articles
 
 - [Getting Started with Dotfiles](https://driesvints.com/blog/getting-started-with-dotfiles/)
