@@ -1,9 +1,6 @@
----
-title: Validators
-layout: page
----
+# Validators
 
-# Libraries
+## Libraries
 
 - [jquense/yup](https://github.com/jquense/yup)
 
@@ -11,6 +8,6 @@ layout: page
 
 - [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
 
-# Misc
+## Misc
 
 - [formvalidation.io](http://formvalidation.io/validators/)

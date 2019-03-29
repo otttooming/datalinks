@@ -1,8 +1,3 @@
----
-layout: page
-title: Security
----
-
 # Security
 
 ## GPG

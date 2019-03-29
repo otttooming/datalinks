@@ -1,7 +1,4 @@
----
-layout: page
-title: Split-testing
----
+# Split-testing
 
 - [Split-Testing: How to Run a Revenue-Driven Test in Shopify](https://www.shopify.com/partners/blog/how-to-split-test-in-shopify-to-increase-revenue)
 

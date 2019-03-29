@@ -1,8 +1,3 @@
----
-layout: page
-title: Static site generators
----
-
 # Static site generators
 
 ## Online services

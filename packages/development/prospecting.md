@@ -1,8 +1,3 @@
----
-layout: page
-title: Prospective technologies
----
-
 # Prospective technologies
 
 - [Stackshare - Discover & discuss the best software tools & services](http://stackshare.io)

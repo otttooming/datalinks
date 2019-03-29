@@ -1,8 +1,3 @@
----
-layout: page
-title: Reading material
----
-
 # Reading material
 
 ## General

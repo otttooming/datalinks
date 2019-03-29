@@ -1,19 +1,16 @@
----
-layout: page
-title: Testing
----
+# Testing
 
 - [cypress-io/cypress](https://github.com/cypress-io/cypress)
 
   > Fast, easy and reliable testing for anything that runs in a browser.
 
-# Component storybooks
+## Component storybooks
 
 - [c8r/kit](https://github.com/c8r/kit)
 
   > Tools for developing, documenting, and testing React component libraries
 
-## Docz
+### Docz
 
 - [pedronauck/docz](https://github.com/pedronauck/docz)
 
@@ -23,17 +20,17 @@ title: Testing
 
   > Docz plugin that makes migrating from Storybook a breeze.
 
-## Storybook
+### Storybook
 
 - [tuchk4/storybook-readme](https://github.com/tuchk4/storybook-readme)
 
-# Browser testing
+## Browser testing
 
 - [How to set up E2E browser testing for your GitHub project](https://hackernoon.com/how-to-set-up-e2e-browser-testing-for-your-github-project-89c24e15a84#.k0ww3req1)
 
 - [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 
-# Headless browsers
+## Headless browsers
 
 - **_Google Developers_** [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
 
@@ -62,7 +59,7 @@ title: Testing
 - [thal](https://github.com/emadehsan/thal)
   > Getting started with Puppeteer and Chrome Headless for Web Scraping
 
-# Visual regression testing
+## Visual regression testing
 
 - [BackstopJS](https://github.com/garris/BackstopJS)
 
@@ -94,7 +91,7 @@ title: Testing
 - [graphcool/chromeless](https://github.com/graphcool/chromeless)
   > Chrome automation made simple. Runs locally or headless on AWS Lambda.
 
-## Articles
+### Articles
 
 - [Visual regression testing using Jest, Chromeless and AWS Lambda](https://novemberfive.co/blog/visual-regression-testing-jest-chromeless-lambda/)
 
@@ -102,15 +99,15 @@ title: Testing
 
 - [Visual Regression Testing and React Storybook](https://www.robinwieruch.de/visual-regression-testing-react-storybook/)
 
-# Node.js
+## Node.js
 
 - [visionmedia/supertest](https://github.com/visionmedia/supertest)
 
   > Super-agent driven library for testing node.js HTTP servers using a fluent API
 
-# Snippets
+## Snippets
 
-### Mock offsetWidth
+#### Mock offsetWidth
 
 ```js
 Object.defineProperty(HTMLSpanElement.prototype, 'offsetWidth', {
