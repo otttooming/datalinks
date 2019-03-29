@@ -3,8 +3,6 @@ layout: page
 title: Images
 ---
 
-https://github.com/anselmh/object-fit
-
 ```bash
   openssl base64 < play.svg
 ```
