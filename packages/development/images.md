@@ -1,7 +1,4 @@
----
-layout: page
-title: Images
----
+# Images
 
 ```bash
   openssl base64 < play.svg
@@ -11,13 +8,13 @@ title: Images
   echo "background: url('data:image/svg+xml;base64,"$(openssl base64 < path/to/file.svg)"');"
 ```
 
-# Best practices
+## Best practices
 
 - [Essential Image Optimization](https://images.guide/)
 
 - [Fundamentals of Responsive Images](https://www.lullabot.com/articles/fundamentals-of-responsive-images)
 
-# Responsive
+## Responsive
 
 - [Img srcset](https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/)
 
@@ -27,11 +24,11 @@ title: Images
 
 - [Web Developer Reading List: Responsive Images](http://thenewcode.com/1177/Web-Developer-Reading-List-Responsive-Images)
 
-# Aspect ratio
+## Aspect ratio
 
 - [Aspect Ratio Boxes](https://css-tricks.com/aspect-ratio-boxes/)
 
-## Mixins
+### Mixins
 
 ```scss
 @mixin aspect-ratio($width, $height) {
@@ -75,9 +72,9 @@ title: Images
 }
 ```
 
-# Object fit
+## Object fit
 
-## Polyfills
+### Polyfills
 
 - [bfred-it/object-fit-images](https://github.com/bfred-it/object-fit-images)
 
@@ -87,7 +84,7 @@ title: Images
 
 - [Neat trick for CSS object-fit fallback on Edge (and other browsers)](https://medium.com/@primozcigler/neat-trick-for-css-object-fit-fallback-on-edge-and-other-browsers-afbc53bbb2c3#.68cdxqj0j)
 
-# Lightboxes
+## Lightboxes
 
 - [DxF5H/lightbox](https://github.com/DxF5H/lightbox)
 
@@ -96,24 +93,24 @@ title: Images
 - [lightgallery.js](https://github.com/sachinchoolur/lightgallery.js)
   > No dependencies, no need for image dimensions
 
-# Image preloading
+## Image preloading
 
 - [jasonslyvia/react-lazyload](https://github.com/jasonslyvia/react-lazyload)
 
 - [Coloor - Image preloading utility](https://github.com/krasimir/coloor)
   > Coloor is a HTML preprocessor that decorates your <img> tags with data-coloor attributes containing a small base64 encoded version of your image. The idea is to quickly show the small image as a placeholder while the original one is loading.
 
-## Dominant Colors for Lazy-Loading Images
+### Dominant Colors for Lazy-Loading Images
 
 - [Dominant Colors for Lazy-Loading Images](https://manu.ninja/dominant-colors-for-lazy-loading-images)
 - [antimoderate](https://github.com/whackashoe/antimoderate)
 
-## Better Portable Graphics
+### Better Portable Graphics
 
 - [Better Portable Graphics](https://en.wikipedia.org/wiki/Better_Portable_Graphics)
   > Based on High Efficiency Video Coding (HVEC)
 
-# Processing
+## Processing
 
 - [infinitered/nsfwjs](https://github.com/infinitered/nsfwjs)
 
