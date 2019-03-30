@@ -46,11 +46,6 @@
 
 - [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 
-### React
-
-- **_GitBooks_** [React Bits](https://vasanthk.gitbooks.io/react-bits/)
-  > A compilation of React Patterns, techniques, tips and tricks.
-
 ## Examples
 
 - [jQuery source viewer](http://james.padolsey.com/jquery/)

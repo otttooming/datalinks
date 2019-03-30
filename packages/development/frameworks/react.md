@@ -1,5 +1,9 @@
 # React
 
+- [React Bits](https://vasanthk.gitbooks.io/react-bits/)
+
+  > A compilation of React Patterns, techniques, tips and tricks.
+
 ## Components
 
 - [Elemental components for doing animations in React](https://github.com/nitin42/animate-components)
