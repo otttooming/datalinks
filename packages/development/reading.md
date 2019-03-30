@@ -45,7 +45,3 @@
 - [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 
 - [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
-
-## Vue bootcamps
-
-- [A Vue.js introduction](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
