@@ -5,7 +5,10 @@
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+
   > Manually curated collection of resources for frontend web developers.
+
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge)
 
 ## JavaScript
 
