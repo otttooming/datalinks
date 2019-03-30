@@ -1,7 +1,4 @@
----
-layout: page
-title: Scalable Vector Graphics
----
+# Scalable Vector Graphics
 
 - [SVG for Everybody](https://github.com/jonathantneal/svg4everybody)
 
@@ -20,11 +17,12 @@ title: Scalable Vector Graphics
 
 * [Basic Responsive SVG Imagemap](https://codepen.io/dudleystorey/pen/doexPL)
 
-# Assets
+## Assets
 
 - [Hero Patterns](http://www.heropatterns.com)
 
   > A collection of repeatable SVG background patterns for you to use on your digital projects.
 
-- [Simple Icons]](https://github.com/danleech/simple-icons)
+- [Simple Icons](https://github.com/danleech/simple-icons)
+
   > SVG icons for popular brands

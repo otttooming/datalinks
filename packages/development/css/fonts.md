@@ -1,9 +1,6 @@
----
-title: Fonts
-layout: page
----
+# Fonts
 
-# Font weight names mapped to their numeric value
+## Font weight names mapped to their numeric value
 
 - 100 - Thin
 - 200 - Extra Light, Ultra Light
@@ -15,7 +12,7 @@ layout: page
 - 800 - Extra Bold, Ultra Bold
 - 900 - Black, Heavy
 
-# Font display
+## Font display
 
 - [@font-face font-display](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display)
   > The font-display descriptor determines how a font face is displayed based on whether and when it is downloaded and ready to use.
@@ -33,16 +30,16 @@ layout: page
 
 - ['font-display' for the Masses](https://css-tricks.com/font-display-masses/)
 
-# Typeface vertical alignment
+## Typeface vertical alignment
 
-## Tools
+### Tools
 
 - [FontForge](https://fontforge.github.io)
 
-## Issues
+### Issues
 
-- **_SO_** [Different font vertical align in line on OS X](https://stackoverflow.com/questions/26100141/different-font-vertical-align-in-line-on-os-x)
+- [Different font vertical align in line on OS X](https://stackoverflow.com/questions/26100141/different-font-vertical-align-in-line-on-os-x)
 
-- **_SO_** [Font Rendering / Line-Height Issue on Mac/PC (outside of element)](https://stackoverflow.com/questions/11726442/font-rendering-line-height-issue-on-mac-pc-outside-of-element)
+- [Font Rendering / Line-Height Issue on Mac/PC (outside of element)](https://stackoverflow.com/questions/11726442/font-rendering-line-height-issue-on-mac-pc-outside-of-element)
 
-- **_SO_** [Font: poor vertical metrics cause inconsistent line-height rendering across browsers. Solution?](https://stackoverflow.com/questions/33633992/font-poor-vertical-metrics-cause-inconsistent-line-height-rendering-across-brow)
+- [Font: poor vertical metrics cause inconsistent line-height rendering across browsers. Solution?](https://stackoverflow.com/questions/33633992/font-poor-vertical-metrics-cause-inconsistent-line-height-rendering-across-brow)

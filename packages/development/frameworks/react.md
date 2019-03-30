@@ -1,9 +1,6 @@
----
-layout: page
-title: React.js
----
+# React
 
-# Components
+## Components
 
 - [Elemental components for doing animations in React](https://github.com/nitin42/animate-components)
 
@@ -44,11 +41,11 @@ title: React.js
 - [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns)
   > Browser API's turned into declarative React components and HoC's
 
-## State
+### State
 
 - [getDerivedStateFromProps - You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#recommendation-fully-uncontrolled-component-with-a-key)
 
-### Virtualization
+#### Virtualization
 
 - [bvaughn/react-window](https://github.com/bvaughn/react-window)
 
@@ -58,7 +55,7 @@ title: React.js
   > React components for efficiently rendering large lists and tabular data
   - [Rendering large lists with React Virtualized](https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3)
 
-## Slider
+### Slider
 
 - [airbnb/rheostat](https://github.com/airbnb/rheostat)
 
@@ -67,7 +64,7 @@ title: React.js
 - [noUiSlider](https://github.com/leongersen/noUiSlider/)
   > noUiSlider is lightweight JavaScript range slider
 
-## Drag and drop
+### Drag and drop
 
 - [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd)
 
@@ -77,13 +74,13 @@ title: React.js
 
   > Bread n butter utility for component-tied mouse/touch gestures in React
 
-## Visualization
+### Visualization
 
 - [react-tools/react-move](https://github.com/react-tools/react-move)
 
   > Beautiful, data-driven animations for React
 
-## Markdown
+### Markdown
 
 - [jamesknelson/mdxc](https://github.com/jamesknelson/mdxc)
 
@@ -93,7 +90,7 @@ title: React.js
 
   > A fully-featured MDX parser, loader and JSX renderer for ambitious projects
 
-# Example projects
+## Example projects
 
 - [RAN! React . GraphQL . Next.js Toolkit](https://github.com/Sly777/ran)
 
@@ -111,7 +108,7 @@ title: React.js
 
   > Boilerplate with the methodology Atomic Design using a few cool things
 
-# Store
+## Store
 
 - [react-waterfall](https://github.com/didierfranc/react-waterfall)
 
@@ -123,11 +120,11 @@ title: React.js
 
 - [How to use a setState Updater Function with a Reducer Pattern](https://codedaily.io/tutorials/40/How-to-use-a-setState-Updater-Function-with-a-Reducer-Pattern)
 
-# HOC
+## HOC
 
 - [React Higher-Order Components in TypeScript](https://medium.com/@jrwebdev/react-higher-order-component-patterns-in-typescript-42278f7590fb)
 
-# Inheritance
+## Inheritance
 
 - [Composition vs Inheritance: So What About Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html#so-what-about-inheritance)
 
@@ -138,6 +135,6 @@ title: React.js
 - [Dan Abramov](https://twitter.com/dan_abramov/status/752643494972383232?lang=en)
   > Don’t apply inheritance to React components. Composition is simpler and works better
 
-# Render
+## Render
 
 - [All React Conditional Rendering Techniques](https://www.robinwieruch.de/conditional-rendering-react/)
