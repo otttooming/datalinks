@@ -11,3 +11,7 @@
 - [Docx2Latex](https://www.docx2latex.com/)
 
   > Convert your Microsoft Word / Google Docs files to LaTeX.
+
+## Examples
+
+- [nikitavoloboev/cv](https://github.com/nikitavoloboev/cv)
