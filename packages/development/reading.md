@@ -46,10 +46,6 @@
 
 - [sohamkamani/javascript-design-patterns-for-humans](https://github.com/sohamkamani/javascript-design-patterns-for-humans)
 
-## Examples
-
-- [jQuery source viewer](http://james.padolsey.com/jquery/)
-
 ## Vue bootcamps
 
 - [A Vue.js introduction](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77)
