@@ -53,3 +53,10 @@
 
 - [egoist/maid](https://github.com/egoist/maid)
   > Markdown driven task runner.
+
+## Patch
+
+- [ds300/patch-package](https://github.com/ds300/patch-package)
+
+  > Patches created by patch-package are automatically and gracefully applied when you use npm(>=5) or yarn.
+  > No more waiting around for pull requests to be merged and published. No more forking repos just to fix that one tiny thing preventing your app from working.
