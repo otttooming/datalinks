@@ -31,6 +31,10 @@
 
   > Keep your bundle size in check
 
+- [egoist/package-size](https://github.com/egoist/package-size)
+
+  > Get the bundle size of an npm package
+
 - [btd/rollup-plugin-visualizer](https://github.com/btd/rollup-plugin-visualizer)
 
   > Visualize and analyze your Rollup bundle to see which modules are taking up space
