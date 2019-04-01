@@ -12,6 +12,10 @@
 
   > Leverage Closure Compiler to minify and optimize JavaScript with Rollup.
 
+- [TrySound/rollup-plugin-size-snapshot](https://github.com/TrySound/rollup-plugin-size-snapshot)
+
+  > Track your library bundles size and its treeshakability with less effort
+
 ## Deployment
 
 - [cornflourblue/jw-react-npm-boilerplate](https://github.com/cornflourblue/jw-react-npm-boilerplate)
