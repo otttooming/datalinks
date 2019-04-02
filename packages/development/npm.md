@@ -6,6 +6,10 @@
 
   > An ES6+ aware minifier based on the Babel toolchain
 
+- [developit/microbundle](https://github.com/developit/microbundle)
+
+  > Zero-configuration bundler for tiny modules
+
 ### Rollup
 
 - [ampproject/rollup-plugin-closure-compiler](https://github.com/ampproject/rollup-plugin-closure-compiler)
