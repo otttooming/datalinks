@@ -19,5 +19,9 @@
   > Modern replacement for Moment
   > A library for working with dates and times in JS
 
+- [iamkun/dayjs](https://github.com/iamkun/dayjs)
+
+  > Day.js 2KB immutable date library alternative to Moment.js with the same modern API
+
 - [StackOverflow](http://stackoverflow.com/questions/11887934/how-to-check-if-the-dst-daylight-saving-time-is-in-effect-and-if-it-is-whats)
   > How to check if the DST (Daylight Saving Time) is in effect and if it is what's the offset
