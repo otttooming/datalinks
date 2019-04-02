@@ -15,3 +15,7 @@
 ## Examples
 
 - [nikitavoloboev/cv](https://github.com/nikitavoloboev/cv)
+
+- [jez/pandoc-starter](https://github.com/jez/pandoc-starter)
+
+  > This repository contains a number of files for getting started with Pandoc
