@@ -22,6 +22,12 @@
 
   > A modular toolkit for building isomorphic web apps with Rust + WebAssembly
 
+## CLI
+
+- [killercup/quicli](https://github.com/killercup/quicli)
+
+  > Quickly build cool CLI apps in Rust
+
 ## State management
 
 - [redux-rs/redux-rs](https://github.com/redux-rs/redux-rs)
