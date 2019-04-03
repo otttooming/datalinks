@@ -35,6 +35,10 @@
 
 - [npm-check](https://github.com/dylang/npm-check)
 
+- [tjunnone/npm-check-updates](https://github.com/tjunnone/npm-check-updates)
+
+  > Find newer versions of package dependencies than what your package.json or bower.json allows
+
 - [siddharthkp/bundlesize](https://github.com/siddharthkp/bundlesize)
 
   > Keep your bundle size in check
