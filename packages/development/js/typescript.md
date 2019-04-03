@@ -131,3 +131,9 @@ TS: cannot invoke an expression whose type lacks a call signature
 ### TypeDoc
 
 - [Typedoc does not play well with alias type arguments](https://github.com/TypeStrong/typedoc/issues/729)
+
+## Tools
+
+- [RIP21/ts-get](https://github.com/RIP21/ts-get)
+
+  > Alternative to lodash.get that makes it typed and cool as if optional typing proposal is there
