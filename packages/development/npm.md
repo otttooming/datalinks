@@ -10,6 +10,13 @@
 
   > Zero-configuration bundler for tiny modules
 
+### ESM
+
+- [Pika](https://www.pikapkg.com/)
+
+  > Find modern packages on npm. Get faster, smaller JavaScript bundles.
+  > @pika/web: a future without webpack
+
 ### Articles
 
 - [Using Closure Compiler With Webpack + Typescript via Tsickle](https://medium.com/appmonet/using-closure-compilers-advanced-optimizations-with-webpack-816214b2fd5c)
