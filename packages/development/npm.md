@@ -10,6 +10,12 @@
 
   > Zero-configuration bundler for tiny modules
 
+### Articles
+
+- [Using Closure Compiler With Webpack + Typescript via Tsickle](https://medium.com/appmonet/using-closure-compilers-advanced-optimizations-with-webpack-816214b2fd5c)
+
+  > Closure Compiler ADVANCED_OPTIMIZATIONS
+
 ### Rollup
 
 - [ampproject/rollup-plugin-closure-compiler](https://github.com/ampproject/rollup-plugin-closure-compiler)
