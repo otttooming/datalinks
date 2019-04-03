@@ -51,6 +51,10 @@
 
   > Analyze and debug space usage through source maps
 
+- [AdrieanKhisbe/bundle-phobia-cli](https://github.com/AdrieanKhisbe/bundle-phobia-cli)
+
+  > Cli for the node BundlePhobia Service
+
 ###
 
 - [Should you Pin your Javascript Dependencies? - renovatebot.com](https://renovatebot.com/docs/dependency-pinning/)
