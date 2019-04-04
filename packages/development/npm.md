@@ -29,6 +29,10 @@
 
 ### Rollup
 
+- [rollup/awesome](https://github.com/rollup/awesome)
+
+  > Delightful Rollup Plugins, Packages, and Resources
+
 - [ampproject/rollup-plugin-closure-compiler](https://github.com/ampproject/rollup-plugin-closure-compiler)
 
   > Leverage Closure Compiler to minify and optimize JavaScript with Rollup.
