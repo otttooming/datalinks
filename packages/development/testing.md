@@ -119,3 +119,9 @@ Object.defineProperty(HTMLSpanElement.prototype, 'offsetWidth', {
 var x = document.getElementById('testspan');
 window.alert(x.offsetWidth);
 ```
+
+## Jest
+
+- [Raathigesh/majestic](https://github.com/Raathigesh/majestic)
+
+  > Zero config GUI for Jest
