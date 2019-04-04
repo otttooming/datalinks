@@ -32,7 +32,7 @@
 
 ## Headless browsers
 
-- **_Google Developers_** [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
+- [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome)
 
 - [chrome-headless-screenshots](https://github.com/schnerd/chrome-headless-screenshots)
 
