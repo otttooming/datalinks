@@ -10,6 +10,10 @@
 
   > Zero-configuration bundler for tiny modules
 
+- [terser-js/terser](https://github.com/terser-js/terser)
+
+  > JavaScript parser, mangler, optimizer and beautifier toolkit for ES6+
+
 ### ESM
 
 - [Pika](https://www.pikapkg.com/)
