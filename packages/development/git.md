@@ -1,8 +1,3 @@
----
-layout: page
-title: Git
----
-
 # Commands
 
 - Checkout a Remote Branch
