@@ -12,3 +12,7 @@
 ## Companies
 
 - [Reaktor](https://www.reaktor.com/)
+
+## Personal portfolios
+
+- [jayfreestone.com](https://www.jayfreestone.com/)
