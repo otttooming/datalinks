@@ -4,6 +4,10 @@
 
   > Turn any <input> into an address autocomplete
 
+- [nosir/cleave.js](https://github.com/nosir/cleave.js)
+
+  > Format input text content when you are typing...
+
 ## Autosize input field with hidden element
 
 Specific implementations use out of viewport or hidden element to calculate _input_ field length.
