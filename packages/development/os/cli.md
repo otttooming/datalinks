@@ -24,6 +24,10 @@
 
   > Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 
+- [sharkdp/bat](https://github.com/sharkdp/bat)
+
+  > A cat(1) clone with wings.
+
 ## Node.js
 
 - [awesome-nodejs/command-line-utilities](https://github.com/sindresorhus/awesome-nodejs#command-line-utilities)
