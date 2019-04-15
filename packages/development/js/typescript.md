@@ -137,3 +137,7 @@ TS: cannot invoke an expression whose type lacks a call signature
 - [RIP21/ts-get](https://github.com/RIP21/ts-get)
 
   > Alternative to lodash.get that makes it typed and cool as if optional typing proposal is there
+
+- [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest)
+
+  > A collection of essential TypeScript types. E.g. `Omit` etc.
