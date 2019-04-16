@@ -20,6 +20,10 @@
 
   > A spring physics based React animation library
 
+- [brunnolou/react-morph](https://github.com/brunnolou/react-morph)
+
+  > Morphing Ui transitions made simple
+
 - [Aljullu/react-lazy-load-image-component](https://github.com/Aljullu/react-lazy-load-image-component)
 
   > React Component to lazy load images and components using a HOC to track window scroll position.
