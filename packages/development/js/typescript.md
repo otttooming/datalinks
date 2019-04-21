@@ -128,6 +128,8 @@ TS: cannot invoke an expression whose type lacks a call signature
 
   > TypeScript AST query library
 
+- [YousefED/typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
+
 ### TypeDoc
 
 - [Typedoc does not play well with alias type arguments](https://github.com/TypeStrong/typedoc/issues/729)
