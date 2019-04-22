@@ -17,3 +17,5 @@
 - [vaadin/vaadin-combo-box](https://github.com/vaadin/vaadin-combo-box)
 
 - [web-padawan/aybolit](https://github.com/web-padawan/aybolit)
+
+- [SAP/ui5-webcomponents](https://github.com/SAP/ui5-webcomponents)
