@@ -1,9 +1,6 @@
----
-layout: page
-title: Agile methodology
----
+# Agile
 
-# Agile methodology
+## Methodology
 
 - [Extreme programming (XP)](https://en.wikipedia.org/wiki/Extreme_programming)
 
