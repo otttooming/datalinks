@@ -12,6 +12,8 @@
 
   > Create Web Components with React
 
-## Elements
+## Libraries
 
 - [vaadin/vaadin-combo-box](https://github.com/vaadin/vaadin-combo-box)
+
+- [web-padawan/aybolit](https://github.com/web-padawan/aybolit)
