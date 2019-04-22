@@ -12,6 +12,8 @@
 
   > Create Web Components with React
 
+- [Polymer/lit-element](https://github.com/Polymer/lit-element)
+
 ## Libraries
 
 - [vaadin/vaadin-combo-box](https://github.com/vaadin/vaadin-combo-box)
