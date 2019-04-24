@@ -63,3 +63,13 @@
 The Element.getBoundingClientRect() method returns the size of an element and its position relative to the viewport.
 
 - [getBoundingClientRect](https://developer.mozilla.org/en-US/docs/Web/API/Element/getBoundingClientRect)
+
+## Hide IE scrollbars
+
+- [-ms-overflow-style property](<https://msdn.microsoft.com/en-us/library/hh771902(v=vs.85).aspx>)
+
+```css
+body {
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+}
+```
