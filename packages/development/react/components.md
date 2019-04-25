@@ -30,6 +30,27 @@
 
   > Morphing Ui transitions made simple
 
+## Virtualization
+
+- [bvaughn/react-window](https://github.com/bvaughn/react-window)
+
+  > react-window is a complete rewrite of react-virtualized
+
+- [react-virtualized](https://github.com/bvaughn/react-virtualized)
+
+  > React components for efficiently rendering large lists and tabular data
+
+  > [Rendering large lists with React Virtualized](https://blog.logrocket.com/rendering-large-lists-with-react-virtualized-82741907a6b3)
+
+## Slider
+
+- [airbnb/rheostat](https://github.com/airbnb/rheostat)
+
+  > Rheostat is a www, mobile, and accessible slider component built with React
+
+- [noUiSlider](https://github.com/leongersen/noUiSlider/)
+  > noUiSlider is lightweight JavaScript range slider
+
 ## Styled components / CSS in JS
 
 - [styled-system/styled-system](https://github.com/styled-system/styled-system)
