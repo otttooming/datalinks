@@ -82,10 +82,6 @@
 
 - [Visual/CSS regression testing with PhantomJS](https://github.com/Huddle/PhantomCSS)
 
-- [webdrivercss](https://github.com/webdriverio/webdrivercss)
-  > Regression testing tool for WebdriverIO
-  > **No longer maintained**
-
 ---
 
 - [graphcool/chromeless](https://github.com/graphcool/chromeless)
