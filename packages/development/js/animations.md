@@ -4,6 +4,10 @@
 
   > Porting to Web Animation API of the fabulous animate.css project
 
+## Performance
+
+- [aholachek/react-animation-comparison](https://github.com/aholachek/react-animation-comparison)
+
 ## Lottie
 
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web)
