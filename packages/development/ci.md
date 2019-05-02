@@ -7,6 +7,10 @@
 
   > Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS
 
+- [snowjs/cli](https://github.com/snowjs/cli/tree/secrets)
+
+  > A CLI tool for dead simple Docker deployments on Kubernetes. A self-hosted PaaS.
+
 ## Monoreps
 
 - [lerna](https://github.com/lerna/lerna)
