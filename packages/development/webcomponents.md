@@ -14,6 +14,10 @@
 
 - [Polymer/lit-element](https://github.com/Polymer/lit-element)
 
+- [matthewp/haunted](https://github.com/matthewp/haunted)
+
+  > React's Hooks API implemented for web components
+
 ## Libraries
 
 - [vaadin/vaadin-combo-box](https://github.com/vaadin/vaadin-combo-box)
