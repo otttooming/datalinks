@@ -12,6 +12,10 @@
 
   > Run VS Code on a remote server
 
+- [theia-ide/theia](https://github.com/theia-ide/theia)
+
+  > Theia is a cloud & desktop IDE framework implemented in TypeScript
+
 ### Extensions
 
 - [editorconfig-vscode](https://github.com/editorconfig/editorconfig-vscode)
