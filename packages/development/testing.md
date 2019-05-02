@@ -4,6 +4,10 @@
 
   > Fast, easy and reliable testing for anything that runs in a browser.
 
+- [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest)
+
+  > TypeScript preprocessor with sourcemap support for Jest
+
 ## Component storybooks
 
 - [c8r/kit](https://github.com/c8r/kit)
