@@ -1,5 +1,9 @@
 # Web components
 
+- [open-wc](https://open-wc.org/)
+
+  > Open Web Component Recommendations
+
 - [ionic-team/stencil](https://github.com/ionic-team/stencil)
 
   > A Web Component compiler for building fast, reusable UI components and Progressive Web Apps 💎 Built by the Ionic Framework team
