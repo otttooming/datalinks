@@ -1,5 +1,11 @@
 # Redux
 
+## Examples
+
+- [piotrwitek/react-redux-typescript-realworld-app](https://github.com/piotrwitek/react-redux-typescript-realworld-app)
+
+  > RealWorld App implementation based on "react-redux-typescript-guide"
+
 ## Middleware
 
 - [redux-persist](https://github.com/rt2zz/redux-persist)
