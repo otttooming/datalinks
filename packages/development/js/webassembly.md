@@ -4,6 +4,10 @@
 
 ## WASI
 
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer)
+
+  > Universal WebAssembly runtime
+
 - [Announcing WASI](https://twitter.com/linclark/status/1110920999061594113)
 
   > A system interface for running WebAssembly outside the web (and inside it too)
