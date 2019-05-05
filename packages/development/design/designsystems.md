@@ -4,6 +4,10 @@
 
   > A comprehensive and curated list of design systems, style guides and pattern libraries that you can use for inspiration.
 
+- [United States Web Design System](https://v2.designsystem.digital.gov/)
+
+  > A design system for the federal government.
+
 ## UI component libraries
 
 ### Generic
