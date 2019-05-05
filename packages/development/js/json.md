@@ -1,5 +1,9 @@
 # JSON
 
+- [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr)
+
+  > Normalizes nested JSON according to a schema
+
 ## Apps
 
 - [json.browse()](https://jsonbrowse.com)
