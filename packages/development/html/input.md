@@ -8,6 +8,10 @@
 
   > Format input text content when you are typing...
 
+- [istarkov/rifm](https://github.com/istarkov/rifm)
+
+  > React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
+
 ## Autosize input field with hidden element
 
 Specific implementations use out of viewport or hidden element to calculate _input_ field length.
