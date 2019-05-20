@@ -15,5 +15,4 @@
 
 ### Remove array item
 
-- [gist](https://gist.github.com/chad3814/2924672)
-  > deleting array items in javascript with forEach() and splice()
+- [gist](https://gist.github.com/chad3814/2924672) - deleting array items in javascript with forEach() and splice()

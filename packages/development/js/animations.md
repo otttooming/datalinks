@@ -1,8 +1,6 @@
 # Animations
 
-- [Animatelo](https://github.com/gibbok/animatelo)
-
-  > Porting to Web Animation API of the fabulous animate.css project
+- [Animatelo](https://github.com/gibbok/animatelo) - Porting to Web Animation API of the fabulous animate.css project
 
 ## Performance
 
@@ -10,10 +8,6 @@
 
 ## Lottie
 
-- [airbnb/lottie-web](https://github.com/airbnb/lottie-web)
+- [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native.
 
-  > Render After Effects animations natively on Web, Android and iOS, and React Native.
-
-- [LottieFiles](https://lottiefiles.com/)
-
-  > Discover, test and share striking animations, designed for Lottie and Bodymovin
+- [LottieFiles](https://lottiefiles.com/) - Discover, test and share striking animations, designed for Lottie and Bodymovin

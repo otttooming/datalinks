@@ -6,6 +6,4 @@
 
 ## Components
 
-- [kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd/)
-
-  > A fast and lightweight drag&drop, sortable library for React with many configuration options covering many d&d scenarios. It uses css transitions for animations so it's hardware accelerated whenever possible.
+- [kutlugsahin/react-smooth-dnd](https://github.com/kutlugsahin/react-smooth-dnd/) - A fast and lightweight drag&drop, sortable library for React with many configuration options covering many d&d scenarios. It uses css transitions for animations so it's hardware accelerated whenever possible.

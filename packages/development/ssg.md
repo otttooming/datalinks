@@ -12,26 +12,17 @@
 
 ## React.js
 
-- _**GitHub**_ [Gatsby.js](https://github.com/gatsbyjs/gatsby)
+- _**GitHub**_ [Gatsby.js](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using the latest web technologies. A React.js static site generator.
 
-  > Transform plain text into dynamic blogs and websites using the latest web technologies. A React.js static site generator.
+- _**GitHub**_ [Phenomic](https://github.com/MoOx/phenomic) - Modern website generator based on the React and Webpack ecosystem.
 
-- _**GitHub**_ [Phenomic](https://github.com/MoOx/phenomic)
+- _**GitHub**_ [Next.js](https://github.com/zeit/next.js) - Next.js is a minimalistic framework for server-rendered React applications.
 
-  > Modern website generator based on the React and Webpack ecosystem.
-
-- _**GitHub**_ [Next.js](https://github.com/zeit/next.js)
-
-  > Next.js is a minimalistic framework for server-rendered React applications.
-
-- [stereobooster/react-snap](https://github.com/stereobooster/react-snap)
-
-  > Zero-configuration framework-agnostic static prerendering for SPAs
+- [stereobooster/react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs
 
 ## Vue
 
-- [Nuxt.js](https://github.com/nuxt/nuxt.js)
-  > Framework for server-rendered Vue.js applications.
+- [Nuxt.js](https://github.com/nuxt/nuxt.js) - Framework for server-rendered Vue.js applications.
 
 ## Liquid likeness
 

@@ -1,31 +1,20 @@
 # Input field
 
-- [algolia/places](https://github.com/algolia/places)
+- [algolia/places](https://github.com/algolia/places) - Turn any <input> into an address autocomplete
 
-  > Turn any <input> into an address autocomplete
+- [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 
-- [nosir/cleave.js](https://github.com/nosir/cleave.js)
-
-  > Format input text content when you are typing...
-
-- [istarkov/rifm](https://github.com/istarkov/rifm)
-
-  > React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
+- [istarkov/rifm](https://github.com/istarkov/rifm) - React Input Format & Mask, tiny (≈800b) component to transform any input component into formatted or masked input. Supports number, date, phone, currency, credit card, etc
 
 ## Autosize input field with hidden element
 
 Specific implementations use out of viewport or hidden element to calculate _input_ field length.
 
-- [jQuery.Autosize.Input](https://github.com/MartinF/jQuery.Autosize.Input)
+- [jQuery.Autosize.Input](https://github.com/MartinF/jQuery.Autosize.Input) - A jQuery plugin which automatically resizes the width of input fields according to the content, while typing.
 
-  > A jQuery plugin which automatically resizes the width of input fields according to the content, while typing.
+- [React-Input-Autosize](https://github.com/JedWatson/react-input-autosize) - Auto-resizing input field for React
 
-- [React-Input-Autosize](https://github.com/JedWatson/react-input-autosize)
-
-  > Auto-resizing input field for React
-
-- [autosize-input.js](https://github.com/yuanqing/autosize-input)
-  > Effortless, dynamic-width text boxes in vanilla JavaScript.
+- [autosize-input.js](https://github.com/yuanqing/autosize-input) - Effortless, dynamic-width text boxes in vanilla JavaScript.
 
 ## Autosize input field with _contenteditable_ element
 

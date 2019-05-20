@@ -2,10 +2,8 @@
 
 - [RE-Build: Building regular expressions with natural language](https://github.com/MaxArt2501/re-build)
 - [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions)
-- [regexhub](https://projects.lukehaas.me/regexhub/)
-  > Useful Regex Patterns
-- [RegexHQ](https://github.com/regexhq)
-  > Collaboration on world-wide community-driven collections of RegExp patterns and tools that can make our life easier.
+- [regexhub](https://projects.lukehaas.me/regexhub/) - Useful Regex Patterns
+- [RegexHQ](https://github.com/regexhq) - Collaboration on world-wide community-driven collections of RegExp patterns and tools that can make our life easier.
 
 ## Snippets
 

@@ -2,9 +2,7 @@
 
 ## animationframes
 
-- [animationframes](https://github.com/pakastin/animationframes)
-
-  > Minimalistic way to create JS animations!
+- [animationframes](https://github.com/pakastin/animationframes) - Minimalistic way to create JS animations!
 
 - [Short guide for setting FPS: requestAnimationFrame](http://creativejs.com/resources/requestanimationframe/)
 

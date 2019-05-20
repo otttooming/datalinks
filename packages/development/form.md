@@ -4,6 +4,4 @@
 
 ## Components
 
-- [kevinwolfcr/formal](https://github.com/kevinwolfcr/formal)
-
-  > Elegant form management primitives for the react hooks era
+- [kevinwolfcr/formal](https://github.com/kevinwolfcr/formal) - Elegant form management primitives for the react hooks era

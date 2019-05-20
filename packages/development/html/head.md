@@ -1,4 +1,3 @@
 # Head
 
-- [HEAD](https://gethead.info/)
-  > A free guide to <head> elements
+- [HEAD](https://gethead.info/) - A free guide to <head> elements

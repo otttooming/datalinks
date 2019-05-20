@@ -8,6 +8,4 @@
 
 - [Learning ES6: Promises](https://www.eventbrite.com/engineering/learning-es6-promises/)
 
-- [SGrondin/bottleneck](https://github.com/SGrondin/bottleneck)
-
-  > Job scheduler and rate limiter, supports Clustering
+- [SGrondin/bottleneck](https://github.com/SGrondin/bottleneck) - Job scheduler and rate limiter, supports Clustering

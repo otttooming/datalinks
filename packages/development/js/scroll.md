@@ -6,8 +6,7 @@
 
 ## Scroll direction
 
-- [ScrollDir](https://github.com/dollarshaveclub/scrolldir)
-  > ScrollDir, short for Scroll Direction, is a 0 dependency, ~1kb micro Javascript plugin to easily leverage vertical scroll direction in CSS via a data attribute.
+- [ScrollDir](https://github.com/dollarshaveclub/scrolldir) - ScrollDir, short for Scroll Direction, is a 0 dependency, ~1kb micro Javascript plugin to easily leverage vertical scroll direction in CSS via a data attribute.
 
 ## Smooth scroll
 
@@ -20,26 +19,19 @@
 
 ### React
 
-- [React Scroll-To](https://github.com/ganderzz/react-scroll-to)
-  > A React component that helps in scrolling around a page.
+- [React Scroll-To](https://github.com/ganderzz/react-scroll-to) - A React component that helps in scrolling around a page.
 
 ### Alternative
 
-- [Zenscroll](https://github.com/zengabor/zenscroll)
+- [Zenscroll](https://github.com/zengabor/zenscroll) - Smooth animated scrolling. Move elements into view, or scroll to any vertical position.
 
-  > Smooth animated scrolling. Move elements into view, or scroll to any vertical position.
-
-- [Jump.js: Smooth scroll](https://github.com/callmecavs/jump.js)
-
-  > ES6
-  > Component reengineered to edicy_cms
+- [Jump.js: Smooth scroll](https://github.com/callmecavs/jump.js) - ES6 - Component reengineered to edicy_cms
 
 - [SmoothScroll](https://github.com/alicelieutier/smoothScroll)
 
 - [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
 
-- [better-scroll](https://github.com/ustbhuangyi/better-scroll)
-  > inspired by iscroll, and it has a better scroll perfermance
+- [better-scroll](https://github.com/ustbhuangyi/better-scroll) - inspired by iscroll, and it has a better scroll perfermance
 
 ## Prevent scroll leaking
 
@@ -55,8 +47,7 @@
 
 ### Best case solution
 
-- [scrollable-overlay](https://github.com/Luxiyalu/scrollable-overlay)
-  > Prevent body from scrolling when overlay is on, with pure CSS.
+- [scrollable-overlay](https://github.com/Luxiyalu/scrollable-overlay) - Prevent body from scrolling when overlay is on, with pure CSS.
 
 #### getBoundingClientRect
 

@@ -1,18 +1,12 @@
 # Database
 
-- [techfort/LokiJS](https://github.com/techfort/LokiJS)
+- [techfort/LokiJS](https://github.com/techfort/LokiJS) - javascript embeddable / in-memory database
 
-  > javascript embeddable / in-memory database
-
-- [gruns/ImmortalDB](https://github.com/gruns/ImmortalDB)
-
-  > A relentless key-value store for the browser.
+- [gruns/ImmortalDB](https://github.com/gruns/ImmortalDB) - A relentless key-value store for the browser.
 
 ## Redis
 
-- [NodeRedis/node_redis](https://github.com/NodeRedis/node_redis)
-
-  > redis client for node
+- [NodeRedis/node_redis](https://github.com/NodeRedis/node_redis) - redis client for node
 
 ### Providers
 
@@ -20,6 +14,4 @@
 
 ## Level
 
-- [Level/level](https://github.com/Level/level)
-
-  > Fast & simple storage - a Node.js-style LevelDB wrapper for Node.js, Electron and browsers.
+- [Level/level](https://github.com/Level/level) - Fast & simple storage - a Node.js-style LevelDB wrapper for Node.js, Electron and browsers.

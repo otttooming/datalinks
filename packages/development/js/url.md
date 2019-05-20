@@ -2,16 +2,11 @@
 
 ## URL queries
 
-- [query-object](https://github.com/fernandofleury/query-object)
+- [query-object](https://github.com/fernandofleury/query-object) - Easy url query string manipulation via Objects (using JavaScript)
 
-  > Easy url query string manipulation via Objects (using JavaScript)
+- [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
 
-- [query-string](https://github.com/sindresorhus/query-string)
-
-  > Parse and stringify URL query strings
-
-- [url-query](https://github.com/intesso/url-query)
-  > return location.search as object
+- [url-query](https://github.com/intesso/url-query) - return location.search as object
 
 ### Snippets
 

@@ -4,18 +4,11 @@
 
 - [PerfectPixel by WellDoneCode](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
 
-- [AdNauseam](https://adnauseam.io)
+- [AdNauseam](https://adnauseam.io) - AdNauseam works to complete the cycle by automating Ad clicks universally and blindly on behalf of its users.
 
-  > AdNauseam works to complete the cycle by automating Ad clicks universally and blindly on behalf of its users.
+- [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean.
 
-- [uBlock Origin](https://github.com/gorhill/uBlock)
-
-  > An efficient blocker for Chromium and Firefox. Fast and lean.
-
-- [react-devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools)
-
-  > If you need to debug a React page somewhere other than Chrome on desktop.
-  > Separate Electron app
+- [react-devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools) - If you need to debug a React page somewhere other than Chrome on desktop. - Separate Electron app
 
 ## Automatisation
 

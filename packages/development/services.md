@@ -14,14 +14,8 @@
 
 ## Images
 
-- [ImageKit](https://imagekit.io/)
+- [ImageKit](https://imagekit.io/) - Intelligent real-time image optimizations, image transformations with a global delivery network and storage
 
-  > Intelligent real-time image optimizations, image transformations with a global delivery network and storage
+- [Cloudinary](https://cloudinary.com/) - Automate the entire image-processing pipeline: from uploads to on-the-fly manipulations to optimization to dynamic delivery with any CDN
 
-- [Cloudinary](https://cloudinary.com/)
-
-  > Automate the entire image-processing pipeline: from uploads to on-the-fly manipulations to optimization to dynamic delivery with any CDN
-
-- [Cloudimage](https://www.cloudimage.io)
-
-  > Cloudimage is the easiest way to optimize and accelerate images for the web
+- [Cloudimage](https://www.cloudimage.io) - Cloudimage is the easiest way to optimize and accelerate images for the web

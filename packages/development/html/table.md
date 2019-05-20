@@ -6,6 +6,4 @@
 
 ## Components
 
-- [schrodinger/fixed-data-table-2](https://github.com/schrodinger/fixed-data-table-2)
-
-  > A React table component designed to allow presenting millions of rows of data.
+- [schrodinger/fixed-data-table-2](https://github.com/schrodinger/fixed-data-table-2) - A React table component designed to allow presenting millions of rows of data.

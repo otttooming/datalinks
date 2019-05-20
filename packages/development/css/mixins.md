@@ -2,13 +2,9 @@
 
 ## Sets
 
-- [Family.scss](https://github.com/LukyVj/family.scss)
+- [Family.scss](https://github.com/LukyVj/family.scss) - A set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.\_
 
-  > A set of Sass mixins which will help you to manage the style of :nth-child'ified elements, in an easy way.\_
-
-- [Angled Edges](https://github.com/josephfusco/angled-edges)
-
-  > A Sass mixin for creating angled edges on sections by dynamically encoding SVGs.\_
+- [Angled Edges](https://github.com/josephfusco/angled-edges) - A Sass mixin for creating angled edges on sections by dynamically encoding SVGs.\_
 
 ## Aspect ratio
 
@@ -23,7 +19,7 @@
     width: 100%;
     padding-top: ($height / $width) * 100%;
   }
-  > .content {
+  - .content {
     position: absolute;
     top: 0;
     left: 0;

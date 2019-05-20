@@ -26,13 +26,11 @@
 
 ## Release
 
-- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
-  > Fully automated version management and package publishing
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing
 
 ## Apps
 
-- [Ship](https://www.realartists.com)
-  > Fast, native, comprehensive issue tracking for GitHub
+- [Ship](https://www.realartists.com) - Fast, native, comprehensive issue tracking for GitHub
 
 ## Git config
 

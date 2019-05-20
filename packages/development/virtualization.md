@@ -2,12 +2,9 @@
 
 ## Docker
 
-- [awesome-docker](https://github.com/veggiemonk/awesome-docker)
+- [awesome-docker](https://github.com/veggiemonk/awesome-docker) - A curated list of Docker resources and projects
 
-  > A curated list of Docker resources and projects
-
-- [whalebrew](https://github.com/bfirsh/whalebrew)
-  > Homebrew, but with Docker images
+- [whalebrew](https://github.com/bfirsh/whalebrew) - Homebrew, but with Docker images
 
 ## Commands
 
@@ -32,8 +29,7 @@ Individually:
 
 ## UI
 
-- [Kitematic](https://kitematic.com)
-  > Kitematic’s one click install gets Docker running on your Mac and lets you control your app containers from a graphical user interface (GUI).
+- [Kitematic](https://kitematic.com) - Kitematic’s one click install gets Docker running on your Mac and lets you control your app containers from a graphical user interface (GUI).
 
 ### WordPress
 

@@ -1,4 +1,3 @@
 # Debugging
 
-- [klauscfhq/signale](https://github.com/klauscfhq/signale)
-  > Hackable console logger
+- [klauscfhq/signale](https://github.com/klauscfhq/signale) - Hackable console logger

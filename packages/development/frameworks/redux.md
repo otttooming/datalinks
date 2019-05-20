@@ -2,14 +2,11 @@
 
 ## Examples
 
-- [piotrwitek/react-redux-typescript-realworld-app](https://github.com/piotrwitek/react-redux-typescript-realworld-app)
-
-  > RealWorld App implementation based on "react-redux-typescript-guide"
+- [piotrwitek/react-redux-typescript-realworld-app](https://github.com/piotrwitek/react-redux-typescript-realworld-app) - RealWorld App implementation based on "react-redux-typescript-guide"
 
 ## Middleware
 
-- [redux-persist](https://github.com/rt2zz/redux-persist)
-  > persist and rehydrate a redux store
+- [redux-persist](https://github.com/rt2zz/redux-persist) - persist and rehydrate a redux store
 
 ## Selectors
 
@@ -17,8 +14,7 @@
 
 ## Alternative state management
 
-- [davidkpiano/xstate](https://github.com/davidkpiano/xstate)
-  > Functional, Stateless JS Finite State Machines and Statecharts
+- [davidkpiano/xstate](https://github.com/davidkpiano/xstate) - Functional, Stateless JS Finite State Machines and Statecharts
 
 ## GraphQL
 

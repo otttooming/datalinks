@@ -2,9 +2,7 @@
 
 ## Frameworks
 
-- [fastify/fastify](https://github.com/fastify/fastify)
-
-  > Fast and low overhead web framework, for Node.js
+- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 
 ## Debugging
 

@@ -2,9 +2,7 @@
 
 ## Libraries
 
-- [jquense/yup](https://github.com/jquense/yup)
-
-  > Dead simple Object schema validation
+- [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 
 - [icebob/fastest-validator](https://github.com/icebob/fastest-validator)
 

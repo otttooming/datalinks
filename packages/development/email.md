@@ -2,19 +2,13 @@
 
 ## Testing
 
-- [Litmus PutsMail](https://putsmail.com)
+- [Litmus PutsMail](https://putsmail.com) - Send your HTML to any email address for design testing and debugging
 
-  > Send your HTML to any email address for design testing and debugging
-
-- [Postmark spamcheck](http://spamcheck.postmarkapp.com/)
-
-  > Check the spam score of your emails
+- [Postmark spamcheck](http://spamcheck.postmarkapp.com/) - Check the spam score of your emails
 
 ## Services
 
-- [smaily](https://www.sendsmaily.net)
-
-  > Smaily is a full-fledged email marketing online service, suitable for smaller and bigger customers to send newsletters, invitations, offers, create drip or A/B campaigns or put up sign-up forms.
+- [smaily](https://www.sendsmaily.net) - Smaily is a full-fledged email marketing online service, suitable for smaller and bigger customers to send newsletters, invitations, offers, create drip or A/B campaigns or put up sign-up forms.
 
 ## Responsive
 

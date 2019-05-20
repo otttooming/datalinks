@@ -2,9 +2,7 @@
 
 ## Plugins
 
-- [weixin/WeSketch](https://github.com/weixin/WeSketch)
-
-  > A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.
+- [weixin/WeSketch](https://github.com/weixin/WeSketch) - A set of plugins for Sketch include drawing links & marks, UI Kit & Color sync, font & text replacing.
 
 ## Conversion
 
