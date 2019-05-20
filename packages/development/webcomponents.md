@@ -19,3 +19,7 @@
 - [web-padawan/aybolit](https://github.com/web-padawan/aybolit)
 
 - [SAP/ui5-webcomponents](https://github.com/SAP/ui5-webcomponents)
+
+## Shadow DOM
+
+- [Wildhoney/ReactShadow](https://github.com/Wildhoney/ReactShadow) - Utilise Shadow DOM in React with all the benefits of style encapsulation.
