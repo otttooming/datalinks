@@ -1,4 +1,4 @@
-# Continuing education
+# Prospects
 
 - [Haridus- ja Teadusministeerium - Tasuta kursused otsing](https://www.hm.ee/et/kursused)
 
