@@ -8,6 +8,8 @@
 
 - [Mapbox](https://www.mapbox.com/)
 
+- [mapinseconds.com](http://mapinseconds.com/) - Turns your spreadsheet data into maps
+
 ## SMS
 
 - [Messente - global SMS API](https://messente.com/products/global-sms-api)
