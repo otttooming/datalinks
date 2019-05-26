@@ -8,6 +8,12 @@
 
 - [pronamic/wp-woocommerce-stock-synchronization](https://github.com/pronamic/wp-woocommerce-stock-synchronization)
 
+## Plugins
+
+- [qtranslate/qtranslate-xt](https://github.com/qtranslate/qtranslate-xt)
+
+- [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql)
+
 ## Frameworks
 
 - [Sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow
