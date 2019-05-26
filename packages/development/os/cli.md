@@ -57,3 +57,5 @@
 - [mgrip/react-cli](https://github.com/mgrip/react-cli) - a react renderer for the command line
 
 - [infinitered/gluegun](https://github.com/infinitered/gluegun) - Gluegun is a delightful toolkit for building Node-based command-line interfaces (CLIs) in TypeScript or modern JavaScript
+
+- [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts.
