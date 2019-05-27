@@ -8,6 +8,8 @@
 
 - [jaydenseric/graphql-react](https://github.com/jaydenseric/graphql-react) - A lightweight GraphQL client for React
 
+- [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
+
 ## Structure
 
 - [Explaining GraphQL Connections](https://blog.apollographql.com/explaining-graphql-connections-c48b7c3d6976)
