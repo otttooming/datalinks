@@ -10,6 +10,10 @@
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 
+## Clients
+
+- [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - Minimal hooks-first GraphQL client
+
 ## Structure
 
 - [Explaining GraphQL Connections](https://blog.apollographql.com/explaining-graphql-connections-c48b7c3d6976)
