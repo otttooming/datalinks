@@ -12,6 +12,8 @@
 
 - [matthewp/haunted](https://github.com/matthewp/haunted) - React's Hooks API implemented for web components
 
+- [mateusortiz/webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way)
+
 ## Libraries
 
 - [vaadin/vaadin-combo-box](https://github.com/vaadin/vaadin-combo-box)
