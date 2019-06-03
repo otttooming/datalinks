@@ -14,6 +14,10 @@
 
 - [wp-graphql/wp-graphql](https://github.com/wp-graphql/wp-graphql)
 
+## Themes
+
+- [TylerBarnes/wordsby-admin](https://github.com/TylerBarnes/wordsby-admin) - A WordPress Admin theme for Gatsby sites.
+
 ## Frameworks
 
 - [Sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow
