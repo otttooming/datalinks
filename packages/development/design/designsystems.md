@@ -6,6 +6,8 @@
 
 ## UI component libraries
 
+- [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
+
 ### Generic
 
 - [IBM Carbon Design System](https://www.carbondesignsystem.com/)
