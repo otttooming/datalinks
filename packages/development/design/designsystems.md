@@ -8,6 +8,8 @@
 
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 
+- [fannypackui/fannypack](https://github.com/fannypackui/fannypack) - A friendly, themeable, accessible React UI Kit built with Reakit
+
 ### Generic
 
 - [IBM Carbon Design System](https://www.carbondesignsystem.com/)
