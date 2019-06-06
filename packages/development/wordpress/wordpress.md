@@ -18,6 +18,8 @@
 
 - [TylerBarnes/wordsby-admin](https://github.com/TylerBarnes/wordsby-admin) - A WordPress Admin theme for Gatsby sites.
 
+- [postlight/headless-wp-starter](https://github.com/postlight/headless-wp-starter) - WordPress + React Starter Kit: Spin up a WordPress-powered React app in one step
+
 ## Frameworks
 
 - [Sage](https://github.com/roots/sage) - WordPress starter theme with a modern development workflow
