@@ -4,6 +4,8 @@
 
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - TypeScript preprocessor with sourcemap support for Jest
 
+- [tvler/prop-sets](https://github.com/tvler/prop-sets) - Generate and test every possible instance of a component in React
+
 ## Component storybooks
 
 - [c8r/kit](https://github.com/c8r/kit) - Tools for developing, documenting, and testing React component libraries
