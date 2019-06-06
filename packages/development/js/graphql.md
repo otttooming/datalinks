@@ -10,6 +10,8 @@
 
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 
+- [victorvoid/dinoql](https://github.com/victorvoid/dinoql) - A customizable GraphQL style query language for interacting with JavaScript objects.
+
 ## Clients
 
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - Minimal hooks-first GraphQL client
