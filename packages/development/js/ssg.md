@@ -12,11 +12,11 @@
 
 ## React.js
 
-- _**GitHub**_ [Gatsby.js](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using the latest web technologies. A React.js static site generator.
+- [Gatsby.js](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using the latest web technologies. A React.js static site generator.
 
-- _**GitHub**_ [Phenomic](https://github.com/MoOx/phenomic) - Modern website generator based on the React and Webpack ecosystem.
+- [Phenomic](https://github.com/MoOx/phenomic) - Modern website generator based on the React and Webpack ecosystem.
 
-- _**GitHub**_ [Next.js](https://github.com/zeit/next.js) - Next.js is a minimalistic framework for server-rendered React applications.
+- [Next.js](https://github.com/zeit/next.js) - Next.js is a minimalistic framework for server-rendered React applications.
 
 - [stereobooster/react-snap](https://github.com/stereobooster/react-snap) - Zero-configuration framework-agnostic static prerendering for SPAs
 
