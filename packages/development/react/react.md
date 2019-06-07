@@ -56,6 +56,8 @@
 
 - [danilowoz/react-atomic-design](https://github.com/danilowoz/react-atomic-design) - Boilerplate with the methodology Atomic Design using a few cool things
 
+- [devhubapp/devhub](https://github.com/devhubapp/devhub) - DevHub is a mobile and desktop app to help you manage GitHub Notifications and stay on top of repository activities.
+
 ## Store
 
 - [react-waterfall](https://github.com/didierfranc/react-waterfall) - React store built on top of the new context API
