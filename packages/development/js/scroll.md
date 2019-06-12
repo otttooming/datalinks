@@ -13,9 +13,8 @@
 ### Official
 
 - [Element.scrollIntoView()](https://developer.mozilla.org/en/docs/Web/API/Element/scrollIntoView)
-- **_Polyfill_** [smooth scroll polyfill](https://github.com/iamdustan/smoothscroll)
 
-- [Smooth Scrolling](https://css-tricks.com/snippets/jquery/smooth-scrolling/)
+- [smooth scroll polyfill](https://github.com/iamdustan/smoothscroll)
 
 ### React
 
