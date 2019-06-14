@@ -14,6 +14,8 @@
 
 - [mateusortiz/webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way)
 
+- [hybridsjs/hybrids](https://github.com/hybridsjs/hybrids) - Web Components with a strong declarative and functional approach based on plain objects and pure functions
+
 ## Libraries
 
 - [vaadin/vaadin-combo-box](https://github.com/vaadin/vaadin-combo-box)
