@@ -63,3 +63,5 @@
 - [klaussinani/qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
 
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+
+- [sqshq/sampler](https://github.com/sqshq/sampler) - A tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
