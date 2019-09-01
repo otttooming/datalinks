@@ -58,6 +58,8 @@
 
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - DevHub is a mobile and desktop app to help you manage GitHub Notifications and stay on top of repository activities.
 
+- [Fully functional WhatsApp Clone using React (Hooks+Suspense), GraphQL, Apollo, TypeScript and PostgreSQL](https://medium.com/the-guild/whatsapp-clone-using-react-hooks-suspense-graphql-apollo-typescript-and-postgresql-de1840c27d21) - An open-source full-stack example app made with React 16.7 (Hooks & Suspense), TypeScript, GraphQL-Subscriptions/Codegen/Modules and PostgreSQL
+
 ## Store
 
 - [react-waterfall](https://github.com/didierfranc/react-waterfall) - React store built on top of the new context API
