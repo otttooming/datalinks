@@ -19,6 +19,6 @@
     ]
   },
   "scripts": {
-    "prettier": "prettier --write --config .prettierrc \"**/*.{js,jsx,ts,tsx,json,css,scss,md,yaml,yml}\""
+    "prettier": "prettier --write --config .prettierrc \"**/*.{js,jsx,ts,tsx,json,css,scss,md,yaml,yml,html}\""
   }
 }
