@@ -10,6 +10,8 @@
 
 - [react-devtools](https://github.com/facebook/react-devtools/tree/master/packages/react-devtools) - If you need to debug a React page somewhere other than Chrome on desktop. - Separate Electron app
 
+- [zaki-yama/copy-title-and-url-as-markdown: Chrome Extension: Quickly copy the title & url of current tab as Markdown style](https://github.com/zaki-yama/copy-title-and-url-as-markdown)
+
 ## Automatisation
 
 - [Chrome 59 has cross-platform headless support](https://news.ycombinator.com/item?id=14101233)
