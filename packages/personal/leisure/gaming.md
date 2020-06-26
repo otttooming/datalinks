@@ -4,6 +4,10 @@
 
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH)
 
+- [Keriew/augustus: An open source re-implementation of Caesar III](https://github.com/Keriew/augustus)
+
+- [bvschaik/julius: An open source re-implementation of Caesar III](https://github.com/bvschaik/julius)
+
 ## Cemu Emulator
 
 - [slashiee/cemu_graphic_packs](https://github.com/slashiee/cemu_graphic_packs)
