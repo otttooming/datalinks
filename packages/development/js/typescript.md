@@ -103,6 +103,12 @@ TS: cannot invoke an expression whose type lacks a call signature
 
 - [YousefED/typescript-json-schema](https://github.com/YousefED/typescript-json-schema)
 
+- [dsherret/ts-morph: TypeScript Compiler API wrapper for static analysis and programmatic code changes.](https://github.com/dsherret/ts-morph)
+
+- [vega/ts-json-schema-generator: Generate JSON schema from your Typescript sources](https://github.com/vega/ts-json-schema-generator)
+
+- [wessberg/ts-evaluator: An interpreter for Typescript that can evaluate an arbitrary Node within a Typescript AST](https://github.com/wessberg/ts-evaluator)
+
 ### TypeDoc
 
 - [Typedoc does not play well with alias type arguments](https://github.com/TypeStrong/typedoc/issues/729)
