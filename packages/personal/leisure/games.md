@@ -1,4 +1,4 @@
-# Gaming
+# Games
 
 ## PC
 
