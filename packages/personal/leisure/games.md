@@ -16,6 +16,10 @@
 
 - [Sea of Thieves on Steam](https://store.steampowered.com/app/1172620/Sea_of_Thieves/)
 
+- [Lumberhill on Steam](https://store.steampowered.com/app/976900/Lumberhill/?rdt_cid=3084350458488241341)
+
+- [Fort Triumph on Steam](https://store.steampowered.com/app/612570/Fort_Triumph/)
+
 ## Cemu Emulator
 
 - [slashiee/cemu_graphic_packs](https://github.com/slashiee/cemu_graphic_packs)
