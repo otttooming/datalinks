@@ -10,6 +10,8 @@
 
 - [fannypackui/fannypack](https://github.com/fannypackui/fannypack) - A friendly, themeable, accessible React UI Kit built with Reakit
 
+- [shoelace-style/shoelace: A forward-thinking library of web components.](https://github.com/shoelace-style/shoelace)
+
 ### Generic
 
 - [IBM Carbon Design System](https://www.carbondesignsystem.com/)
