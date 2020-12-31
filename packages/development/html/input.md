@@ -49,3 +49,10 @@ span.badge[contenteditable]:empty:focus::before {
 ## Input type="number" numpads
 
 - [I Wanted to Type a Number](https://www.filamentgroup.com/lab/type-number.html)
+
+## Trigger event for select option chage
+
+```js
+$0.options[1].selected = true;
+$0.dispatchEvent(new Event('change'));
+```
