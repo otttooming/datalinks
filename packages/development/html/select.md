@@ -1,7 +1,5 @@
 # Select
 
-- [Choices.js](https://github.com/jshjohnson/Choices) - A vanilla, lightweight (~15kb gzipped 🎉), configurable select box/text input plugin. Similar to Select2 and Selectize but without the jQuery dependency.
-
 ## Trigger event for select option chage
 
 ```js
