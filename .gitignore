@@ -68,3 +68,6 @@ coverage/
 
 # MacOS specific files
 .DS_Store
+
+# Work subdirectory
+work
