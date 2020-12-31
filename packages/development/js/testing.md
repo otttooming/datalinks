@@ -80,7 +80,7 @@
 
 ```js
 Object.defineProperty(HTMLSpanElement.prototype, 'offsetWidth', {
-  get: function() {
+  get: function () {
     return 5;
   },
 });

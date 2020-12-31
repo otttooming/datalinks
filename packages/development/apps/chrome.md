@@ -29,7 +29,7 @@
 ### designMode
 
 ```js
-javascript: (function() {
+javascript: (function () {
   document.designMode = document.designMode === 'on' ? 'off' : 'on';
 })();
 ```

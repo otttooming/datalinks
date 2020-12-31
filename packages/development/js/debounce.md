@@ -9,7 +9,7 @@
 ```js
 var fps = 15;
 function draw() {
-  setTimeout(function() {
+  setTimeout(function () {
     requestAnimationFrame(draw);
     // Drawing code goes here
   }, 1000 / fps);
