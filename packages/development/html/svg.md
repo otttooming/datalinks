@@ -4,13 +4,13 @@
 
 - [Icon System with SVG Sprites](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 
-* [How to Scale SVG](https://css-tricks.com/scale-svg/)
+- [How to Scale SVG](https://css-tricks.com/scale-svg/)
 
-* [SVGInjector](https://github.com/iconic/SVGInjector) - Fast, caching, dynamic inline SVG DOM injection library
+- [SVGInjector](https://github.com/iconic/SVGInjector) - Fast, caching, dynamic inline SVG DOM injection library
 
-* [SVG imagemap](http://thenewcode.com/760/Create-A-Responsive-Imagemap-With-SVG)
+- [SVG imagemap](http://thenewcode.com/760/Create-A-Responsive-Imagemap-With-SVG)
 
-* [Basic Responsive SVG Imagemap](https://codepen.io/dudleystorey/pen/doexPL)
+- [Basic Responsive SVG Imagemap](https://codepen.io/dudleystorey/pen/doexPL)
 
 ## Assets
 
