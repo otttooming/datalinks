@@ -5,6 +5,7 @@
     "husky": "^4.3.6",
     "lerna": "^3.22.1",
     "lint-staged": "^10.5.3",
+    "markdownlint-cli": "^0.26.0",
     "prettier": "^2.2.1"
   },
   "husky": {
@@ -18,6 +19,7 @@
     ]
   },
   "scripts": {
+    "lint:markdown": "markdownlint '**/*.md' --ignore node_modules",
     "prettier": "prettier --write --config .prettierrc \"**/*.{js,jsx,ts,tsx,json,css,scss,md,yaml,yml,html}\""
   }
 }
