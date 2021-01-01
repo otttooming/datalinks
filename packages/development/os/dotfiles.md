@@ -2,7 +2,7 @@
 
 ## MacOS
 
-- [mathiasbynens/dotfiles ](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
+- [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
 
 - [holman/dotfiles](https://github.com/holman/dotfiles)
 

@@ -6,7 +6,7 @@
 
 - [bhilburn/powerlevel9k](https://github.com/bhilburn/powerlevel9k) - Powerlevel9k is a theme for ZSH
 
-- [ogham/exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust. https://the.exa.website/
+- [ogham/exa](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust. <https://the.exa.website/>
 
 - [nicolargo/glances](https://github.com/nicolargo/glances) - A top/htop alternative
 
