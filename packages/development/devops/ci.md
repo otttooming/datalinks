@@ -7,6 +7,8 @@
 
 - [snowjs/cli](https://github.com/snowjs/cli/tree/secrets) - A CLI tool for dead simple Docker deployments on Kubernetes. A self-hosted PaaS.
 
+- [piku/piku: The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.](https://github.com/piku/piku)
+
 ## Monoreps
 
 - [lerna](https://github.com/lerna/lerna) - A tool for managing JavaScript projects with multiple packages.
