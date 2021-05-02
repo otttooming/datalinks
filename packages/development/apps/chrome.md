@@ -18,6 +18,8 @@
 
 - [PhantomJS maintainer stepping down after Google's headless Chromium announcement](https://www.reddit.com/r/javascript/comments/654mnq/phantomjs_maintainer_stepping_down_after_googles/)
 
+- [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
+
 ## Console
 
 ### Copy from console
