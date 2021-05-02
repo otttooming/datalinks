@@ -56,3 +56,7 @@ span.badge[contenteditable]:empty:focus::before {
 $0.options[1].selected = true;
 $0.dispatchEvent(new Event('change'));
 ```
+
+## Upload
+
+- [23/resumable.js](https://github.com/23/resumable.js) A JavaScript library for providing multiple simultaneous, stable, fault-tolerant and resumable/restartable uploads via the HTML5 File API.

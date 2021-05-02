@@ -6,7 +6,7 @@
 
 - [How to Scale SVG](https://css-tricks.com/scale-svg/)
 
-- [SVGInjector](https://github.com/iconic/SVGInjector) - Fast, caching, dynamic inline SVG DOM injection library
+- [gregberge/svgr: Transform SVGs into React components 🦁](https://github.com/gregberge/svgr)
 
 - [SVG imagemap](http://thenewcode.com/760/Create-A-Responsive-Imagemap-With-SVG)
 

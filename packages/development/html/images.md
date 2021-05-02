@@ -106,6 +106,10 @@
 
 - [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
 
+- [Ojoy](https://ojoy.netlify.app/) - Select a low-res photo or Memoji to enlarge it and improve its quality.
+
+- [idealo/image-super-resolution: 🔎 Super-scale your images and run experiments with Residual Dense and Adversarial Networks.](https://github.com/idealo/image-super-resolution)
+
 ## 360
 
 - [scaleflex/js-cloudimage-360-view](https://github.com/scaleflex/js-cloudimage-360-view)
