@@ -7,3 +7,5 @@
 - [Simple Analytics - Simple, clean, and privacy-friendly analytics](https://simpleanalytics.com/)
 
 - [Fast, simple and privacy-focused website analytics - Fathom Analytics](https://usefathom.com/)
+
+- [Splitbee – Your all-in-one analytics and conversion platform](https://splitbee.io/)

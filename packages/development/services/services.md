@@ -1,5 +1,7 @@
 # Services
 
+- [Design, Deploy and Depict powerful architectures](https://www.brainboard.co/)
+
 ## CDN
 
 - [cdnjs.com](https://cdnjs.com/)
@@ -21,6 +23,8 @@
 - [Cloudinary](https://cloudinary.com/) - Automate the entire image-processing pipeline: from uploads to on-the-fly manipulations to optimization to dynamic delivery with any CDN
 
 - [Cloudimage](https://www.cloudimage.io) - Cloudimage is the easiest way to optimize and accelerate images for the web
+
+- [OptiMole](https://optimole.com/) - Real-time Image Processing and Image CDN
 
 ## Internal tools
 
