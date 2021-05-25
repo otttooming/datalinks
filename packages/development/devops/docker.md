@@ -6,6 +6,8 @@
 
 - [HashiCorp Nomad](https://www.nomadproject.io/) - HashiCorp Nomad is a single binary that schedules applications and services on Linux, Windows, and Mac. It is an open source scheduler that uses a declarative job file for scheduling virtualized, containerized, and standalone applications.
 
+- [lirantal/dockly: Immersive terminal interface for managing docker containers and services](https://github.com/lirantal/dockly)
+
 ## Apps
 
 - [Kitematic by Docker](https://kitematic.com/) - Run containers through a simple, yet powerful graphical user interface.
