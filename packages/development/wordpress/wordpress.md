@@ -49,3 +49,5 @@
 ### Open APIs
 
 - [toddmotto/public-apis](https://github.com/toddmotto/public-apis)
+
+[JiLiZART/bbob](https://github.com/JiLiZART/bbob) ⚡️Blazing fast BBCode parser, that transforms and parses to AST with plugin support in pure javascript, no dependencies
