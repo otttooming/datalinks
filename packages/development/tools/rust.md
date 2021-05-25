@@ -2,6 +2,8 @@
 
 - [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - This Rust Cookbook is a collection of simple Rust examples that demonstrate good practices to accomplish common programming tasks, using the crates of the Rust ecosystem.
 
+- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
+
 ## Web frameworks
 
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - Rocket is web framework for Rust (nightly) with a focus on ease-of-use, expressibility, and speed.
@@ -19,3 +21,11 @@
 ## State management
 
 - [redux-rs/redux-rs](https://github.com/redux-rs/redux-rs) - A Rust implementation of Redux.
+
+## GraphQL
+
+- [async-graphql/async-graphql](https://github.com/async-graphql/async-graphql) - A GraphQL server library implemented in Rust
+
+## Node.js
+
+- [neon-bindings/neon: Rust bindings for writing safe and fast native Node.js modules.](https://github.com/neon-bindings/neon)
