@@ -15,3 +15,5 @@
 - [SVG logos](https://svgporn.com/)
 
 - [css.gg](https://github.com/astrit/css.gg) - Open-source CSS, SVG and Figma UI Icons
+
+- [Illustrations Gallery · ManyPixels](https://gallery.manypixels.co/)
