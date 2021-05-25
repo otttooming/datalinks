@@ -4,6 +4,8 @@
 
 - [gruns/ImmortalDB](https://github.com/gruns/ImmortalDB) - A relentless key-value store for the browser.
 
+- [oguimbal/pg-mem: An in memory postgres DB instance for your unit tests](https://github.com/oguimbal/pg-mem)
+
 ## Redis
 
 - [NodeRedis/node_redis](https://github.com/NodeRedis/node_redis) - redis client for node

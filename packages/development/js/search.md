@@ -10,6 +10,8 @@
 
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 
+- [meilisearch/MeiliSearch: Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine](https://github.com/meilisearch/MeiliSearch)
+
 ## JavaScript
 
 - [Fuse.js](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript

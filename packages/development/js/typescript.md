@@ -1,5 +1,7 @@
 # TypeScript
 
+[gvergnaud/ts-pattern: 🎨 A complete Pattern Matching library for TypeScript, with smart type inference.](https://github.com/gvergnaud/ts-pattern)
+
 ## Compilation
 
 ### Copy static assets

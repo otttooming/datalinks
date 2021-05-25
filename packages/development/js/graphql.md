@@ -12,6 +12,8 @@
 
 - [victorvoid/dinoql](https://github.com/victorvoid/dinoql) - A customizable GraphQL style query language for interacting with JavaScript objects.
 
+- [enisdenjo/graphql-ws: Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.](https://github.com/enisdenjo/graphql-ws)
+
 ## Clients
 
 - [nearform/graphql-hooks](https://github.com/nearform/graphql-hooks) - Minimal hooks-first GraphQL client
@@ -25,6 +27,8 @@
 - [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - A GraphQL tool to ease the creation of permission layer.
 
 - [accounts-js/accounts](https://github.com/accounts-js/accounts) - Fullstack authentication and accounts-management for Javascript
+
+- [mxstbr/passport-magic-login](https://github.com/mxstbr/passport-magic-login) - Passwordless authentication with magic links for Passport.js.
 
 ## Database
 
