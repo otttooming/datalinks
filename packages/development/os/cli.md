@@ -20,6 +20,8 @@
 
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps
 
+- [lirantal/nodejs-cli-apps-best-practices: The largest Node.js CLI Apps best practices list ✨](https://github.com/lirantal/nodejs-cli-apps-best-practices)
+
 ## Terminals
 
 - [Black Screen](https://github.com/vshatskyi/black-screen) - Black Screen is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron.
