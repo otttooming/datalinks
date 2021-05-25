@@ -1,5 +1,7 @@
 # Games
 
+- [Open Source Game Clones](https://osgameclones.com/)
+
 ## PC
 
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH)
@@ -20,9 +22,11 @@
 
 - [Fort Triumph on Steam](https://store.steampowered.com/app/612570/Fort_Triumph/)
 
-## Cemu Emulator
+## Nintendo emulation
 
 - [slashiee/cemu_graphic_packs](https://github.com/slashiee/cemu_graphic_packs)
+
+- [yuzu-emu/yuzu: Nintendo Switch Emulator](https://github.com/yuzu-emu/yuzu)
 
 ## Co-op
 
