@@ -32,6 +32,8 @@
 
 - [styled-system/styled-system](https://github.com/styled-system/styled-system) - Style props for rapid UI development
 
+- [callstack/linaria: Zero-runtime CSS in JS library](https://github.com/callstack/linaria)
+
 ## UI libraries
 
 - [Shards React](https://designrevision.com/docs/shards-react/getting-started)
@@ -49,3 +51,5 @@
 - [lukeed/clsx](https://github.com/lukeed/clsx) - A tiny (199B) utility for constructing `className` strings conditionally.
 
 - [lukeed/obj-str](https://github.com/lukeed/obj-str) - A tiny (96B) library for serializing Object values to Strings.
+
+- [jorgebucaran/classcat: Build a class attribute string quickly.](https://github.com/jorgebucaran/classcat)

@@ -28,6 +28,8 @@
 
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Essential cross-platform UI components for React Native
 
+- [snackui/snackui: SnackUI🍑 is a UI Kit for React Native + react-native-web that's much faster 🚀 with an optimizing compiler. Flatten your tree, improve performance, and extract atomic CSS for the web (including media queries and themes!)](https://github.com/snackui/snackui)
+
 ## Testing
 
 - [newsuk/dextrose](https://github.com/newsuk/dextrose) - React Native Snapshot Tool for Ios, Android & Web
