@@ -6,6 +6,10 @@
 
 - [oguimbal/pg-mem: An in memory postgres DB instance for your unit tests](https://github.com/oguimbal/pg-mem)
 
+- [harelba/q: q - Run SQL directly on CSV or TSV files](https://github.com/harelba/q)
+
+- [dinedal/textql: Execute SQL against structured text like CSV or TSV](https://github.com/dinedal/textql)
+
 ## Redis
 
 - [NodeRedis/node_redis](https://github.com/NodeRedis/node_redis) - redis client for node

@@ -1,5 +1,9 @@
 # React
 
+[RFC: Context selectors by gnoff · Pull Request #119 · reactjs/rfcs](https://github.com/reactjs/rfcs/pull/119)
+
+> In summary, adding this useContextSelector API would solve external state subscription incompatibilities with Concurrent React, eliminate a lot of complexity and code size in userland libraries, make almost any Context-using app the same speed or faster, and provide users with a more ergonomic alternative to the observedBits bailout optimization.
+
 - [React Bits](https://vasanthk.gitbooks.io/react-bits/) - A compilation of React Patterns, techniques, tips and tricks.
 
 ## Components

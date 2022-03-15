@@ -22,6 +22,8 @@
 
 - [Fort Triumph on Steam](https://store.steampowered.com/app/612570/Fort_Triumph/)
 
+- [GTAmodding/re3: GTA III, Vice City](https://github.com/GTAmodding/re3)
+
 ## Nintendo emulation
 
 - [slashiee/cemu_graphic_packs](https://github.com/slashiee/cemu_graphic_packs)
